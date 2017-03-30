@@ -3,4 +3,5 @@ host = "some-dataverse-host"
 newmap = './mappings/mappings.csv'
 humap = './mappings/humapping.csv'
 url = "http://www.some-url/cgi-bin/katalogus/tarkiser_en.pl"
+dataversepath = 'pilot'
 PUBLISH = 1
