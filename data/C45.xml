@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C45</dcterms:source>
+   <dcterms:title>TÁRKI - Youth 1993. Career starting possibilities and prospects of 14-18-year old young people in Hungary.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C45: TÁRKI - Youth 1993. Career starting possibilities and prospects of 14-18-year old young people in Hungary.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Garami, Erika</dcterms:creator>
+	<dcterms:creator>Tóth, Olga</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>difficulties of starting on one's career and unemployment; political attitudes, expectations of future and perspectives of young people, their living conditions, career and experiences so far</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>1993-10-01  1993-12-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 5000-person random sample of young people aged 14-18 in 1993 drawn from the data of the Hungarian State Demographic Record Office.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>5000</dcterms:subject>
+   <dcterms:subject>881</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

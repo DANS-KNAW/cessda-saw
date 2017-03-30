@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F10e</dcterms:source>
+   <dcterms:title>Inter-Ethnic Relations in the Carpathian Basin 1997-2000. Hungarians from Transylvania.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F10e: Inter-Ethnic Relations in the Carpathian Basin 1997-2000. Hungarians from Transylvania.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Csepeli, György</dcterms:creator>
+	<dcterms:creator>Horváth, István</dcterms:creator>
+	<dcterms:creator>Lazar, Marius</dcterms:creator>
+   <dcterms:contributor>Babes-Bólyai University Department of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Babes-Bólyai University Department of Sociology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>social and political contents of consciousness - fears, anomie, experiences of injustice, satisfaction, perception of the situation of the respondents own country, Euro-Atlantic integrational expectations, authoritarianism; national identity - national feeling, political and cultural national identity, ethnocentrism, national auto- and heterostereotypes, morality; majority-minority relationship- social distance (Bogardus scale), xenophobia, social networks, conflicts</dcterms:description>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>international politics and organisations</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+   <dcterms:subject>1997-10-01  1997-11-30</dcterms:subject>
+   <dcterms:coverage>Romania, Transylvania</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage, stratified sample. At the first stage settlements were categorized based on their ethnic composition. Three types were identified: the one with Hungarian majority, the parity model, and the one with Romanian majority. Samples were taken from all three types, considering the settlement size as well. Within the settlements the Leslie Kish-method was used to select a sample, treating the Hungarians or Romanians living in the specific settlement as separate sampling units.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-F10a</dcterms:subject>
+	<dcterms:subject>TDATA-F10b</dcterms:subject>
+	<dcterms:subject>TDATA-F10c</dcterms:subject>
+	<dcterms:subject>TDATA-F10d</dcterms:subject>
+	<dcterms:subject>TDATA-F10f</dcterms:subject>
+   <dcterms:subject>975</dcterms:subject>
+   <dcterms:subject>699</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

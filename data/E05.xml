@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E05</dcterms:source>
+   <dcterms:title>TÁRKI Household Monitor 1999. The financial and labor market position of Hungarian households.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E05: TÁRKI Household Monitor 1999. The financial and labor market position of Hungarian households.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Szivós, Péter</dcterms:creator>
+	<dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>individual and family property and income, money-spending and saving habits, cultural consumption, using free-time, employment, sources of income, additional income, pension fund membership and payments, assessment of one's own and the country's economic situation</dcterms:description>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+   <dcterms:subject>1999-04-20  1999-05-17</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A multi-stage, proportionately stratified probability household sample representative of the Hungarian population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D76</dcterms:subject>
+	<dcterms:subject>TDATA-E22</dcterms:subject>
+	<dcterms:subject>TDATA-E63</dcterms:subject>
+	<dcterms:subject>TDATA-F85</dcterms:subject>
+   <dcterms:subject>Variable E8HTFOVI can be used for separating the household sample (2024 cases), whereas variable H8LEGY0 makes it possible to separate out those responding to the individual questionnaire (3776 cases).</dcterms:subject>
+   <dcterms:subject>5440</dcterms:subject>
+   <dcterms:subject>1207</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation (income)</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

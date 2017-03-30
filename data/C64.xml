@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C64</dcterms:source>
+   <dcterms:title>ISSP 1994. Family and Changing Gender Roles II. Hungarian data.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C64: ISSP 1994. Family and Changing Gender Roles II. Hungarian data.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Róbert, Péter</dcterms:creator>
+	<dcterms:creator>Sági, Matild</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.2</dcterms:subject>
+   <dcterms:subject>2003-11-04: a subsequently prepared weight variable is added to the data file</dcterms:subject>
+   <dcterms:description>family life, attitudes toward family; questions concerning parliamentary elections and enterprises, respondent's enterprises</dcterms:description>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+   <dcterms:subject>1994-05-01  1994-06-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>National representative sample drawn from the Dwelling sample of the 1990 census recorded by the Central Statistical Office (KSH).</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A46</dcterms:subject>
+	<dcterms:subject>TDATA-B77</dcterms:subject>
+	<dcterms:subject>TDATA-C56</dcterms:subject>
+	<dcterms:subject>TDATA-C99</dcterms:subject>
+	<dcterms:subject>TDATA-D51</dcterms:subject>
+   <dcterms:subject>1500</dcterms:subject>
+   <dcterms:subject>216</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

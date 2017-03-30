@@ -1,0 +1,97 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D51</dcterms:source>
+   <dcterms:title>ISSP 1994. Family and Changing Gender Roles II. International data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D51: ISSP 1994. Family and Changing Gender Roles II. International data.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Ahrendt, Daphne</dcterms:creator>
+	<dcterms:creator>Bean, Clive</dcterms:creator>
+	<dcterms:creator>Becker, Jos</dcterms:creator>
+	<dcterms:creator>Brook, Lindsay</dcterms:creator>
+	<dcterms:creator>Calvi, Gabriele</dcterms:creator>
+	<dcterms:creator>Cichomski, Bogdan</dcterms:creator>
+	<dcterms:creator>Davis, James A.</dcterms:creator>
+	<dcterms:creator>Diez, Miguel</dcterms:creator>
+	<dcterms:creator>Dimova, Lilia</dcterms:creator>
+	<dcterms:creator>Dowds, Lizanne</dcterms:creator>
+	<dcterms:creator>Evans, Mariah D. R.</dcterms:creator>
+	<dcterms:creator>Gendall, Philip</dcterms:creator>
+	<dcterms:creator>Haller, Max</dcterms:creator>
+	<dcterms:creator>Höllinger, Franz</dcterms:creator>
+	<dcterms:creator>Jowell, Roger</dcterms:creator>
+	<dcterms:creator>Kelley, Jonathan</dcterms:creator>
+	<dcterms:creator>Khakhulina, Ludmilla</dcterms:creator>
+	<dcterms:creator>Kolosi, Tamás</dcterms:creator>
+	<dcterms:creator>Lewin-Epstein, Noah</dcterms:creator>
+	<dcterms:creator>Noack, Turid</dcterms:creator>
+	<dcterms:creator>Park, Alison</dcterms:creator>
+	<dcterms:creator>Sawinski, Zbigniew</dcterms:creator>
+	<dcterms:creator>Sermáková, Marie</dcterms:creator>
+	<dcterms:creator>Skrede, Kari</dcterms:creator>
+	<dcterms:creator>Smith, Tom W.</dcterms:creator>
+	<dcterms:creator>Svallfors, Stefan</dcterms:creator>
+	<dcterms:creator>Thagaard, Tove</dcterms:creator>
+	<dcterms:creator>Tsuji, Tomohiro</dcterms:creator>
+	<dcterms:creator>Yuchtman-Yaar, Eppie</dcterms:creator>
+	<dcterms:creator>D  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Mohler__Peter_Ph.">Mohler, Peter Ph.</a></dcterms:creator>
+	<dcterms:creator>SLO  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toš__Niko">Toš, Niko</a></dcterms:creator>
+	<dcterms:contributor>Fessel-Gfk (A)</dcterms:contributor>
+	<dcterms:contributor>Australian National University Research School of Social Sciences (AUS)</dcterms:contributor>
+	<dcterms:contributor>Datacol (AUS)</dcterms:contributor>
+	<dcterms:contributor>Agency of Social Analysis (BG)</dcterms:contributor>
+	<dcterms:contributor>Massey University Department of Marketing (BZ)</dcterms:contributor>
+	<dcterms:contributor>Carleton University Survey Centre (CAN)</dcterms:contributor>
+	<dcterms:contributor>Czech Academy of Sciences Institute of Sociology (CZ)</dcterms:contributor>
+	<dcterms:contributor>Centre for Survey Research and Methodology (D)</dcterms:contributor>
+	<dcterms:contributor>Central Archive for Empirical Social Research (D)</dcterms:contributor>
+	<dcterms:contributor>Center for Sociological Research (E)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center (H)</dcterms:contributor>
+	<dcterms:contributor>Social and Marketing Research Institute (I)</dcterms:contributor>
+	<dcterms:contributor>Tel Aviv University Department of Sociology and Anthropology (IL)</dcterms:contributor>
+	<dcterms:contributor>Economic and Social Research Institute (IRL)</dcterms:contributor>
+	<dcterms:contributor>Social Science Research Centre (IRL)</dcterms:contributor>
+	<dcterms:contributor>Broadcasting Culture Research Institute Public Opinion Research Division (J)</dcterms:contributor>
+	<dcterms:contributor>Norwegian Social Science Data Services (N)</dcterms:contributor>
+	<dcterms:contributor>NIPO (NL)</dcterms:contributor>
+	<dcterms:contributor>Polish Academy of Sciences Institute of Political Science (PL)</dcterms:contributor>
+	<dcterms:contributor>Social Weather Stations Inc. (RP)</dcterms:contributor>
+	<dcterms:contributor>The Russian Center for Public Opinion and Market Research (RUS)</dcterms:contributor>
+	<dcterms:contributor>Statistics Sweden (S)</dcterms:contributor>
+	<dcterms:contributor>University of Ljubljana Public Opinion and Mass Communication Research Centre (SLO)</dcterms:contributor>
+	<dcterms:contributor>Social and Community Planning Research (UK)</dcterms:contributor>
+	<dcterms:contributor>Policy and Planning Research Unit (UK)</dcterms:contributor>
+	<dcterms:contributor>University of Chicago National Opinion Research Center (USA)</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>family life, attitudes towards family and gender roles</dcterms:description>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+   <dcterms:subject>1993-12-01  1996-01-31</dcterms:subject>
+   <dcterms:coverage>international comparative survey</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Sample representative of the adult populations, where the age limit of adults varied from country to country.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, method varying from country to country.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B77</dcterms:subject>
+	<dcterms:subject>TDATA-C56</dcterms:subject>
+	<dcterms:subject>TDATA-C64</dcterms:subject>
+	<dcterms:subject>TDATA-C99</dcterms:subject>
+   <dcterms:subject>Participating countries: Australia (AUS), Austria (A), Bulgaria (BG), Czech Republic (CZ), United States of America (USA), Northern Ireland (NIRL), Philippines (RP), Netherlands (NL), Ireland (IRL), Israel (IS), Japan (J), Canada (CAN), Poland (PL), Hungary (H), Great Britain (GB), Germany (East) (D-E), Germany (West) (D-E), Norway (N), Italy (I), Russia (RUS), Spain (E), Sweden (S), Slovenia (SLO), New Zealand (NZ)</dcterms:subject>
+   <dcterms:subject>33590</dcterms:subject>
+   <dcterms:subject>196</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

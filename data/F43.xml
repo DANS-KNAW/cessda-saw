@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F43</dcterms:source>
+   <dcterms:title>Social Effect and Efficiency of Social Policy in Hungary 2000</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F43: Social Effect and Efficiency of Social Policy in Hungary 2000. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Ferge, Zsuzsa</dcterms:creator>
+   <dcterms:contributor>Szonda Ipsos</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>subjective experience of poverty, freedom and security; to what extent individuals consider certain freedoms important (press, religion, property etc.), to what extent they see this guaranteed, how they see the responsibility of the state, how tax-consciousness appears among them</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+   <dcterms:subject>2000-08-01  2000-08-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Two-stage stratified national representative random sample. The primary sampling units (settlements) nagyságukkal were included with a probability in proportion to their size, and then within the selected units an equal number of persons were randomly selected to be included in the sample. The source of the settlements in the sample was the T-STAR database purchased from the Hungarian Central Statistical Office (KSH), as well as the database purchased from the Central Központi Data Processing, Electoral and Registration Office (these are the most recent data describing the constant population by settlements). The addresses of the persons were selected from the purchased Central Központi Data Processing, Electoral and Registration Office sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D17h</dcterms:subject>
+	<dcterms:subject>TDATA-D17i</dcterms:subject>
+	<dcterms:subject>TDATA-D28b</dcterms:subject>
+	<dcterms:subject>TDATA-D56b</dcterms:subject>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>135</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English documentation</dcterms:subject>
+</entry>

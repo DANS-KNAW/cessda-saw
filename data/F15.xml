@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F15</dcterms:source>
+   <dcterms:title>Notions of the Nation and Politics Among Senior Secondary School Students in Hungary1996</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F15: Notions of the Nation and Politics Among Senior Secondary School Students in Hungary1996. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Szabó, Ildikó</dcterms:creator>
+   <dcterms:contributor>Minoritas Foundation Minority Research Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Minoritas Foundation Minority Research Institute</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the survey examined the organization of informational, value and attitude elements of citizenship culture among high school students in their last year</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+   <dcterms:subject>1996-05-20  1996-06-10</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 2600-person random probability national representative sample. Educational institutions were the units of selection, which were representative by regional location and number of students. Response rate: 96%.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>2610</dcterms:subject>
+   <dcterms:subject>436</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

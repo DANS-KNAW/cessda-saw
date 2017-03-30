@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E67</dcterms:source>
+   <dcterms:title>Vocational Training Expectations of Hungarian Enterprises, Conflicts and Local Solutions 1999</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E67: Vocational Training Expectations of Hungarian Enterprises, Conflicts and Local Solutions 1999. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Lannert, Judit</dcterms:creator>
+   <dcterms:contributor>TeleDirect</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Institute of Public Education</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>human resources management, expectations towards the new young workforce in the economic enterprises; the purpose of the survey was to map the relationship between the normal Hungarian enterprises in the countryside and the Hungarian vocational training; exploring the vocational training activities of companies</dcterms:description>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+   <dcterms:subject>1999-05-03  1999-05-10</dcterms:subject>
+   <dcterms:coverage>Debrecen, Kecskemét, Békéscsaba, Pápa, Szombathely</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The basic population consists of non-state economic enterprises which employ more than 20 persons, and which belong to the industrial or service providing sector in five big cities outside Budapest. It was based on a random selection from the company registry database of TeleDirect considering the criteria mentioned before. Another criterion in the selection of companies was whether or not there was fluctuation of labor in the past two years. The rate of refusing to answer was 19%.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>240</dcterms:subject>
+   <dcterms:subject>99</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

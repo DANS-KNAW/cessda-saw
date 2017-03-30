@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E85</dcterms:source>
+   <dcterms:title>Sociological Examination of Using Alternative Medicine and the Role It Plays the Health Care System in Hungary 1998</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E85: Sociological Examination of Using Alternative Medicine and the Role It Plays the Health Care System in Hungary 1998. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Buda, László</dcterms:creator>
+   <dcterms:contributor>University of Pécs Institute of Behavioral Sciences</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Pécs Institute of Behavioral Sciences</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>learning about "natural healing", the alternative and complementary healing methods (in short: alternative medicine - 'AM') aspects in connection with psychiatric and mental health, a deeper understanding of the role it fulfills in health care; mapping the meeting points between psychiatric, mental health and problems and alternative medicine</dcterms:description>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1998</dcterms:subject>
+   <dcterms:coverage>Debrecen, Pécs, Kaposvár, Zalaegerszeg</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>304 persons selected using a random sampling method out of the patients treated in the 6 montsh before the research in the psychiatric departments of 6 different hospitals. Random selection in fact meant technical accessibility. From this group a semi-structured deep interview was made in the case of 10 persons.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>304</dcterms:subject>
+   <dcterms:subject>104</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

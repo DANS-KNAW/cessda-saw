@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C66</dcterms:source>
+   <dcterms:title>ISSP 1987. Social Inequality I. Polish data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C66: ISSP 1987. Social Inequality I. Polish data.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Slomczynski, Kazimierz</dcterms:creator>
+   <dcterms:contributor>Polish Academy of Sciences Institute of Political Science</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>stratification, social inequalities</dcterms:description>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+   <dcterms:subject>1988</dcterms:subject>
+   <dcterms:coverage>Poland</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A random national representative sample of the adult population.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1894</dcterms:subject>
+   <dcterms:subject>362</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E89a</dcterms:source>
+   <dcterms:title>The social situation of the Roma in Hungary 1996. Roma youth continuing their education.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E89a: The social situation of the Roma in Hungary 1996. Roma youth continuing their education.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Kertesi, Gábor</dcterms:creator>
+   <dcterms:contributor>Szonda Ipsos</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Economic Sciences Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>examining the continuing of education of Roma sudents, with special regard to studying in high schools; their family circumstances; analysis of the factors influencing the decisions regarding continuing studies in the Roma population</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1996-10-10  1996-12-10</dcterms:subject>
+   <dcterms:coverage>Hungary, except for Fejér, Győr-Sopron-Moson, Komárom-Esztergom, Vas and Veszprém counties</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The basic population includes those Roma youth who received stipend from a foundation or local self-government between the academic years 1992/93 and 1996/97 for continuing their studies. A total of 4480 persons. To the collected 4480 addresses a short, one-page postal questionnaire was sent, and after they were posted back, based on the appropriately completed ones (a total of 2882), the final sample was identified. After identifying the students living in the same households, to avoid redundant data collection, 1000 addresses (and 600 supplementary addresses) were selected from the list containing a total of 2100 households. While finalizing the sample, one of the primary criteria was that we have an appropriate number of cases about each critical phase after students continuing their education after the eight grade in primary school. When deciding about the subsamples based on school types and their rates in comparison with each other, the researchers did not have representativity as their stated goal. The failure rate remained below 20%, and in the case of 184 failed interviews only in 35 cases did they refuse to answer. The unsuccessful interviews were of course replaced with addresses within the same school type category and preferably the same settlement. Ouf of the 1035 completed questionnaires, 59 ones had to be taken out as it turned out that the respondent was not Roma; another 2 questionnaires were excluded from the analysis because of serious mistakes in completion and missing data.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E89b</dcterms:subject>
+	<dcterms:subject>TDATA-E89c</dcterms:subject>
+	<dcterms:subject>TDATA-E89d</dcterms:subject>
+	<dcterms:subject>TDATA-E89e</dcterms:subject>
+   <dcterms:subject>1035</dcterms:subject>
+   <dcterms:subject>944</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

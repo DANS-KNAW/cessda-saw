@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F81</dcterms:source>
+   <dcterms:title>The Socio-Economic Status of Parents and the Gender Ratio of Their Children in Hungary 1999</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F81: The Socio-Economic Status of Parents and the Gender Ratio of Their Children in Hungary 1999. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Hüse, Lajos</dcterms:creator>
+   <dcterms:contributor>University of Debrecen College Department of Health</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Debrecen College Department of Health</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>social characteritics that might have influenced the birth parameters of newborn babies; looked for social factors to which the individual gives biological reactions; gathered data about the status-dependent development of three main child parameters, these were body weight and body length (they are unambiguously dependent on the environment)and sex ratios, which in theory develops as a result of statisctically random factor</dcterms:description>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+   <dcterms:subject>1998  1999</dcterms:subject>
+   <dcterms:coverage>Szabolcs-Szatmár-Bereg county</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A non-representative sample of mothers taking care of their newborn babies in the small and middle-size settlements of Szabolcs-Szatmár-Bereg county.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D (after 2008-08-01: A)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1271</dcterms:subject>
+   <dcterms:subject>193</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

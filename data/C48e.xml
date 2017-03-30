@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C48e</dcterms:source>
+   <dcterms:title>Social Stratification in Eastern Europe after 1989. General population and elite survey. Elite sample.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C48e: Social Stratification in Eastern Europe after 1989. General population and elite survey. Elite sample.. data sheet. Version: 2007-02-12</dcterms:subject>
+	<dcterms:creator>Buncak, Jan</dcterms:creator>
+	<dcterms:creator>Khakhulina, Ludmilla</dcterms:creator>
+	<dcterms:creator>Mateju, Petr</dcterms:creator>
+	<dcterms:creator>Petrova, Dimitrina</dcterms:creator>
+	<dcterms:creator>Szelényi, Iván</dcterms:creator>
+	<dcterms:creator>Treiman, Donald J.</dcterms:creator>
+	<dcterms:creator>Wasilewski, Jacek</dcterms:creator>
+	<dcterms:contributor>Sofia University Institute of Social Sciences and Environmental Studies (BG)</dcterms:contributor>
+	<dcterms:contributor>Czech Academy of Sciences Institute of Sociology (CZ)</dcterms:contributor>
+	<dcterms:contributor>Budapest University of Economic Sciences and Public Administration (H)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center (H)</dcterms:contributor>
+	<dcterms:contributor>Polish Academy of Sciences Institute of Political Science (PL)</dcterms:contributor>
+	<dcterms:contributor>Jagellonean University (PL)</dcterms:contributor>
+	<dcterms:contributor>Polish Academy of Sciences Institute of Sociology and Philosophy (PL)</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>University of California, Los Angeles</dcterms:contributor>
+	<dcterms:contributor>Utrecht University</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the social and economic situation, life style, prospects, family history, biography, political and economic activity of the elite before and after the regime change</dcterms:description>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>1993</dcterms:subject>
+   <dcterms:coverage>Bulgaria, Czech Republic, Poland, Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>2*1000-person non-representative samples were prepared for the old and new elite members in each country.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-C48g</dcterms:subject>
+   <dcterms:subject>The Russian and Slovak data are missing from the elite sample.</dcterms:subject>
+   <dcterms:subject>7326</dcterms:subject>
+   <dcterms:subject>1082</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

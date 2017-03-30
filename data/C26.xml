@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C26</dcterms:source>
+   <dcterms:title>MKI Economy 1988-3. Opinion of the Hungarian adult population about the economic reforms and the dam at Bős-Nagymaros.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C26: MKI Economy 1988-3. Opinion of the Hungarian adult population about the economic reforms and the dam at Bős-Nagymaros.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Tardos, Róbert</dcterms:creator>
+   <dcterms:contributor>Hungarian Public Opinion Research Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>opinions about the economy, the construction of the Bős-Nagymaros dam, the act on societies, personal changes in political life, the right of assembly; plan alternatives</dcterms:description>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>natural resources and environment</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:subject>1988-09-01  1988-09-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A random national representative sample of the adult population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>429</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

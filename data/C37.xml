@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C37</dcterms:source>
+   <dcterms:title>TÁRKI-C ISSP 1990. Role of Government II. Hungarian data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C37: TÁRKI-C ISSP 1990. Role of Government II. Hungarian data.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Róbert, Péter</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>The Hungarian Prime Ministers Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>evaluation of laws, opinions about the role, current activities of the government, political attitudes, party affiliation</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+   <dcterms:subject>1990-05-02  1990-05-21</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A 1000-person national sample from the TÁRKI A sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-C36</dcterms:subject>
+   <dcterms:subject>981</dcterms:subject>
+   <dcterms:subject>155</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

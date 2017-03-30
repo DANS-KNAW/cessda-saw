@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A84</dcterms:source>
+   <dcterms:title>Opinions of Trade Union Officials and Economic Leaders About the Economic Processes in Hungary 1986</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A84: Opinions of Trade Union Officials and Economic Leaders About the Economic Processes in Hungary 1986. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Farkas, László</dcterms:creator>
+   <dcterms:contributor>Academic Research Institute of Trade Unions</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Academic Research Institute of Trade Unions</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the economic situation in Hungary; satisfaction and political atmosphere; the respondent's own standard of living, and general knowledge about national and workplace issues</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1986-05-01  1986-05-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Drawn from 50 factories belonging to 13 different sectors of industry: about 55% Trade Union functionaries; 45% managers or white collar workers.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-A85</dcterms:subject>
+   <dcterms:subject>1490</dcterms:subject>
+   <dcterms:subject>55</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C95</dcterms:source>
+   <dcterms:title>European Election Study 1988-1989, Wave II. Political preferences among the population of the European Community.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C95: European Election Study 1988-1989, Wave II. Political preferences among the population of the European Community.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Eijk, Cees van der</dcterms:creator>
+	<dcterms:creator>Oppenhus, Erik</dcterms:creator>
+	<dcterms:creator>Schmitt, Hermann</dcterms:creator>
+   <dcterms:contributor>Dutch Institute for Scientific Information Services Steinmetz Archive</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>voting intentions, selection of parties in own country and Europe; mobilising European electoral campaign, participation and evaluation; opinions on the "EUROPESTATE", European Parliament, EEC, common European market, competence and efficiency of parties; interest in politics, parties taking right and left sides, opinions on political events, participation in them, their social backgrounds</dcterms:description>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>international politics and organisations</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+   <dcterms:subject>1988  1989</dcterms:subject>
+   <dcterms:coverage>Belgium, Denmark, France, Germany, Greece, Ireland, Italy, Luxemburg, Netherlands, Portugal, Spain, United Kingdom</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>EEC member countries participated in the investigation. Data on Northern Ireland were taken separately. Appr. 1000 persons were interviewed in each country, at three differemt times before and after the Europe Parliament elections. This is three independent random samples of the citizens of the member countries.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C94</dcterms:subject>
+	<dcterms:subject>TDATA-C96</dcterms:subject>
+   <dcterms:subject>11678</dcterms:subject>
+   <dcterms:subject>154</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

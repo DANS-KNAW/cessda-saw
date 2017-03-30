@@ -1,0 +1,66 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A58</dcterms:source>
+   <dcterms:title>Life Style and Quality of Life Study In Hungary 1977. People with limitation of motion, living in the Institute for People With Limitation of Motion.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A58: Life Style and Quality of Life Study In Hungary 1977. People with limitation of motion, living in the Institute for People With Limitation of Motion.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Hankiss, Elemér</dcterms:creator>
+	<dcterms:creator>Manchin, Róbert</dcterms:creator>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+	<dcterms:contributor>Hungarian Institute of Culture</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+	<dcterms:contributor>Hungarian Institute of Culture</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>A-B-S- questionnaire; childhood characteristics, life history, position, secure livelihood, child rearing principles, flat, studies, financial matters, job, influence, basic values, country, family, human relationships, school, dynamism, health, free-time, culture, satisfaction</dcterms:description>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>agriculture</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+   <dcterms:subject>1977</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Sample given by the National Institute for Medical Rehabilitation. The sample can be subdivided into two groups: people born with limitation of motion and those who have become limited in motion due to other reasons (eg. accident).</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A34</dcterms:subject>
+	<dcterms:subject>TDATA-A56</dcterms:subject>
+	<dcterms:subject>TDATA-A66</dcterms:subject>
+	<dcterms:subject>TDATA-A67</dcterms:subject>
+   <dcterms:subject>161</dcterms:subject>
+   <dcterms:subject>1179</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian "S" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "B" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "A" questionnaire</dcterms:subject>
+	<dcterms:subject>English "B" questionnaire</dcterms:subject>
+</entry>

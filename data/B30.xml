@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B30</dcterms:source>
+   <dcterms:title>The Role of Kinship Relations in the Life of the Elderly In Budapest, Based on the Hungarian 1984 Microcensus</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B30: The Role of Kinship Relations in the Life of the Elderly In Budapest, Based on the Hungarian 1984 Microcensus. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Cseh-Szombathy, László</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the family network of the aged and its characteristics; interactions between the aged and their relatives; opinions of the elderly about their relatives</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+   <dcterms:subject>1985</dcterms:subject>
+   <dcterms:coverage>Budapest</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A 200-person Budapest subsample from the old people sample of the 1984 microcensus.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>182</dcterms:subject>
+   <dcterms:subject>516</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-I16</dcterms:source>
+   <dcterms:title>International Social Survey Programme 201: Citizenship II. (ISSP 2014)</dcterms:title>
+   <dcterms:date>2017-03-10</dcterms:date>
+   <dcterms:subject> TDATA-I16:  International Social Survey Programme 201: Citizenship II. (ISSP 2014). data sheet. Version: 2017-03-10</dcterms:subject>
+   <dcterms:creator>Kolosi, Tamás</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:description>The ISSP 2014 ‘Citizen and state’ survey has a following topics: Qualities of a good citizen; attitude toward the right of public meetings for religious extremists, people who want to overthrow the government by force, or people prejudiced against any racial or ethnic group; social and political participation; memberships; importance of different people`s rights in democracy (scale);estimation of political influence possibilities (political efficacy); likeliness of counter-action against an unjust law and expected chance of serious attention to people`s demand; interest in politics; personal trust in politicians and people; political discussions with friends; opinion leadership in politics; national sovereignty and attitude to international organizations; attitude to the action of political parties; real policy choice between parties; attitude toward a referendum; level of honesty and fairness in the last national election; commitment to serve people and likeliness to correct own mistakes in public service; corruption in public service; functioning of democracy at present, in the past and in the future; frequencies of media use; respect for people and tolerance in case of disagreement; self-description of the habitation (residence); voter participation; voting behavior (recall).</dcterms:description>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the random walking method out of each strata. Numbers of selected persons are proportional to strata's size</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-G65</dcterms:subject>
+   <dcterms:subject>1007</dcterms:subject>
+   <dcterms:subject>162</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

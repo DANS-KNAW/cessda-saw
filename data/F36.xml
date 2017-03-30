@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F36</dcterms:source>
+   <dcterms:title>TÁRKI Opinion 2002. Longitudinal survey of the ethnic and political attitudes of the adult population in Hungary.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F36: TÁRKI Opinion 2002. Longitudinal survey of the ethnic and political attitudes of the adult population in Hungary.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Erős, Ferenc</dcterms:creator>
+	<dcterms:creator>Fábián, Zoltán</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Psychology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>several standardized attitude scales (used in former surveys) were employed to longitudinally examine the temporal change of various aspects in authoritarianism (shortened F scale), social distance (Bogardus scale), anti-Roma and anti-Semitic sentiments, and the relationship between ethnic attitudes and political attitudes; main topics: anti-Semitism, anti-Roma feelings, xenophobia, authoritarinism, ethnic minorities, democratic rights, freedom of speech, political tolerance, political attitudes</dcterms:description>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+   <dcterms:subject>2002-05-21  2002-05-27</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage, stratified, national probability sample representative of the population aged 18 and more having a registered place of residence in Hungary.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D13</dcterms:subject>
+	<dcterms:subject>TDATA-D56</dcterms:subject>
+	<dcterms:subject>TDATA-D91</dcterms:subject>
+	<dcterms:subject>TDATA-E37</dcterms:subject>
+	<dcterms:subject>TDATA-F12</dcterms:subject>
+   <dcterms:subject>1022</dcterms:subject>
+   <dcterms:subject>227</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

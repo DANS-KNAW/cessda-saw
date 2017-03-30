@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E57</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 2001/4. Social-political attitudes in Hungary among the adult population.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E57: TÁRKI Omnibus 2001/4. Social-political attitudes in Hungary among the adult population.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gazso__Tibor">Gazsó, Tibor</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Robert__Peter">Róbert, Péter</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toth__Istvan_Gy_rgy">Tóth, István György</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toth__Zsolt">Tóth, Zsolt</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (1.)</dcterms:contributor>
+	<dcterms:contributor>The Hungarian Prime Ministers Office (2.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (2.)</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>1) party preferences, popularity of politicians, evaluation of the work of the government and opposition, subjective financial situation, evaluating the economic situation of Hungary, opinion about the governments after the regime change 2) health of respondents and their family members, datosfaction with the received healt care services, opinion about the increased government control over hospitals, willingness to take risks</dcterms:description>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+   <dcterms:subject>2001-03-31  2001-04-17</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E63</dcterms:subject>
+   <dcterms:subject>Simultaneously with this survey, the first half of the Household Monitor 2001 (E63) was polled; the link between the two data files is made possible by the NDEGYEN variable.</dcterms:subject>
+   <dcterms:subject>1514</dcterms:subject>
+   <dcterms:subject>145</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

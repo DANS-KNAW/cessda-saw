@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F04</dcterms:source>
+   <dcterms:title>TÁRKI Student Loan 2001. Criteria of choosing a bank among Hungarian university and college students.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F04: TÁRKI Student Loan 2001. Criteria of choosing a bank among Hungarian university and college students.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Sági, Matild</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Economic Competition Authority</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>financing university / college studies, subjective financial situation, citeria for choosing a bank, habits of using bank account, bank factors in applying for student loan</dcterms:description>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>2001-11-27  2001-12-04</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A simple random sample was selected from universities and colleges in Hungary, then from the selected institutions regular students with bank accounts were asked; the number of interviewed students in an institution was in proportion to their number within the institution.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1030</dcterms:subject>
+   <dcterms:subject>141</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

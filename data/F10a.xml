@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F10a</dcterms:source>
+   <dcterms:title>Inter-Ethnic Relations in the Carpathian Basin. Southern Slovakian data file.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F10a: Inter-Ethnic Relations in the Carpathian Basin. Southern Slovakian data file.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Csepeli, György</dcterms:creator>
+	<dcterms:creator>Huncik, Péter</dcterms:creator>
+	<dcterms:contributor>Marketing Centrum</dcterms:contributor>
+	<dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Sándor Márai Foundation</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>social and political contents of consciousness - fears, anomie, experiences of injustice, satisfaction, perception of the situation of the respondents own country, Euro-Atlantic integrational expectations, authoritarianism; national identity - national feeling, political and cultural national identity, ethnocentrism, national auto- and heterostereotypes, morality; majority-minority relationship- social distance (Bogardus scale), xenophobia, social networks, conflicts</dcterms:description>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>international politics and organisations</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+   <dcterms:subject>1998</dcterms:subject>
+   <dcterms:coverage>Southern Slovakia</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The basic population includes the adult Hungarian and Slovak population in southern Slovakia. Multi-stage stratified sampling. At the first stage settlements were categorized based on their ethnic composition. Three types were identified: one with Hungarian majority, the parity type, and the one with Sloval majority. From all three types of settlements a sample was prepared, also considering settlement size. Within the settlements sampling was done using the Leslie Kish method, treating the Hungarians and Slovaks living in the settlement as separate sampling units. In the southern Slovakian sample, representativity according to the demographic data based on census data and the real Hungarian-Slovak ratio was secured by weighing the data.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-F10b</dcterms:subject>
+	<dcterms:subject>TDATA-F10c</dcterms:subject>
+	<dcterms:subject>TDATA-F10d</dcterms:subject>
+	<dcterms:subject>TDATA-F10e</dcterms:subject>
+	<dcterms:subject>TDATA-F10f</dcterms:subject>
+   <dcterms:subject>2168</dcterms:subject>
+   <dcterms:subject>594</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

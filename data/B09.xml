@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B09</dcterms:source>
+   <dcterms:title>Conditions and Possibilities of Co-operation between Educational Institutions and Families in the case of the Educational Center of Pécs 1984</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B09: Conditions and Possibilities of Co-operation between Educational Institutions and Families in the case of the Educational Center of Pécs 1984. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Mihály, Ottó</dcterms:creator>
+   <dcterms:contributor>Hungarian National Pedagogical Institute Center for School Research and Development</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian National Pedagogical Institute Center for School Research and Development</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>satisfaction and dissatisfaction with the Centre of Education, expectations and needs concerning the Centre; the features of child rearing in the families; social composition</dcterms:description>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+   <dcterms:subject>1984</dcterms:subject>
+   <dcterms:coverage>Pécs</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A stratified sample of families whose children attend the Centre of Education in the city of Pécs.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>351</dcterms:subject>
+   <dcterms:subject>1339</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

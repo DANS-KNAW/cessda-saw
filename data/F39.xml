@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F39</dcterms:source>
+   <dcterms:title>TÁRKI Immigrants 2002. The living conditions of immigrants migrating to Hungary.</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F39: TÁRKI Immigrants 2002. The living conditions of immigrants migrating to Hungary.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Gödri, Irén</dcterms:creator>
+	<dcterms:creator>Tóth, Pál Péter</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>education level of immigrants, financial situation before and after arrival, life and working conditions, and the porcess of integration</dcterms:description>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+   <dcterms:subject>2002-06-25  2002-07-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Stratified random sample. 1-1 persons were asked from 2543 households of 344 settlements, a total of 1015 persons. The sample included all cities with more than 6 immigrant households, and all big villages with 3, and all villages with more than 1 immigrant households.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1015</dcterms:subject>
+   <dcterms:subject>991</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

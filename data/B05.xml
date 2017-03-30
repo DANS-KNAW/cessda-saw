@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B05</dcterms:source>
+   <dcterms:title>Living Conditions of Young Married Couples Participating in Marriage Counseling in Miskolc and Nyíregyháza 1978</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B05: Living Conditions of Young Married Couples Participating in Marriage Counseling in Miskolc and Nyíregyháza 1978. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Kósa, Erzsébet</dcterms:creator>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the respondents' family environment, level of education, job, position; the level of education, job and housing conditions of the respondent's parents and grandparents; marriage attitudes</dcterms:description>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+   <dcterms:subject>1978</dcterms:subject>
+   <dcterms:coverage>Miskolc, Nyíregyháza</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Appr. 1400 engaged couples from the visitors to pre-marriage counseling in Miskolc and Nyíregyháza.</dcterms:subject>
+   <dcterms:subject>Self-administered questionnaires, and data sheets about the engaged couple filled out by the marriage counselor.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1264</dcterms:subject>
+   <dcterms:subject>266</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

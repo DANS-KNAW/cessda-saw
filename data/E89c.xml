@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E89c</dcterms:source>
+   <dcterms:title>The social situation of the Roma in Hungary 1996. Segregation indicators of all settlements.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E89c: The social situation of the Roma in Hungary 1996. Segregation indicators of all settlements.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Kertesi, Gábor</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Economic Sciences Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the Roma make up 4-5 percent of the population, the survey examined their ethnic-based residential segregation, changing of tendencies over time and the social effects of the segregation; the aim was the identification of the segregated Gypsy zones and their characterization with the help of aggregated data in the 1990 census data</dcterms:description>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+   <dcterms:subject>1990</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>administrative area</dcterms:subject>
+   <dcterms:subject>aggregate data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>No sampling. All Hungarian settlements, a total of 3095 settlements.</dcterms:subject>
+   <dcterms:subject>Summary of census data.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E89a</dcterms:subject>
+	<dcterms:subject>TDATA-E89b</dcterms:subject>
+	<dcterms:subject>TDATA-E89d</dcterms:subject>
+	<dcterms:subject>TDATA-E89e</dcterms:subject>
+   <dcterms:subject>3095</dcterms:subject>
+   <dcterms:subject>19</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

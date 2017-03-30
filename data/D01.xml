@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D01</dcterms:source>
+   <dcterms:title>ISSP 1992. Social Inequality II. Spanish data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D01: ISSP 1992. Social Inequality II. Spanish data.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Alberdi, Ines</dcterms:creator>
+	<dcterms:creator>Arango, Joaquin</dcterms:creator>
+   <dcterms:contributor>Center for Sociological Research</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>attitudes towards family, marriage, raising children, female employment</dcterms:description>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+   <dcterms:subject>1993-01-27  1993-02-01</dcterms:subject>
+   <dcterms:coverage>Spain</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A random national representative sample of the adult population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-D05</dcterms:subject>
+   <dcterms:subject>2502</dcterms:subject>
+   <dcterms:subject>102</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

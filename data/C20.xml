@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C20</dcterms:source>
+   <dcterms:title>TÁRKI-B Survey. Popular opinion about the Hungarian telephone situation, and refugees from Transylvania; ISSP 1989 Work I. Hungarian data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C20: TÁRKI-B Survey. Popular opinion about the Hungarian telephone situation, and refugees from Transylvania; ISSP 1989 Work I. Hungarian data.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Bokor, Ágnes</dcterms:creator>
+	<dcterms:creator>Csanádi, Gábor</dcterms:creator>
+	<dcterms:creator>Papp, Zoltán</dcterms:creator>
+	<dcterms:creator>Róbert, Péter</dcterms:creator>
+	<dcterms:creator>Sik, Endre</dcterms:creator>
+	<dcterms:creator>Tarjányi, József</dcterms:creator>
+	<dcterms:creator>Závecz, Tibor</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Hungarian Telecommunications Company</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>data on the use of the telephone, the way of getting a telephone, fees, opinion on services; family contacts in Transylvania, opinion about escape and its reasons; opinion about work, employer, unemployment and its problems</dcterms:description>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+   <dcterms:subject>1989-04-05  1989-05-02</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Three 1000-person national representative sample. The individual and postal blocks were asked from everyone, the ISSP questionnaire and the Transylvania questionnaire were asked from 1000 persons each.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C19</dcterms:subject>
+	<dcterms:subject>TDATA-D07</dcterms:subject>
+	<dcterms:subject>TDATA-F49</dcterms:subject>
+   <dcterms:subject>3000</dcterms:subject>
+   <dcterms:subject>497</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian "telephone" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "ISSP" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "Transylvania" questionnaire</dcterms:subject>
+	<dcterms:subject>English "telephone" questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E92</dcterms:source>
+   <dcterms:title>Life Situation of Lawyers After the Social Changes in Hungary 1998</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E92: Life Situation of Lawyers After the Social Changes in Hungary 1998. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Utasi, Ágnes</dcterms:creator>
+   <dcterms:contributor>University of Szeged Department of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Szeged Department of Sociology</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the purpose of the research was to track the changes in the life conditions, life style, activity, the stucture of consumption preferences of lawyers as affected by the social transformation; main topics: current status, work and family situation, family background, social mobility, cultural consumption, financial situation, life style, political attitudes, religious affiliation, proficiency in foreign languages</dcterms:description>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+   <dcterms:subject>1998-03-01  1998-05-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Random, diminishing sample. Every second lawyer from the 1997 registration of the Chamber of Advocates was included in the sample; the questionnaire was posted to them; the response rate was 35,5%.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1293</dcterms:subject>
+   <dcterms:subject>294</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

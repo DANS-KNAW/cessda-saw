@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D69</dcterms:source>
+   <dcterms:title>Party Preferences of the Population in Hungary 1993.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D69: Party Preferences of the Population in Hungary 1993.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Hann, Endre</dcterms:creator>
+	<dcterms:creator>Tóka, Gábor</dcterms:creator>
+   <dcterms:contributor>Median</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Central European University</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>media consumption, economic situation, socio-economic attitudes, religiousness, political interest, trust, current party preferences, voting at the latest parliamentary elections, reasons of sympathy and antipathy towards the six most important parties; satisfaction with the government and democracy</dcterms:description>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+   <dcterms:subject>1993-12-01  1993-12-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Non-institutional custody, a 3% sample of the population aged 18 or more stratified by settlement. Respondents were selected using the Leslie Kish-key in the specific settlement.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D68</dcterms:subject>
+	<dcterms:subject>TDATA-D70</dcterms:subject>
+	<dcterms:subject>TDATA-D71</dcterms:subject>
+   <dcterms:subject>1200</dcterms:subject>
+   <dcterms:subject>159</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+	<dcterms:subject>English documentation</dcterms:subject>
+</entry>

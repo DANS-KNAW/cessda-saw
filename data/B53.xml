@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B53</dcterms:source>
+   <dcterms:title>The Process of Value Transmission in Vocational Training Schools In Budapest 1983-1984. Sample of school directors.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B53: The Process of Value Transmission in Vocational Training Schools In Budapest 1983-1984. Sample of school directors.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Garbacz, Teréz</dcterms:creator>
+   <dcterms:contributor>Hungarian National Pedagogical Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>value preference types of school leaders; declared values of school leadership; declared and actual values of teachers and pupils</dcterms:description>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+   <dcterms:subject>1983  1984</dcterms:subject>
+   <dcterms:coverage>Budapest</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>455 directors, 201 teachers (Budapest), 804 pupils (Budapest) at vocational schools with three-year training programme.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B35</dcterms:subject>
+	<dcterms:subject>TDATA-B52</dcterms:subject>
+   <dcterms:subject>455</dcterms:subject>
+   <dcterms:subject>218</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

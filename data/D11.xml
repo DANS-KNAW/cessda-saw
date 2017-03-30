@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D11</dcterms:source>
+   <dcterms:title>TÁRKI - Education of Nationalities 1995. Schooling expectations of national minority parents in Hungary.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D11: TÁRKI - Education of Nationalities 1995. Schooling expectations of national minority parents in Hungary.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Ministry of Culture and Public Education</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>parents of minority nationalities express their expectations of the education system; their relation to the nationality language and group, images of their children's future; the importance of promoting handing down the language, preserving nationality roots; participation in running nationality schools; ideas about the future of the children, and motivations behind the decisions related to these plans</dcterms:description>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+   <dcterms:subject>1995-01-01  1995-04-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The sample focuses on 6 nationalities; within each nationality two subsamples were prepared, a basic and a control sample. Only those parents were included in the basic sample whose children participated in national minority education, whereas the control group consisted of parents whose children did not participate in national minority education. In this latter case the condition of selection was that at least one family member be of national minority origin. 2500 persons were askd to participate in the research.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>2164</dcterms:subject>
+   <dcterms:subject>382</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F20</dcterms:source>
+   <dcterms:title>Opinions About Suspending the TV Programme A "Heti Hetes" Among the Hungarian Population 2002</dcterms:title>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F20: Opinions About Suspending the TV Programme A "Heti Hetes" Among the Hungarian Population 2002. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Sági, Matild</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>RTL Club</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>opinions about the programme "Heti Hetes", and its discontinuation during the period of parliamentary election campaign</dcterms:description>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+   <dcterms:subject>2002-01-16  2002-01-17</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A non-representative random probability sample of the adult population.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1007</dcterms:subject>
+   <dcterms:subject>31</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

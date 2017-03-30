@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B82</dcterms:source>
+   <dcterms:title>Heart Attack 1988. The social risks of the cardiovascular diseases of the Hungarian population.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B82: Heart Attack 1988. The social risks of the cardiovascular diseases of the Hungarian population.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Duba, Jenő</dcterms:creator>
+   <dcterms:contributor>Hungarian Cardiological Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>relationship between social structure, life style and consciousness, the risk factors of cardio-vascular diseases and the system of their relationships</dcterms:description>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+   <dcterms:subject>1988  1989</dcterms:subject>
+   <dcterms:coverage>Budapest, Pécs, Baranya county</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Random sample taken from residents in Budapest IX., X., and XVII. districts, Pécs, and 16 villages in Baranya county; sample aged 24-64.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>4243</dcterms:subject>
+   <dcterms:subject>574</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

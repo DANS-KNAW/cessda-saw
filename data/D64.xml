@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D64</dcterms:source>
+   <dcterms:title>TÁRKI Fortune 1999. Public opinion about gambling in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D64: TÁRKI Fortune 1999. Public opinion about gambling in Hungary.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Szivós, Péter</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Fortuna Advertising Agency Ltd.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>willingness to take risks, inclination to invent new things, economizing, the effect of the magnitude of the prize on participation in lottery, knowledge about the games of the Office of the National Lottery and participation in them, habits of buying lottery, playing internet games, opinions about the transparency of lottery, satisfaction with the Office of the National Lottery (with the company, with advertisements, with Tv programmes)</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+   <dcterms:subject>1999-09-24  1999-10-13</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>3540</dcterms:subject>
+   <dcterms:subject>620</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

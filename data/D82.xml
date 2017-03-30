@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D82</dcterms:source>
+   <dcterms:title>TÁRKI - Public Safety 1998. Popular opinion about the Hungarian public safety.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D82: TÁRKI - Public Safety 1998. Popular opinion about the Hungarian public safety.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Kolosi, Tamás</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Ministry of the Interior Department of Public Relations</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>trust in national institutions and organizations, evaluation of the tasks and the effectiveness of the Ministry of Internal Affairs and the police, evaluation of the public safety of the residenial environment, fears of the population, evaluation of the number of the police force, trust in policemen and civil guardsmen, relying on and evaluation of police measures, evaluation of the importance of combatting crime and the possibe tools that can be used</dcterms:description>
+	<dcterms:subject>law enforcement</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:subject>1998-10-09  1998-10-19</dcterms:subject>
+   <dcterms:coverage>Budapest, Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Respondents were included in the sample based on a national and a Budapest probability sample. The Budapest sample was created with a sampling process that stratified the sample based on districts. The national sample was created with a multi-stage, proportionally stratified selection. At the first stage settlements were selected based on 9 settlement strata. At the second stage a simple random sampling process defined the number of persons in the sample from the specific settlements based on the population ratio of the individual strata. The name and address of the concrete individuals were selected from the database of the Central Registration and Electorial Bureau with a simple random selection. The dropped out addresses were replaced with supplementary addresses, where the Leslie Kish-key was used to identify the respondent from the household members.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The survey consists of a national (1010 cases) and a Budapest (511 cases) subsample. For an analysis which has the appropriate validity range, the appropriate weight variable has to be used.</dcterms:subject>
+   <dcterms:subject>1521</dcterms:subject>
+   <dcterms:subject>221</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

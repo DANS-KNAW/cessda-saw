@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C79</dcterms:source>
+   <dcterms:title>Division of Labor and Job Promotion of Married Parents with Young Children in Hungary 1991. Sample of single mothers.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C79: Division of Labor and Job Promotion of Married Parents with Young Children in Hungary 1991. Sample of single mothers.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Pongrácz, Tiborné</dcterms:creator>
+	<dcterms:creator>S. Molnár, Edit</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>parental leave and child care allowance; relation between bringing up children and job promotion; distribution of household work and childcare with partner; the problems of bringing up children</dcterms:description>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+   <dcterms:subject>1991</dcterms:subject>
+   <dcterms:coverage>Budapest, Győr and its agglomeration, Debrecen and its agglomeration, Szeged and its agglomeration</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Random sample of parents bringing up their small children. A single mother: living by herself or in cohabitation.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C77</dcterms:subject>
+	<dcterms:subject>TDATA-C78</dcterms:subject>
+   <dcterms:subject>Part of an international investigation with the participation of Germany, France, Poland and Hungary.</dcterms:subject>
+   <dcterms:subject>202</dcterms:subject>
+   <dcterms:subject>414</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

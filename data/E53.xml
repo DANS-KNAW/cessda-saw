@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E53</dcterms:source>
+   <dcterms:title>TÁRKI Weapon 2001. Public opinion about permitting the possession of weapons for self-defence in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E53: TÁRKI Weapon 2001. Public opinion about permitting the possession of weapons for self-defence in Hungary.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Sági, Matild</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Ministry of the Interior</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>about the permission to keep weapons for self-defence in case of a) certain state and self-government officials (ministers, secretaries of state, heads of department in ministries, mayors) b) those working in jurisdiction (judges, prosecuting attorneys) and c) Members of Parliament; opinions about the weapon keeping of those doing property protection</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+   <dcterms:subject>2001-03-02  2001-03-03</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The 3000-person sample was randomly selected from the respondents of the Omnibus surveys made in 2000; these repondents had to be on the phone, and be over 18 years. From this sample, the interviewers had to interview 1000 persons, in the order of the prepared telephone list.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1018</dcterms:subject>
+   <dcterms:subject>19</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

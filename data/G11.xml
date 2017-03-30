@@ -1,0 +1,133 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G11</dcterms:source>
+   <dcterms:title>International Social Survey Programme 2002: Family and Changing Gender Roles III (ISSP 2002)</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G11: International Social Survey Programme 2002: Family and Changing Gender Roles III (ISSP 2002). data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Briceno-Leon, Roberto</dcterms:creator>
+	<dcterms:creator>Kim, Sang-Wook</dcterms:creator>
+	<dcterms:creator>Piani, Giorgina</dcterms:creator>
+	<dcterms:creator>Rossi, Maximo</dcterms:creator>
+	<dcterms:creator>A  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Hadler__Markus">Hadler, Markus</a></dcterms:creator>
+	<dcterms:creator>A  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Haller__Max">Haller, Max</a></dcterms:creator>
+	<dcterms:creator>A  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Hoellinger__Franz">Hoellinger, Franz</a></dcterms:creator>
+	<dcterms:creator>AUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gibson__Rachel">Gibson, Rachel</a></dcterms:creator>
+	<dcterms:creator>BG  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Dimova__Lilia">Dimova, Lilia</a></dcterms:creator>
+	<dcterms:creator>BR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Scalon__Maria_Celi">Scalon, Maria Celi</a></dcterms:creator>
+	<dcterms:creator>CDN  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Pyman__Heather">Pyman, Heather</a></dcterms:creator>
+	<dcterms:creator>CH  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Joye__Dominique">Joye, Dominique</a></dcterms:creator>
+	<dcterms:creator>CY  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Papageorgiou__Bambos">Papageorgiou, Bambos</a></dcterms:creator>
+	<dcterms:creator>CZ  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Mateju__Petr">Mateju, Petr</a></dcterms:creator>
+	<dcterms:creator>DK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Andersen__Johannes">Andersen, Johannes</a></dcterms:creator>
+	<dcterms:creator>DK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Andersen__Jorgen_Goul">Andersen, Jorgen Goul</a></dcterms:creator>
+	<dcterms:creator>DK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Tobiasen__Mette">Tobiasen, Mette</a></dcterms:creator>
+	<dcterms:creator>E  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Diez-Nicolas__Juan">Díez-Nicolas, Juan</a></dcterms:creator>
+	<dcterms:creator>E  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Garcia_Padro__Natalia">Garcia Padro, Natalia</a></dcterms:creator>
+	<dcterms:creator>FLA  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Billiet__Jaak">Billiet, Jaak</a></dcterms:creator>
+	<dcterms:creator>FLA  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Carton__Ann">Carton, Ann</a></dcterms:creator>
+	<dcterms:creator>FR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Brechon__Pierre">Bréchon, Pierre</a></dcterms:creator>
+	<dcterms:creator>FR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Cautres__Bruno">Cautres, Bruno</a></dcterms:creator>
+	<dcterms:creator>FR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Chauvel__L">Chauvel, L</a></dcterms:creator>
+	<dcterms:creator>FR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Degenne__A">Degenne, A</a></dcterms:creator>
+	<dcterms:creator>FR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Forse__M">Forsé, M</a></dcterms:creator>
+	<dcterms:creator>FR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Lemmel__Yannick">Lemmel, Yannick</a></dcterms:creator>
+	<dcterms:creator>GB  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Jowell__Roger">Jowell, Roger</a></dcterms:creator>
+	<dcterms:creator>GB  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Park__Alison">Park, Alison</a></dcterms:creator>
+	<dcterms:creator>GR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Harkness__Janet">Harkness, Janet</a></dcterms:creator>
+	<dcterms:creator>GR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Klein__Sabine">Klein, Sabine</a></dcterms:creator>
+	<dcterms:creator>GR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Mohler__Peter">Mohler, Peter</a></dcterms:creator>
+	<dcterms:creator>GR  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Scholz__Eva">Scholz, Eva</a></dcterms:creator>
+	<dcterms:creator>H  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Robert__Peter">Robert, Péter</a></dcterms:creator>
+	<dcterms:creator>I  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Diotallevi__Luca">Diotallevi, Luca</a></dcterms:creator>
+	<dcterms:creator>IL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Lewin-Epstein__Noah">Lewin-Epstein, Noah</a></dcterms:creator>
+	<dcterms:creator>IL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Yuchtman-Yaar__Eppie">Yuchtman-Yaar, Eppie</a></dcterms:creator>
+	<dcterms:creator>IRL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Caithness__Philippa">Caithness, Philippa</a></dcterms:creator>
+	<dcterms:creator>IRL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Conor__Wald">Conor, Wald</a></dcterms:creator>
+	<dcterms:creator>IRL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Phadraig__Marie_Nic_Ghollia">Phadraig, Marie Nic Ghollia</a></dcterms:creator>
+	<dcterms:creator>J  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Aramaki__Hiroshi">Aramaki, Hiroshi</a></dcterms:creator>
+	<dcterms:creator>LV  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Tabuna__Ausma">Tabuna, Ausma</a></dcterms:creator>
+	<dcterms:creator>LV  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Tubuns__Aivars">Tubuns, Aivars</a></dcterms:creator>
+	<dcterms:creator>MEX  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Guiterrez__Federico_Curiel">Guiterrez, Federico Curiel</a></dcterms:creator>
+	<dcterms:creator>N  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Henrichsen__Bj_rn">Henrichsen, Björn</a></dcterms:creator>
+	<dcterms:creator>N  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kolsrud__Kirstine">Kolsrud, Kirstine</a></dcterms:creator>
+	<dcterms:creator>N  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Skjak__Knut_Kalgraff">Skjak, Knut Kalgraff</a></dcterms:creator>
+	<dcterms:creator>NL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Becker__Jos">Becker, Jos</a></dcterms:creator>
+	<dcterms:creator>NZ  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gendall__Philip">Gendall, Philip</a></dcterms:creator>
+	<dcterms:creator>P  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Cabral__Manuel_Villaverde">Cabral, Manuel Villaverde</a></dcterms:creator>
+	<dcterms:creator>P  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Ramos__Alice">Ramos, Alice</a></dcterms:creator>
+	<dcterms:creator>Pl  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Cichomski__Bogdan">Cichomski, Bogdan</a></dcterms:creator>
+	<dcterms:creator>RCH  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Lehmann__Carla">Lehmann, Carla</a></dcterms:creator>
+	<dcterms:creator>RP  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Mangahas__Mahar">Mangahas, Mahar</a></dcterms:creator>
+	<dcterms:creator>RUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Khakhulina__Ludmilla">Khakhulina, Ludmilla</a></dcterms:creator>
+	<dcterms:creator>S  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Edlund__Jolas">Edlund, Jolas</a></dcterms:creator>
+	<dcterms:creator>SF  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Blom__Raimo">Blom, Raimo</a></dcterms:creator>
+	<dcterms:creator>SF  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Borg__Sami">Borg, Sami</a></dcterms:creator>
+	<dcterms:creator>SF  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Melin__Harri">Melin, Harri</a></dcterms:creator>
+	<dcterms:creator>SF  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Tanskanen__Eero">Tanskanen, Eero</a></dcterms:creator>
+	<dcterms:creator>SK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Piscova__Magdalena">Piscova, Magdalena</a></dcterms:creator>
+	<dcterms:creator>SLO  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Hafner-Fink__Mitja">Hafner-Fink, Mitja</a></dcterms:creator>
+	<dcterms:creator>TWN  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Fu__Yang-chih">Fu, Yang-chih</a></dcterms:creator>
+	<dcterms:creator>USA  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Smith__Tom_W.">Smith, Tom W.</a></dcterms:creator>
+	<dcterms:creator>ZA  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Struwig__Jare">Struwig, Jare</a></dcterms:creator>
+	<dcterms:contributor>Research School of Social Sciences</dcterms:contributor>
+	<dcterms:contributor>Departamento de Economia, Facultad de Ciencias Sociales,Universidad de la Republica</dcterms:contributor>
+	<dcterms:contributor>Sungyunkwan University Survey Research Center</dcterms:contributor>
+	<dcterms:contributor>University of Graz Institute of Sociology (A)</dcterms:contributor>
+	<dcterms:contributor>Australian National University Research School of Social Sciences (AUS)</dcterms:contributor>
+	<dcterms:contributor>Agency for Social Analyses (BG)</dcterms:contributor>
+	<dcterms:contributor>Instituto Universitario de Pesquisas do Rio de Janeiro (BR)</dcterms:contributor>
+	<dcterms:contributor>Carleton University Survey Centre (CDN)</dcterms:contributor>
+	<dcterms:contributor>Swiss Information and Data Archive for the Social Sciences (CH)</dcterms:contributor>
+	<dcterms:contributor>Cyprus College Center of Applied Research (CY)</dcterms:contributor>
+	<dcterms:contributor>Czech Academy of Sciences Institute of Sociology (CZ)</dcterms:contributor>
+	<dcterms:contributor>Aalborg University Department of Economics, Politics, and Public Administration (DK)</dcterms:contributor>
+	<dcterms:contributor>Sociological, Economic and Political Analysis (E)</dcterms:contributor>
+	<dcterms:contributor>Administration of Planning and Statistics &#8211; Ministry of Flanders (FLA)</dcterms:contributor>
+	<dcterms:contributor>FRANCE-ISSP Association (FR)</dcterms:contributor>
+	<dcterms:contributor>National Centre for Social Research - London (GB)</dcterms:contributor>
+	<dcterms:contributor>Centre for Survey Research and Methodology (GR)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (H)</dcterms:contributor>
+	<dcterms:contributor>CENSIS (I)</dcterms:contributor>
+	<dcterms:contributor>Tel Aviv University Department of Sociology and Anthropology (IL)</dcterms:contributor>
+	<dcterms:contributor>University of Dublin Department of Social Science (IRL)</dcterms:contributor>
+	<dcterms:contributor>Broadcasting Culture Research Institute (J)</dcterms:contributor>
+	<dcterms:contributor>Institute of Philosophy and Sociology (LV)</dcterms:contributor>
+	<dcterms:contributor>Mexico Institute of Marketing and Opinion (MEX)</dcterms:contributor>
+	<dcterms:contributor>Norwegian Social Science Data Services (N)</dcterms:contributor>
+	<dcterms:contributor>Social and Cultural Planning Office of the Netherlands (NL)</dcterms:contributor>
+	<dcterms:contributor>Massey University Department of Marketing (NZ)</dcterms:contributor>
+	<dcterms:contributor>University of Lisbon Instituo de Ci&#234;ncias SociaisUniversity of Lisbon (P)</dcterms:contributor>
+	<dcterms:contributor>Warsaw University Institute for Social Studies (PL)</dcterms:contributor>
+	<dcterms:contributor>(RCH)</dcterms:contributor>
+	<dcterms:contributor>Levada Analytic Center (RUS)</dcterms:contributor>
+	<dcterms:contributor>University of Umea Department of Sociology (S)</dcterms:contributor>
+	<dcterms:contributor>University of Tampere Department of Sociology and Social Psychology  (SF)</dcterms:contributor>
+	<dcterms:contributor>Slovak Academy of Sciences Institute of Sociology (SK)</dcterms:contributor>
+	<dcterms:contributor>University of Ljubljana Public Opinion and Mass Communication Research Centre (SLO)</dcterms:contributor>
+	<dcterms:contributor>Academica Sinica Institute of Sociolog (TWN)</dcterms:contributor>
+	<dcterms:contributor>University of Chicago National Opinion Research Center (USA)</dcterms:contributor>
+	<dcterms:contributor>Human Science Research Council (ZA)</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>Attitude towards employment of mothers and married women; role distribution of man and woman in occupation and household; preferred extent of employment for women during different stages of child raising; attitudes towards marriage, single-parenting, cohabitation before marriage, and divorce; views on the significance of children in life; views on paid maternity leave and on financial aid for working parents; management of income in marriage or partnership; allocation of duties in the household and in family matters; time budget for housekeeping and sharing of housekeeping for both partners; frequency of disagreement about the sharing of housekeeping; decision making in matters of child raising, weekend activities and buying major things for home; principal earner (partner with higher income); stress caused by family, work and household duties (scale); estimation of general personal happiness; satisfaction with employment situation and family life; employment of mother during childhood of respondent; employment in various phases of child raising</dcterms:description>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Sampling procedures differ for the individual countries: Partly simple,partly multi-stage stratified random sample of respondents 18 years oldand older</dcterms:subject>
+   <dcterms:subject>Oral, paper and pencil resp. postal interview with standardised questionnaire</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>46638</dcterms:subject>
+   <dcterms:subject>234</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

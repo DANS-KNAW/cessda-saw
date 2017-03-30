@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C58</dcterms:source>
+   <dcterms:title>TÁRKI-D Telephone Supply (Individual) 1990. Telecommunication habits of the population in Hungary.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C58: TÁRKI-D Telephone Supply (Individual) 1990. Telecommunication habits of the population in Hungary.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Papp, Zoltán</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Telecommunications Company</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>consumer behavior of subscribers</dcterms:description>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+   <dcterms:subject>1990</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>808 individuals residing in the 10 settlements selected by the customer.</dcterms:subject>
+   <dcterms:subject>Self-completed diaries and data collection with questionnaire administered by interviewers.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-C59</dcterms:subject>
+   <dcterms:subject>808</dcterms:subject>
+   <dcterms:subject>658</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

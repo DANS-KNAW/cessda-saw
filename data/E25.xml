@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E25</dcterms:source>
+   <dcterms:title>TÁRKI Changes 2000. The opinion of the adult population about the democratic political culture in Hungary.</dcterms:title>
+   <dcterms:creator>Szabó, Valéria</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E25: TÁRKI Changes 2000. The opinion of the adult population about the democratic political culture in Hungary.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Csizér, Kata</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>opinions about democracy, democratic society; trust in public institutions; subjective financial situation, economic expectations; evaluation of the economic participation of the state; political prejudices; evaluation of NATO membership and participation; opinions about the EU accession; national consciousness, national identity; popularity of politicians, party preferences</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>international politics and organisations</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+   <dcterms:subject>2000-06-21  2000-06-28</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the Leslie Kish key and the random walking method.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-F01</dcterms:subject>
+	<dcterms:subject>TDATA-F54</dcterms:subject>
+   <dcterms:subject>1022</dcterms:subject>
+   <dcterms:subject>189</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

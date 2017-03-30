@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F61</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 2002/12/B</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-11-04</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F61: TÁRKI Omnibus 2002/12/B. data sheet. Version: 2010-11-04</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Blasko__Zsuzsa">Blaskó, Zsuzsa</a></dcterms:creator>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Speder__Zsolt">Spéder, Zsolt</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Hriczu__Anita">Hriczu, Anita</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Onodi__Tamas">Onodi, Tamás</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sagi__Matild">Sági, Matild</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute (1.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of Education (2.)</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+   <dcterms:subject>2002-12-03  2002-12-12</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>Block 1: B, block 2: D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1023</dcterms:subject>
+   <dcterms:subject>366 (246)</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

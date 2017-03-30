@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G07</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 2004/10. Social-political attitudes in Hungary among the adult population.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-11-23</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G07: TÁRKI Omnibus 2004/10. Social-political attitudes in Hungary among the adult population.. data sheet. Version: 2010-11-23</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gazso__Tibor">Gazsó, Tibor</a></dcterms:creator>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Robert__Peter">Róbert, Péter</a></dcterms:creator>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toth__Istvan_Gy_rgy">Tóth, István György</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Medgyesi__Marton">Medgyesi, Márton</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Missura__Gabor">Missura, Gábor</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Nikowitz__Geza">Nikowitz, Géza</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Bognar__Adrienn">Bognár, Adrienn</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Suranyi__Peter">Surányi, Péter</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (1.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (1.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian National Bank (2.)</dcterms:contributor>
+	<dcterms:contributor>Auto News Ltd. (3.)</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+   <dcterms:subject>2004-10-12  2004-10-25</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>1. block (3-20. quest.): A,  2. block (21-44. quest.): D, 3. block (405. quest.): D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>862</dcterms:subject>
+   <dcterms:subject>236 (132)</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

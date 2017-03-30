@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E80</dcterms:source>
+   <dcterms:title>World Internet Project 2001. Internet usage in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E80: World Internet Project 2001. Internet usage in Hungary.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Dessewffy, Tibor</dcterms:creator>
+	<dcterms:creator>Fábián, Zoltán</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Information Society and Trend Research Institute</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>diffusion of internet and info-communication technologies, factors affecting diffusion, revealing the connectionand the social effects of the diffusion of internet use;  1. demographic and socio-economic status variables, 2. factors stimulating or blocking internet use and internet access 3. variables connected to the frequency, period and types of internet use 4. consequence-type variables connected to the social and social-psychological effects of internet use</dcterms:description>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+   <dcterms:subject>2001-08-30  2001-09-19</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>A longitudinal international comparative survey on the multi-stage proportionally stratified random probability sample of the Hungarian population aged 14 or more. The survey used a diminishing sample method, so the interviewers did not need to replace the dropped out addresses with supplementary addresses.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-F42</dcterms:subject>
+	<dcterms:subject>TDATA-F57</dcterms:subject>
+	<dcterms:subject>TDATA-F94</dcterms:subject>
+	<dcterms:subject>TDATA-F80</dcterms:subject>
+	<dcterms:subject>TDATA-G02</dcterms:subject>
+	<dcterms:subject>TDATA-G03</dcterms:subject>
+   <dcterms:subject>The survey is part of the University of California (UCLA) World Internet Project research program. The variables of the "internet" questionnaire start with the letter "i". The 902 internet respondents can be selected by using the command SELECT IF WIKERDIV = 1.</dcterms:subject>
+   <dcterms:subject>5032</dcterms:subject>
+   <dcterms:subject>326</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian Internet questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+	<dcterms:subject>English Internet questionnaire</dcterms:subject>
+</entry>

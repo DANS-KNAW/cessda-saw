@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G03</dcterms:source>
+   <dcterms:title>World Internet Project Hungary 2001-2003</dcterms:title>
+   <dcterms:creator>Vámos, Orsolya</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G03: World Internet Project Hungary 2001-2003. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Dessewffy, Tibor</dcterms:creator>
+	<dcterms:creator>Fábián, Zoltán</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Information Society and Trend Research Institute</dcterms:contributor>
+	<dcterms:contributor>ITHAKA Research Group at ELTE University, Budapest</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>diffusion of internet and info-communication technologies, factors affecting diffusion, revealing the connectionand the social effects of the diffusion of internet use;  1. demographic and socio-economic status variables, 2. factors stimulating or blocking internet use and internet access 3. variables connected to the frequency, period and types of internet use 4. consequence-type variables connected to the social and social-psychological effects of internet use</dcterms:description>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>2001-08-30  2001-09-19</dcterms:subject>
+	<dcterms:subject>2002-07-26  2002-08-05</dcterms:subject>
+	<dcterms:subject>2002-09-10  2002-10-15</dcterms:subject>
+	<dcterms:subject>2003-09-01  2003-09-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>WIP longitudinal sample consists of those respondents who answered in the 1., 2. and 3. wave of WIP. The data</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E80</dcterms:subject>
+	<dcterms:subject>TDATA-F42</dcterms:subject>
+	<dcterms:subject>TDATA-F57</dcterms:subject>
+	<dcterms:subject>TDATA-F80</dcterms:subject>
+	<dcterms:subject>TDATA-F94</dcterms:subject>
+	<dcterms:subject>TDATA-G02</dcterms:subject>
+   <dcterms:subject>8167</dcterms:subject>
+   <dcterms:subject>1193</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire 2003</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire 2002</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire 2001</dcterms:subject>
+	<dcterms:subject>Hungarian Internet questionnaire 2003</dcterms:subject>
+	<dcterms:subject>Hungarian Internet questionnaire 2002</dcterms:subject>
+	<dcterms:subject>Hungarian Internet questionnaire 2001</dcterms:subject>
+	<dcterms:subject>Hungarian documentation 2002</dcterms:subject>
+	<dcterms:subject>Hungarian documentation 2001</dcterms:subject>
+	<dcterms:subject>English questionnaire 2003</dcterms:subject>
+	<dcterms:subject>English questionnaire 2001</dcterms:subject>
+	<dcterms:subject>English Internet questionnaire 2003</dcterms:subject>
+	<dcterms:subject>English Internet questionnaire 2001</dcterms:subject>
+</entry>

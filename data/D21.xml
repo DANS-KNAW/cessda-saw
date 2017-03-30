@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D21</dcterms:source>
+   <dcterms:title>TÁRKI - Citizen 1995. Data for developing the migration policy strategy: the living conditions of immigrants applying for Hunarian citizenship in 1993.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D21: TÁRKI - Citizen 1995. Data for developing the migration policy strategy: the living conditions of immigrants applying for Hunarian citizenship in 1993.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Tóth, Pál Péter</dcterms:creator>
+	<dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>description of the past, present and future living condition of persons applying for Hungarian citizenship in 1993</dcterms:description>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1995-04-01  1995-10-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Two-stage sampling: 1. settlements where the number of persons applying for Hungarian citizenship in the countryside is above 30, in Budapest above 150; 2. quantifying the number of person living at the selected settlements.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>679</dcterms:subject>
+   <dcterms:subject>707</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

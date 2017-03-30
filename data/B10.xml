@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B10</dcterms:source>
+   <dcterms:title>Living Conditions of the Roma in Hungary 1971.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2014-09-30</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B10: Living Conditions of the Roma in Hungary 1971.. data sheet. Version: 2014-09-30</dcterms:subject>
+   <dcterms:creator>Kemény, István</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented2012-09-25: added a new individual data file</dcterms:subject>
+   <dcterms:description>demographic data, living conditions, life style (eating, clothing), economy, family contacts</dcterms:description>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+   <dcterms:subject>1971</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 2% national representative sample of the Gypsy population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>30733</dcterms:subject>
+   <dcterms:subject>400</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian documentation of the individual dataset</dcterms:subject>
+</entry>

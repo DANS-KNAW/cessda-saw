@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A35</dcterms:source>
+   <dcterms:title>The Social Position and Career of Young Economist Graduates in Hungary I. 1983</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A35: The Social Position and Career of Young Economist Graduates in Hungary I. 1983. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Andorka, Rudolf</dcterms:creator>
+	<dcterms:creator>Hrubos, Ildikó</dcterms:creator>
+	<dcterms:creator>Kovács, Árpád</dcterms:creator>
+	<dcterms:creator>Tóth, Árpád</dcterms:creator>
+   <dcterms:contributor>Károly Marx University of Economic Sciences Department of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Budapest University of Economic Sciences and Public Administration</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>personal data, school career, professional career, opinion about the educational institution, livelihood, position, career evaluation up to the present</dcterms:description>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+   <dcterms:subject>1983-01-01  1983-04-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>50% of students graduated from Karl Marx University of Economics in 1954, 1968, 1973, or 1978, of the Department of Economy, Janus Pannonius University, Pécs in 1978, of the College of Finance and Accountancy, the College of Commerce and Catering Trade and from the College of Foreign Trade in 1973 and 1978.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A37m</dcterms:subject>
+	<dcterms:subject>TDATA-A37p</dcterms:subject>
+	<dcterms:subject>TDATA-A47</dcterms:subject>
+   <dcterms:subject>1931</dcterms:subject>
+   <dcterms:subject>473</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

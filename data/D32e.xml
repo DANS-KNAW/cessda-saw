@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D32e</dcterms:source>
+   <dcterms:title>TÁRKI - Image 1996. Using bank services in the population of the Budapest agglomeration.</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D32e: TÁRKI - Image 1996. Using bank services in the population of the Budapest agglomeration.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Sági, Matild</dcterms:creator>
+	<dcterms:creator>Várnai, Gábor</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>using financial and investment services, use of bank account and bank card, forms of savings, choice of banks; the savings of the family and the bank services used by them</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>trade, industry and markets</dcterms:subject>
+   <dcterms:subject>1996-06-06  1996-07-02</dcterms:subject>
+   <dcterms:coverage>agglomeration of Budapest</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>From the Budapest agglomeration 4 settlements were selected based on the request of the customer, and altogether proportionately 500 persons were included in the sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D32c</dcterms:subject>
+	<dcterms:subject>TDATA-D32i</dcterms:subject>
+   <dcterms:subject>500</dcterms:subject>
+   <dcterms:subject>121</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H35</dcterms:source>
+   <dcterms:title>Attitudes towards the planned taxation of the cafeteria system in Hungary. 2009</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-05-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H35: Attitudes towards the planned taxation of the cafeteria system in Hungary. 2009. data sheet. Version: 2011-05-12</dcterms:subject>
+   <dcterms:creator>Klauber, Mátyás</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Kopint-Tarki Ltd.</dcterms:contributor>
+   <dcterms:description>The aim of the survey is collect information about the attitudes towards the planned taxation of the cafeteria system in Hungary</dcterms:description>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the random walking method out of each strata. Numbers of selected persons are proportional to strata's size</dcterms:subject>
+   <dcterms:subject>telephone interview</dcterms:subject>
+   <dcterms:subject>D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>61</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C80</dcterms:source>
+   <dcterms:title>TÁRKI - Mobility 1992. The stratification and social mobility of the Hungarian population.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C80: TÁRKI - Mobility 1992. The stratification and social mobility of the Hungarian population.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Róbert, Péter</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-04-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>demographic, economic and cultural conditions of the respondent's grandparents, parents and those (childhood and present) of respondent; respondents (subjectively) classify their ancestors and themselves as members of social classes or layers, also their positions in hierarchy judged subjectively by social inequality dimensions; value orientation measured along maternal-postmaternal axis as well as opinions on social inequalities</dcterms:description>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+   <dcterms:subject>1992-01-15  1992-09-10</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 3000-person representative sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>2998</dcterms:subject>
+   <dcterms:subject>795</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

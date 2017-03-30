@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A21</dcterms:source>
+   <dcterms:title>Living Conditions in Roma Colonies 1978</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-23</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A21: Living Conditions in Roma Colonies 1978. data sheet. Version: 2009-04-23</dcterms:subject>
+   <dcterms:creator>Bokor, Ágnes</dcterms:creator>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>objective living conditions, deprivation</dcterms:description>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1982-10-01  1982-10-31</dcterms:subject>
+   <dcterms:coverage>Baranya, Borsod-Abaúj-Zemplén, Hajdú-Bihar, Heves, Nógrád, Pest, Szabolcs-Szatmár, and Szolnok county</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 20% random sample of the worst Gypsy colonies in eight counties with the highest ratio of Gypsy colony inhabitants.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1946</dcterms:subject>
+   <dcterms:subject>292</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian flat questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian household questionnaire</dcterms:subject>
+	<dcterms:subject>English flat questionnaire</dcterms:subject>
+	<dcterms:subject>English household questionnaire</dcterms:subject>
+</entry>

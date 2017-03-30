@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B22</dcterms:source>
+   <dcterms:title>Hungarian Central Statistical Office (KSH) Income, Life Style, Living Conditions in Hungary 1978</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B22: Hungarian Central Statistical Office (KSH) Income, Life Style, Living Conditions in Hungary 1978. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Éltető, Ödön</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Economics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>income stratification of the population; income differences among and within strata, the reasons behind these, changes in family income distribution since 1972; the level and variance of wages and salaries and its connection with family income</dcterms:description>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+   <dcterms:subject>1978-02-01  1978-03-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A 0.5% sample, appr. 16,800 households. from districts of the Hungarian Central Statistical Office (KSH) Unified Population Data Collection System sample.</dcterms:subject>
+   <dcterms:subject>Questionnaire with interviewers and self-administered questionnaires mailed to employers.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>As the interviews were asked several times, this leads to the multiplication of cases.</dcterms:subject>
+   <dcterms:subject>48361</dcterms:subject>
+   <dcterms:subject>228</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H33</dcterms:source>
+   <dcterms:title>Drog consumption of the normal population in Hungary 2003</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-04-14</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H33: Drog consumption of the normal population in Hungary 2003. data sheet. Version: 2011-04-14</dcterms:subject>
+	<dcterms:creator>Elekes, Zsuzsanna</dcterms:creator>
+	<dcterms:creator>Paksi, Borbála</dcterms:creator>
+   <dcterms:contributor>Corvinus University of Budapest</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>The survey was conducted in autumn 2001 estimate the prevalence of drog- and alcohol consumption in the normal population, risk factor of these behaviours and attitudes towards drog use and drog addicts</dcterms:description>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-H18</dcterms:subject>
+   <dcterms:subject>3675</dcterms:subject>
+   <dcterms:subject>651</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>methodology description</dcterms:subject>
+	<dcterms:subject>Hungarian B questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian A questionnaire</dcterms:subject>
+	<dcterms:subject>codebook</dcterms:subject>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F28</dcterms:source>
+   <dcterms:title>TÁRKI Szabolcs 2002. Evaluation of the work of the Mayors Office in Nyíregyháza by the residents of the 2nd national individual election district in Szabolcs-Szatmár-Bereg county.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F28: TÁRKI Szabolcs 2002. Evaluation of the work of the Mayors Office in Nyíregyháza by the residents of the 2nd national individual election district in Szabolcs-Szatmár-Bereg county.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Gazsó, Tibor</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>B&T; Consortium</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>local and national familiarity with political happenings, party preferences, satisfaction with the work of the national and local political leadership, reputation and evaluation of candidates of the 2002 parliamentary elections</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+   <dcterms:subject>2002-02-21  2002-03-03</dcterms:subject>
+   <dcterms:coverage>Szabolcs-Szatmár-Bereg county Parliamentary electoral district number 2</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Within the electorial districts, voting circles were randomly selected, in which respondents were identified using the random walking method and the Leslie Kish-key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>104</dcterms:subject>
+   <dcterms:subject>590</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

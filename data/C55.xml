@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C55</dcterms:source>
+   <dcterms:title>Sample of the 1990 Hungarian Census. Dwellings sample.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C55: Sample of the 1990 Hungarian Census. Dwellings sample.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Mészáros, Árpád</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>census data (dwellings, families-households and individuals), comfort level and equipment in dwelling, its living area, number of rooms, composition of household, age composition of children, data of active and inactive members</dcterms:description>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+   <dcterms:subject>1990-01-01  1990-01-01</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>census data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A randomly selected dwelling sample drawn from the 2% national representative sample of the 1990 census, which is representative of 2% of the individuals, flats, households and families.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C53</dcterms:subject>
+	<dcterms:subject>TDATA-C54</dcterms:subject>
+   <dcterms:subject>76341</dcterms:subject>
+   <dcterms:subject>34</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

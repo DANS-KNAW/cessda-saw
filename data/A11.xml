@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A11</dcterms:source>
+   <dcterms:title>The Situation of Actors in Hungary 1980</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A11: The Situation of Actors in Hungary 1980. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Almási, Miklós</dcterms:creator>
+	<dcterms:creator>Békés, Ferenc</dcterms:creator>
+   <dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Hungarian Theatrical Institute</dcterms:contributor>
+	<dcterms:contributor>Institute for Cultural Research</dcterms:contributor>
+	<dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the actors' living and working conditions, socio-demographic characteristics, workload, schooling, career on stage, prestige, public life, income, awards, safeguarding of interest</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+   <dcterms:subject>1980-04-01  1980-07-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Out of 964 prosaic actors, 851 were interviewed until the end of the season, so the data collection included almost everyone. From among retired ones only the still active ones were interviewed.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>851</dcterms:subject>
+   <dcterms:subject>358</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B43i</dcterms:source>
+   <dcterms:title>The Social Determination of Career and Future Prospects 1986. Youth sample.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B43i: The Social Determination of Career and Future Prospects 1986. Youth sample.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Molnár, Péter</dcterms:creator>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>norms and reality with regard to the timing of particular life events, ideas about the future, value orientations, tensions between generations, background data</dcterms:description>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+   <dcterms:subject>1985-11-01  1986-01-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Young people, aged 15-24, selected by quota sampling. College and university students are over-represented.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-B43e</dcterms:subject>
+   <dcterms:subject>1372</dcterms:subject>
+   <dcterms:subject>468</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian "Young" questionnaire</dcterms:subject>
+	<dcterms:subject>English "Young" questionnaire</dcterms:subject>
+</entry>

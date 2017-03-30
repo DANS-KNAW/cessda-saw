@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C51</dcterms:source>
+   <dcterms:title>Possibilities of Modernising Grammar Schools. A Model Experiment in Szolnok 1982.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C51: Possibilities of Modernising Grammar Schools. A Model Experiment in Szolnok 1982.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Mihály, Ottó</dcterms:creator>
+   <dcterms:contributor>Hungarian National Pedagogical Institute Center for School Research and Development</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the multivariable diachronic survey of pedagogical and psychological efficiency was based on the accomplished period of complex educational (school) experiments carried out in Varga Katalin Grammar School (Gymnasium) in the town of Szolnok; the investigation intended, on the one hand, to prove the consequences of the system of pedagogical influences on pupils, the efficiency of certain methods of influencing them, and on the other hand, to analyse the theses of basic research on pedagogy and psychology (pupils' abilities, motivations, inclinations) including the problems of social dependence</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>1982-01-01  1985-06-30</dcterms:subject>
+   <dcterms:coverage>Szolnok</dcterms:coverage>
+   <dcterms:subject>public services</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The investigation did not select a sample in the strict sense. Data collection groups include the pupil population of the experiment's target school and pupils' groups selected from among the pupils of a control target school, a maximum of 761 persons.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire and psychological tests</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>758</dcterms:subject>
+   <dcterms:subject>1553</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

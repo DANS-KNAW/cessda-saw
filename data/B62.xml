@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B62</dcterms:source>
+   <dcterms:title>Living Conditions of Families Expecting Their First Child In Budapest and In Hajdú-Bihar County 1987</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B62: Living Conditions of Families Expecting Their First Child In Budapest and In Hajdú-Bihar County 1987. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Kabai, Imre</dcterms:creator>
+   <dcterms:contributor>University of Debrecen Department of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>basic socio-demographical variables, life history, internal relationships in the parental family, living conditions, life style, time budget, opinion about marriage, attitude to have children, relationships, relationship with parents, conflicts</dcterms:description>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1987-01-01  1987-10-31</dcterms:subject>
+   <dcterms:coverage>Budapest, Hajdú-Bihar county</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>416 couples expecting their first child (husband and wife individually) in Budapest, Debrecen, and in other settlements of Hajdú-Bihar county.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>416</dcterms:subject>
+   <dcterms:subject>1692</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

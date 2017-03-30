@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H44</dcterms:source>
+   <dcterms:title>Socio-political attitudes in Hungary after the joining of the European Union (EU), 2005 - Median subsample</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-03-18</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H44: Socio-political attitudes in Hungary after the joining of the European Union (EU), 2005 - Median subsample. data sheet. Version: 2011-03-18</dcterms:subject>
+	<dcterms:creator>Tardos, Róbert</dcterms:creator>
+	<dcterms:creator>Tóka, Gábor</dcterms:creator>
+   <dcterms:contributor>Median</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Center for Democracy Foundation</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:subject>series title updated</dcterms:subject>
+   <dcterms:description>The Hungarian Election Study (HES) project was initiated by the Hungarian Center for Democracy Foundation and has been conducting collaborative studies of Hungarian voting behavior and public opinion since 2003. The primary aim of HES is to study electoral behavior from a broader social science perspective in collaboration with major Hungarian research institutes. It focuses on the interrelationship between cleavage structures, social and cultural stratification, and digital divides. HES studies are also putting emphasis on the methodological questions of empirical survey based research. This dataset is collected by the Median Institute with a 1000-person sample. The another part of the research is collected by the Szonda Institute (with a same large sample).</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>international politics and organisations</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+	<dcterms:subject>agriculture</dcterms:subject>
+	<dcterms:subject>migration</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the random walking method out of each strata.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>454</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

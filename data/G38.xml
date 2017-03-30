@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G38</dcterms:source>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-01-08</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G38: . data sheet. Version: 2010-01-08</dcterms:subject>
+   <dcterms:creator>Bernát, Anikó</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Television</dcterms:contributor>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+   <dcterms:subject>2005-02-04  2005-02-05</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>525</dcterms:subject>
+   <dcterms:subject>19</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>hungarian questionnaire</dcterms:subject>
+</entry>

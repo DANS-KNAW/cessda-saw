@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E40</dcterms:source>
+   <dcterms:title>TÁRKI Family 2000. Roles within the family in the Hungarian adult population.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E40: TÁRKI Family 2000. Roles within the family in the Hungarian adult population.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Pongrácz, Tiborné</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>family structure, income sources of family, importance of state and family taking a role in social welfare, opinions about the changes in the family models, knowledge and opinions about the population situation of Hungary, values related to bearing children, willingness to bear children, evaluation of effectiveness of the possible state children rearing supports, gender roles in the family, human relationships and conflicts in the family, money handling habits, effect of bearing and rearing children on the lifestyle</dcterms:description>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+   <dcterms:subject>2000-11-20  2001-01-14</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The sample is a probability diminishing sample, which was prepared with a multi-stage proportionally stratified selection process. At the first stage the settlements were selected, at the second stage within the settlement the respondents were selected with a simple random sampling process. The initial sample was 5112 persons, no supplementary addresses were used.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The survey is part of the second wave of the international Population Policy Acceptance (PPA).</dcterms:subject>
+   <dcterms:subject>3057</dcterms:subject>
+   <dcterms:subject>366</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

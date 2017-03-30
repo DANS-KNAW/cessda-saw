@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G81</dcterms:source>
+   <dcterms:title>TÁRKI Longitudinal Election survey 2003-2006</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-04-07</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G81: TÁRKI Longitudinal Election survey 2003-2006. data sheet. Version: 2011-04-07</dcterms:subject>
+   <dcterms:creator>Angelusz, Róbert</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Center for Democracy Foundation</dcterms:contributor>
+   <dcterms:description>The Hungarian Election Study (HES) project was initiated by the Hungarian Center for Democracy Foundation and has been conducting collaborative studies of Hungarian voting behavior and public opinion since 2003. The primary aim of HES is to study electoral behavior from a broader social science perspective in collaboration with major Hungarian research institutes. It focuses on the interrelationship between cleavage structures, social and cultural stratification, and digital divides. HES studies are also putting emphasis on the methodological questions of empirical survey based research.</dcterms:description>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-F97</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:subject>1016</dcterms:subject>
+   <dcterms:subject>1207</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian answer booklet</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire 2006</dcterms:subject>
+	<dcterms:subject>Hungarian 'A' questionnaire 2003</dcterms:subject>
+	<dcterms:subject>Hungarian cards 2</dcterms:subject>
+	<dcterms:subject>Hungarian cards 1</dcterms:subject>
+</entry>

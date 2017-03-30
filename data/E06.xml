@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E06</dcterms:source>
+   <dcterms:title>TÁRKI Expectations 1999/3. Inflation expectations of the Hungarian adult population.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E06: TÁRKI Expectations 1999/3. Inflation expectations of the Hungarian adult population.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Rudas, Tamás</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian National Bank</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the populations' inflationary expectations, basic family consumer habits, populations' savings</dcterms:description>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+   <dcterms:subject>1999-09-09  1999-12-22</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the Leslie Kish key and the random walking method.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E03</dcterms:subject>
+	<dcterms:subject>TDATA-E04</dcterms:subject>
+	<dcterms:subject>TDATA-E13</dcterms:subject>
+	<dcterms:subject>TDATA-E19</dcterms:subject>
+	<dcterms:subject>TDATA-E27</dcterms:subject>
+	<dcterms:subject>TDATA-E34</dcterms:subject>
+	<dcterms:subject>TDATA-E38</dcterms:subject>
+	<dcterms:subject>TDATA-E60</dcterms:subject>
+	<dcterms:subject>TDATA-E74</dcterms:subject>
+	<dcterms:subject>TDATA-E94</dcterms:subject>
+	<dcterms:subject>TDATA-F08</dcterms:subject>
+	<dcterms:subject>TDATA-F59</dcterms:subject>
+	<dcterms:subject>TDATA-F53</dcterms:subject>
+   <dcterms:subject>1044</dcterms:subject>
+   <dcterms:subject>187</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

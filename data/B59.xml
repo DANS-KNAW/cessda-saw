@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B59</dcterms:source>
+   <dcterms:title>TÁRKI IV. Culture-Movie. The cultural consumption of the Hungarian population.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B59: TÁRKI IV. Culture-Movie. The cultural consumption of the Hungarian population.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Tibori, Tímea</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Institute for Cultural Research</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>leisure time habits and structures, habits of going to movie, taste in film</dcterms:description>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+   <dcterms:subject>1987-10-01  1987-11-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 2000-person national representative sample, Budapest inhabitants being over-represented.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-B70</dcterms:subject>
+   <dcterms:subject>1907</dcterms:subject>
+   <dcterms:subject>1706</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English "movie" questionnaire</dcterms:subject>
+	<dcterms:subject>English "culture" questionnaire</dcterms:subject>
+</entry>

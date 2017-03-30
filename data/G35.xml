@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G35</dcterms:source>
+   <dcterms:title>DKMKA Election Study, 2003: "A" file</dcterms:title>
+   <dcterms:creator>Fábián, Zoltán</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-03-18</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G35: DKMKA Election Study, 2003: "A" file. data sheet. Version: 2011-03-18</dcterms:subject>
+	<dcterms:creator><a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut="></a></dcterms:creator>
+	<dcterms:creator>Angelusz, Róbert</dcterms:creator>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Median</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Center for Democracy Foundation</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>This survey was directed by the Hungarian Center for Democracy Studies Foundation (Demokrácia Kutatások Magyarországi Központja Közhasznú Alapítvány). The Election Study Project Board was funded in autumn of 2002 in order to study electorial behaviour from a broader social research perspectives. The study focused on the political segmentation in Hungary, and on the diffusion of information and communication technologies with respect to the so called digital divide.The field work of the survey was completed in autumn of 2003 on the basis of a harmised questionnaire and research design. Research agencies applied the same procedure during data processing and coding. There were three research agencies involved in the fieldwork: Medián Ltd., Szonda-Ipsos Ltd and TÁRKI Inc. Because of the length of questionnaires there was need for a special research design. Two versions of the questionnaire (version A, version B) was created and used for the survey. There was a common (core) question block and a version-specific question block and both were used on a national sample of 1000 and on a national sample of 500 respondents. Thus the case number for core questions is 3000 (actually 3016) and for version specific variables is 1500.This data collection contains all variables included in "A" questionnaire. The survey was conducted by TÁRKI on a national sample of 1016 pesons, and by Medián on a sample of 500 persons.</dcterms:description>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Population: Hungarian electorate.Study population: Hungarian residents with permanent address aged 18 and over.Sampling frame: Central Population Registration Bureau of Ministry of Internal Affairs (BM Központi Népesség Nyilvántartó Hivatal)Sampling method: Two-stage stratified sampling. At first stage a settlement sample was drawn proportionally to population size. At the second stage a sample of individuals was drawn from the registry of Ministry of Internal Affairs (cf. Sampling frame).Note: Medián applied random walking sampling in the second-stage.</dcterms:subject>
+   <dcterms:subject>Personal interviews with standardised questionnaires at the home of the respondents.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-G34</dcterms:subject>
+	<dcterms:subject>TDATA-F97</dcterms:subject>
+   <dcterms:subject>1516</dcterms:subject>
+   <dcterms:subject>678</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire: TÁRKI A</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire: Medián A</dcterms:subject>
+	<dcterms:subject>database file description</dcterms:subject>
+	<dcterms:subject>unweighted descriptive statistics for all variables</dcterms:subject>
+</entry>

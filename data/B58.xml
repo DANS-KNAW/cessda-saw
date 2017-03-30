@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B58</dcterms:source>
+   <dcterms:title>Time Budget Study Among the Population of Győr and Its Environs 1965.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B58: Time Budget Study Among the Population of Győr and Its Environs 1965.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Cseh-Szombathy, László</dcterms:creator>
+	<dcterms:creator>Ferge, Zsuzsa</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>population time budget in Győr, data analyses within the framework of a cross-national comparative research</dcterms:description>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+   <dcterms:subject>1965-10-01  1965-10-31</dcterms:subject>
+   <dcterms:coverage>Győr and its surroundings</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Households with -at least one- non-agricultural active wage-earner make up the sample. One from among the 18-65-year old family members has been selected for observation with the help of a given key. 1300 persons from Győr, 700 persons from eight neighbouring villages.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1994</dcterms:subject>
+   <dcterms:subject>218</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

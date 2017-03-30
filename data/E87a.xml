@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E87a</dcterms:source>
+   <dcterms:title>The Composition of Agricultural Landed Property in Hungary Between 1988 and 1996</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E87a: The Composition of Agricultural Landed Property in Hungary Between 1988 and 1996. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Oros, Iván</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Agricultural Statistics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>agricultural cooperatives, agricultural enterprises, system of landed properties, privatisation, property nexus</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>agriculture</dcterms:subject>
+   <dcterms:subject>1997</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>administrative records</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>No sampling; all of the agricultural cooperatives registered in 1988.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E87b</dcterms:subject>
+   <dcterms:subject>1256</dcterms:subject>
+   <dcterms:subject>42</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

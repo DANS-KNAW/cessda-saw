@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A13</dcterms:source>
+   <dcterms:title>Hungarian Stratification-Model Study 1981-1982. Employment papers survey.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-08-30</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A13: Hungarian Stratification-Model Study 1981-1982. Employment papers survey.. data sheet. Version: 2010-08-30</dcterms:subject>
+	<dcterms:creator>Hunyadi, Zsuzsa</dcterms:creator>
+	<dcterms:creator>Róbert, Péter</dcterms:creator>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>data included in employment papers: professions, number and type of courses, number of jobs and workplaces, time spent in one job, number of bonuses</dcterms:description>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>1981  1982</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A national representative 0.2% sample, overrepresented by a quarter of those who had at least three workplaces (4000 respondents).</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A01</dcterms:subject>
+	<dcterms:subject>TDATA-A08</dcterms:subject>
+	<dcterms:subject>TDATA-A18</dcterms:subject>
+	<dcterms:subject>TDATA-A26</dcterms:subject>
+	<dcterms:subject>TDATA-A41</dcterms:subject>
+	<dcterms:subject>TDATA-A87</dcterms:subject>
+	<dcterms:subject>TDATA-A97</dcterms:subject>
+	<dcterms:subject>TDATA-B15</dcterms:subject>
+   <dcterms:subject>The actual sample (appr. 1015 cases) can be selected by the SELECT IF (ALMINTA EQ 1) command.</dcterms:subject>
+   <dcterms:subject>15839</dcterms:subject>
+   <dcterms:subject>337</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian personal-occupational data sheet</dcterms:subject>
+	<dcterms:subject>Hungarian employee questionnaire</dcterms:subject>
+</entry>

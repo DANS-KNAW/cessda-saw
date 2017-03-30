@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E44i</dcterms:source>
+   <dcterms:title>Academic Calendar of the 2001/2002 School Year - Opinions About School Holidays. Sample of schools.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E44i: Academic Calendar of the 2001/2002 School Year - Opinions About School Holidays. Sample of schools.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Sági, Matild</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Ministry of Education</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>opinions about school breaks, the starting of the school year; opinions about the free development of the 2001-2002 academic year school schedule, problems at school</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+   <dcterms:subject>2001-02-22  2001-02-23</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>public services</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The sample was made on the basis of a probability sample representing the elementary and secondary schools.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E44s</dcterms:subject>
+   <dcterms:subject>504</dcterms:subject>
+   <dcterms:subject>55</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire and documentation</dcterms:subject>
+</entry>

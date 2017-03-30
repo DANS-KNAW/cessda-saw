@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H49d</dcterms:source>
+   <dcterms:title>The situation of the persons with disabilities in Hungary, 2010 - D dataset</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-05-16</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H49d: The situation of the persons with disabilities in Hungary, 2010 - D dataset. data sheet. Version: 2011-05-16</dcterms:subject>
+   <dcterms:creator>Gábos, András</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Family and Social Policy Institute</dcterms:contributor>
+   <dcterms:description>The pilot research collect information about the situation of the people with disabilities among the 18-62 age categorie</dcterms:description>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the random walking method out of each strata.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D (until 30/11/2011)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-H49c</dcterms:subject>
+   <dcterms:subject>659</dcterms:subject>
+   <dcterms:subject>2045</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

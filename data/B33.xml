@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B33</dcterms:source>
+   <dcterms:title>TÁRKI III 1987. Financial situation and household management practices.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B33: TÁRKI III 1987. Financial situation and household management practices.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Sik, Endre</dcterms:creator>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>structure of household expenditures and related opinions; consumption habits; economic behaviour and financial situation; the way they got the present dwelling; the head of family's and spouse's income, bargaining position in the labour market, participation in the second economy or family farming; household work, work exchange; housing conditions and financial situation of adult children; time budget</dcterms:description>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+   <dcterms:subject>1987-03-01  1987-05-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Family heads sample from the subsamples of TÁRKI basic data survey I-II-III.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B70</dcterms:subject>
+	<dcterms:subject>TDATA-B54</dcterms:subject>
+	<dcterms:subject>TDATA-B55</dcterms:subject>
+	<dcterms:subject>TDATA-B56</dcterms:subject>
+	<dcterms:subject>TDATA-B12</dcterms:subject>
+   <dcterms:subject>1164</dcterms:subject>
+   <dcterms:subject>1612</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

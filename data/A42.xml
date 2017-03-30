@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A42</dcterms:source>
+   <dcterms:title>Hungarian Central Statistical Office (KSH) Income, Life Style, Living Conditions in Hungary 1983</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A42: Hungarian Central Statistical Office (KSH) Income, Life Style, Living Conditions in Hungary 1983. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Baranyai, István</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Economics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>income differences among various social strata and groups; their origin; variance and inequality of incomes; the composition of income by sources; the role of social allowances in kind; changes in the above mentioned topics during the last five years</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>agriculture</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+   <dcterms:subject>1983-02-01  1983-03-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A random sample made up of appr. 14,800 households, selected from the 2630 census districts of the 505 settlements included in the Unified Population Data Collection System sample of the Hungarian Central Statistical Office (KSH).</dcterms:subject>
+   <dcterms:subject>Questionnaire with interviewers and self-administered questionnaires mailed to employers.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A33</dcterms:subject>
+	<dcterms:subject>TDATA-A39</dcterms:subject>
+	<dcterms:subject>TDATA-A81</dcterms:subject>
+	<dcterms:subject>TDATA-A90h</dcterms:subject>
+	<dcterms:subject>TDATA-A90s</dcterms:subject>
+	<dcterms:subject>TDATA-C88</dcterms:subject>
+   <dcterms:subject>The survey included four similar, but separate interview series. Their combined data appear in the research. (This is why the number of cases does not coincide with the number of households.)</dcterms:subject>
+   <dcterms:subject>43474</dcterms:subject>
+   <dcterms:subject>173</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

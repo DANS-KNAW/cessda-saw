@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E17</dcterms:source>
+   <dcterms:title>TÁRKI Internet 2000. Computer use and level of internet-supply of the population in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E17: TÁRKI Internet 2000. Computer use and level of internet-supply of the population in Hungary.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Tarjányi, József</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>PanTel Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>being supplied with computer and supplements, computer use, internet access, internet use, cable television, telephoning, expenditures</dcterms:description>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+   <dcterms:subject>2000-02-01  2000-02-08</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage stratified sample. The prevalence of internet access in the population was examined on a random sample of 1504 urban telephone subscribers. The characteristics of internet subscribers was given by a 558-person sample.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>Out of the entire case number, the individual sample (1504 cases) can be separated by using the filter SELECT IF IMINTA = 1.</dcterms:subject>
+   <dcterms:subject>2062</dcterms:subject>
+   <dcterms:subject>75</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

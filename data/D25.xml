@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D25</dcterms:source>
+   <dcterms:title>TÁRKI - The State and Its Citizens I. 1996. Tax consciousness of Hungarian employees and their opinion about the welfare provisions.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D25: TÁRKI - The State and Its Citizens I. 1996. Tax consciousness of Hungarian employees and their opinion about the welfare provisions.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Csontos, László</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Ministry of Finance</dcterms:contributor>
+	<dcterms:contributor>Central European University</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>taxation, income, tax-awareness, state assuming responsibility in certain areas, social expenditure, pension systems</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+   <dcterms:subject>1996-01-01  1996-02-28</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The survey needed an individual sample which contains only (potential) employees. The sample was drawn from the sample of Reform survey carried out in 1995; those respondents were asked to participate who were willing to participate in later surveys as well. The sample was examined whether those willing to answer significantly differ from those who are not willing; the results of this examination can be found in the documentation. 1300 persons were visited, and the number of successfully completed interviews was 917.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E01</dcterms:subject>
+   <dcterms:subject>917</dcterms:subject>
+   <dcterms:subject>251</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H28b</dcterms:source>
+   <dcterms:title>Referendum survey serie, 2008 - Median referendum survey</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-05-03</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H28b: Referendum survey serie, 2008 - Median referendum survey. data sheet. Version: 2011-05-03</dcterms:subject>
+   <dcterms:creator>Angelusz, Róbert</dcterms:creator>
+   <dcterms:contributor>Median</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Center for Democracy Foundation</dcterms:contributor>
+   <dcterms:description>The Hungarian Election Study (HES) project was initiated by the Hungarian Center for Democracy Foundation and has been conducting collaborative studies of Hungarian voting behavior and public opinion since 2003. The aim of this research is to study the attitudes towards the referendum of 2008. This research series used almost the whole spectrum of the methods which are used in Hungary. The main pillars of the survey is two face-to-face interview, the first is one month before and the second is right before the referendum. The first is made by the TARKI (part of the omnibus survey with 1000 person sample ), the second is made by the Median (part of the omnibus survey too, with 1200 personal interview). The telephone follow-on ("tracking poll" type) recording module, which is three weeks period before the referendum by 80 to 100 people a day in three weeks, this made by the Forsense Institute and resulted 1516 interviews.The most innovative element is a methodological panel onlinesurvey. This Sonda Ipsos subsample is complemented by a volunteer part in the Origo Website.</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1200</dcterms:subject>
+   <dcterms:subject>402</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian "A" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "B" questionnaire</dcterms:subject>
+</entry>

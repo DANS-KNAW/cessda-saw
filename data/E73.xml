@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E73</dcterms:source>
+   <dcterms:title>Sociological Characteristics of Budapest Heroin Users 1998-2000</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E73: Sociological Characteristics of Budapest Heroin Users 1998-2000. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Rácz, József</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Psychology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Psychology</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>drug consumption, drug use, risk behaviors related to intravenous use and sexual life</dcterms:description>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+   <dcterms:subject>1997  2000</dcterms:subject>
+   <dcterms:coverage>Budapest</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The basic population is the group of drug users in Budapest. Members of the group which did not receive any therapeutic treatment were contacted by interviewers having privileged access through their own network. The other group of respondents in the research were drawn in the research through therapeutic intitutions.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D (after 2007-12-31: A)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>197</dcterms:subject>
+   <dcterms:subject>383</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A50</dcterms:source>
+   <dcterms:title>Income and Labor Market Situation of Laborers in the Town of Pásztó 1982-1983. Casual laborers.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A50: Income and Labor Market Situation of Laborers in the Town of Pásztó 1982-1983. Casual laborers.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Krémer, Balázs</dcterms:creator>
+	<dcterms:creator>Závada, Pál</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>distribution of job positions, wages and salaries, income, sick pay, social policy at enterprises</dcterms:description>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>1982  1983</dcterms:subject>
+   <dcterms:coverage>Pásztó</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>aggregate data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>No sampling. The total population of employed people living in Pásztó.</dcterms:subject>
+   <dcterms:subject>Summary of administrative records.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-A51</dcterms:subject>
+   <dcterms:subject>948</dcterms:subject>
+   <dcterms:subject>12</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D39l</dcterms:source>
+   <dcterms:title>TÁRKI - Founding of Pension Funds and Insurance Funds and Their Membership 1996. Population sample.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D39l: TÁRKI - Founding of Pension Funds and Insurance Funds and Their Membership 1996. Population sample.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Gál, Róbert Iván</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Supervisory Authority of Voluntary Reciprocal Insurance Companies</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the survey investigates the foundation and the changes in the number of members of voluntary pension funds, health care funds and self-care funds; analyses the stratification differences between the members and the rest of the population; and tests the hypotheses relating to these differences</dcterms:description>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+   <dcterms:subject>1996-09-01  1996-10-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A random national representative sample of the adult population.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D39a</dcterms:subject>
+	<dcterms:subject>TDATA-D39t</dcterms:subject>
+	<dcterms:subject>TDATA-D39u</dcterms:subject>
+   <dcterms:subject>1600</dcterms:subject>
+   <dcterms:subject>183</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

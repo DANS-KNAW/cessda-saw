@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E10</dcterms:source>
+   <dcterms:title>TÁRKI Fall Festival 1999. Opinions, motivations of the visitors of the 1999 Budapest Fall Festival.</dcterms:title>
+   <dcterms:creator>Szabó, Valéria</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E10: TÁRKI Fall Festival 1999. Opinions, motivations of the visitors of the 1999 Budapest Fall Festival.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Csizér, Kata</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Budapest Festival Center Public Benefit Company</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>opinion and motivation of visitors about the Fall Festival</dcterms:description>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+   <dcterms:subject>1999-10-15  1999-10-31</dcterms:subject>
+   <dcterms:coverage>Budapest</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>20-30 visitors, a total of 500 persons, were interviewed at venues and events of the festival suggested by the customer.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E09</dcterms:subject>
+	<dcterms:subject>TDATA-E10</dcterms:subject>
+	<dcterms:subject>TDATA-E12</dcterms:subject>
+	<dcterms:subject>TDATA-E20</dcterms:subject>
+   <dcterms:subject>500</dcterms:subject>
+   <dcterms:subject>68</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

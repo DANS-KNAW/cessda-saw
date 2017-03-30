@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E28</dcterms:source>
+   <dcterms:title>TÁRKI TOP 2000/2. Operation and prospects of medium and big companies in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E28: TÁRKI TOP 2000/2. Operation and prospects of medium and big companies in Hungary.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Tóth, István János</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Ministry of Finance</dcterms:contributor>
+	<dcterms:contributor>Hungarian National Bank</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>ownership, economic information, product profile, employment, rentability, market expectations, bank loan opportunities, production, export turnover, import-needs, delivery and invoicing discipline, taxing, debts</dcterms:description>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+   <dcterms:subject>2000-06-23  2000-07-17</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A random sample of companies containing the 1500 biggest production companies also exporting their products; sample based on the registry of the Hungarian Central Statistical Office (KSH).</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, administered by interviewers, and self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C75</dcterms:subject>
+	<dcterms:subject>TDATA-D16</dcterms:subject>
+	<dcterms:subject>TDATA-D41</dcterms:subject>
+	<dcterms:subject>TDATA-D99</dcterms:subject>
+	<dcterms:subject>TDATA-E15</dcterms:subject>
+	<dcterms:subject>TDATA-E51</dcterms:subject>
+	<dcterms:subject>TDATA-E65</dcterms:subject>
+	<dcterms:subject>TDATA-F18</dcterms:subject>
+	<dcterms:subject>TDATA-F41</dcterms:subject>
+	<dcterms:subject>TDATA-F83</dcterms:subject>
+	<dcterms:subject>TDATA-F93</dcterms:subject>
+   <dcterms:subject>309</dcterms:subject>
+   <dcterms:subject>238</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D37</dcterms:source>
+   <dcterms:title>TÁRKI Phare 1996. Health care reform program in Hungary. Specialists sample.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D37: TÁRKI Phare 1996. Health care reform program in Hungary. Specialists sample.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Jávor, András</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the specialists' opinions on the treatment and referrals of patients to a hospital; judgement of performance of family doctors; their own financial conditions, and qualification</dcterms:description>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+   <dcterms:subject>1996-08-01  1996-09-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>public services</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The sample consists of 296 specialists from three specialist branches (otolaryngology, dermatology, internal medicine).</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D33</dcterms:subject>
+	<dcterms:subject>TDATA-D34</dcterms:subject>
+	<dcterms:subject>TDATA-D35</dcterms:subject>
+	<dcterms:subject>TDATA-D36</dcterms:subject>
+   <dcterms:subject>272</dcterms:subject>
+   <dcterms:subject>85</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian documentation and questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

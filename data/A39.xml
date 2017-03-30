@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A39</dcterms:source>
+   <dcterms:title>Social Mobility in Hungary 1983</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A39: Social Mobility in Hungary 1983. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Kulcsár, Rózsa</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Social Statistics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>mother tongue and marital status; number of years completed at school; school history; qualifications; the father's personal data; personal data of the father's father; data on the respondent's and the parents' farms; the mother's personal data; personal data of the mother's father; friendly relations; job history; activities besides main job; marriage history; the children's personal data; data of living brothers and sisters; changes of permanent and temporary residences</dcterms:description>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+   <dcterms:subject>1983-10-01  1983-10-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Disproportionately stratified individual sample, from the Hungarian Central Statistical Office (KSH) Unified Population Data Collection System apartment-based national representative sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A33</dcterms:subject>
+	<dcterms:subject>TDATA-A42</dcterms:subject>
+	<dcterms:subject>TDATA-C88</dcterms:subject>
+   <dcterms:subject>32301</dcterms:subject>
+   <dcterms:subject>491</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

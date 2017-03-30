@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A19</dcterms:source>
+   <dcterms:title>Stratum Situation and Stratum-Consciousness 1978. Stratification and inequality in four characteristic living areas of Budapest, and the opinion of the residents about this inequality.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-09-02</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A19: Stratum Situation and Stratum-Consciousness 1978. Stratification and inequality in four characteristic living areas of Budapest, and the opinion of the residents about this inequality.. data sheet. Version: 2010-09-02</dcterms:subject>
+   <dcterms:creator>Kolosi, Tamás</dcterms:creator>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>objective living conditions, values, opinion and orientation concerning living conditions</dcterms:description>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+   <dcterms:subject>1978-01-01  1978-06-30</dcterms:subject>
+   <dcterms:coverage>Budapest, Dabas</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A sample made up of several different non-representative subsamples. Respondents were interviewed in four characteristic areas of Budapest: in a big industrial plant in Budapest, in the village of Dabas, and among Budapest intellectual groups.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>2129</dcterms:subject>
+   <dcterms:subject>171</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H39</dcterms:source>
+   <dcterms:title>Drog and alkohol useage in a special population Sziget Festival 2000</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-03-07</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H39: Drog and alkohol useage in a special population Sziget Festival 2000. data sheet. Version: 2011-03-07</dcterms:subject>
+   <dcterms:creator>Paksi, Borbála</dcterms:creator>
+   <dcterms:contributor>Corvinus University of Budapest</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Corvinus University of Budapest</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>The aim of the project is to collect information about the drog useage of a special population: the visitors of the Pepsi Island Festival</dcterms:description>
+   <dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+   <dcterms:coverage>Hajógyári Island</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The survey have been made by stratified sample of the two ticket type (daily and weekly). The simple random method of the semple selected by the code of the tickets.</dcterms:subject>
+   <dcterms:subject>face-to-fae interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>853</dcterms:subject>
+   <dcterms:subject>394</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian codebook</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

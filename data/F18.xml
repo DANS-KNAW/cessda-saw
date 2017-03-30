@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F18</dcterms:source>
+   <dcterms:title>TÁRKI TOP 2002/1. Operation and prospects of medium and big companies in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F18: TÁRKI TOP 2002/1. Operation and prospects of medium and big companies in Hungary.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Tóth, István János</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Wargo Institute of Economic Analysis</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>market positions of companies in the processing industry and their prospects in the short run. property relations, economic information, product profile, market position of main product, employment, rentability, market expectations, production capacity, investments, transportation and invoicing practices, taxing, debts, foreign trade; financing, financial support</dcterms:description>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>trade, industry and markets</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>2002-01-01  2002-01-11</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>The sample was selected using a simple random sampling process from the biggest 1500 export and production companies based on the most recent Hungarian Central Statistical Office (KSH) registry. The dropped out addresses were replaced with supplementary addresses.</dcterms:subject>
+   <dcterms:subject>Telephone interview with the head of the company or a person nominated by the company head.</dcterms:subject>
+   <dcterms:subject>D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C75</dcterms:subject>
+	<dcterms:subject>TDATA-D16</dcterms:subject>
+	<dcterms:subject>TDATA-D41</dcterms:subject>
+	<dcterms:subject>TDATA-D99</dcterms:subject>
+	<dcterms:subject>TDATA-E15</dcterms:subject>
+	<dcterms:subject>TDATA-E28</dcterms:subject>
+	<dcterms:subject>TDATA-E51</dcterms:subject>
+	<dcterms:subject>TDATA-E65</dcterms:subject>
+	<dcterms:subject>TDATA-F41</dcterms:subject>
+	<dcterms:subject>TDATA-F83</dcterms:subject>
+	<dcterms:subject>TDATA-F93</dcterms:subject>
+   <dcterms:subject>304</dcterms:subject>
+   <dcterms:subject>292</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

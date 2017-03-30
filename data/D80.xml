@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D80</dcterms:source>
+   <dcterms:title>TÁRKI Violence in the Family 1998. Knowledge and experience of Hungarian adult women about violence in the family.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D80: TÁRKI Violence in the Family 1998. Knowledge and experience of Hungarian adult women about violence in the family.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Tóth, Olga</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Open Society Institute Budapest</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>stereotypes regarding public safety; law-consciousness; opinions about the causes and prevalence of violence in the family (women and children battering, rape); evaluation of possible interfering in the violent actions of the family; personal experience of violence in the family; evaluation of the regulation punishing rape in marriage; opinions about the help accessible to the victims of violence, opportunities to reduce violence; knowledge about sexual violence, sexual harrassment made by men to children; evaluation of the possible institutional measures</dcterms:description>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+   <dcterms:subject>1998-10-01  1998-11-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>qualitative and quantitavie</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A two-stage proportionately stratified probability sample of women over 18 years. At the first stage settlements were randomly selected from 9 settlements strata, at the second stage the responding women were selected using simple random sampling within the given settlement. The name of sepcific persons were taken from the data of the Central Registration and Electorial Bureau. The addresses that dropped out of the sample were replaced by supplementary addresses.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>Because of the disproportionate regional distribution of those refusing to answer, the sample is not representative concerning type of settlement.</dcterms:subject>
+   <dcterms:subject>1010</dcterms:subject>
+   <dcterms:subject>363</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

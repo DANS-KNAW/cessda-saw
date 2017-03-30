@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F29</dcterms:source>
+   <dcterms:title>TÁRKI Book 2002. The book buying habits of Hungarian secondary school students.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F29: TÁRKI Book 2002. The book buying habits of Hungarian secondary school students.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Kolosi, Tamás</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Association of Hungarian Publishers and Distributors</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>reading culture and book purchase habits of secondary school students</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+   <dcterms:subject>2002-02-01  2002-03-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>public services</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A two-stage probability sample of 14-20-year old students. In the first round 20 secondary schools were randomly selected, in the second stage all the students of two randomly selected classes from each school were interviewed.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-F21</dcterms:subject>
+	<dcterms:subject>TDATA-F25</dcterms:subject>
+   <dcterms:subject>936</dcterms:subject>
+   <dcterms:subject>91</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

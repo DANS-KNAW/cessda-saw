@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G45</dcterms:source>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-11-21</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G45: . data sheet. Version: 2007-11-21</dcterms:subject>
+   <dcterms:creator>Sági, Matild</dcterms:creator>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Hungarian Family and Social Policy Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:subject>political institutions, public administration</dcterms:subject>
+   <dcterms:subject>2005-05-20  2005-06-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1650</dcterms:subject>
+   <dcterms:subject>117</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>hungarian documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B85h</dcterms:source>
+   <dcterms:title>Life Style and Time Budget Study In Hungary 1986-1987. Supplement: consumer habits of households.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B85h: Life Style and Time Budget Study In Hungary 1986-1987. Supplement: consumer habits of households.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Falussy, Béla</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Social Statistics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the consuming and producing behavior of the household</dcterms:description>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+   <dcterms:subject>1986  1987</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A subsample of the 0.14 per cent sample of population aged 15-79.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A94</dcterms:subject>
+	<dcterms:subject>TDATA-B84a</dcterms:subject>
+	<dcterms:subject>TDATA-B84b</dcterms:subject>
+	<dcterms:subject>TDATA-B84c</dcterms:subject>
+	<dcterms:subject>TDATA-B84d</dcterms:subject>
+	<dcterms:subject>TDATA-B85e</dcterms:subject>
+	<dcterms:subject>TDATA-B85i</dcterms:subject>
+	<dcterms:subject>TDATA-B85j</dcterms:subject>
+	<dcterms:subject>TDATA-B85k</dcterms:subject>
+	<dcterms:subject>TDATA-C74</dcterms:subject>
+	<dcterms:subject>TDATA-F48a</dcterms:subject>
+	<dcterms:subject>TDATA-F48b</dcterms:subject>
+	<dcterms:subject>TDATA-F48c</dcterms:subject>
+   <dcterms:subject>10530</dcterms:subject>
+   <dcterms:subject>64</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

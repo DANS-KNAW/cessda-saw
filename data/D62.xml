@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D62</dcterms:source>
+   <dcterms:title>TÁRKI - Firm 1998. Operation and prospects of medium and big companies in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D62: TÁRKI - Firm 1998. Operation and prospects of medium and big companies in Hungary.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Tóth, István János</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Kopint-Datorg Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>ownership, employment, rentability, production, operation, export turnover, import-needs, delivery and invoicing discipline, taxing, debts</dcterms:description>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>1998</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A random sample of companies containing the 1500 biggest companies (employing 50 people or more), production companies also exporting their products; sample based on the registry of the Hungarian Central Statistical Office (KSH).</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, administered by interviewers, and self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>300</dcterms:subject>
+   <dcterms:subject>218</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

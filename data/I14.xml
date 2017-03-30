@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-I14</dcterms:source>
+   <dcterms:title>TÁRKI Household Monitor 2014. The financial and labor market position of Hungarian households</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:date>2015-05-28</dcterms:date>
+   <dcterms:subject> TDATA-I14: TÁRKI Household Monitor 2014. The financial and labor market position of Hungarian households. data sheet. Version: 2015-05-28</dcterms:subject>
+	<dcterms:creator>Szivos, Péter</dcterms:creator>
+	<dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:description>The Household Monitor's purpose is the quick assessment of the changes in the stratification of society and in social inequalities. The survey is primarily focussed on issues concerning the labour market and incomes, consumer attitudes, savings, economic expectations and economic behaviour, as well as changing social relations are also included among the subjects of the survey.</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Numbers of selected persons are proportional to strata's size.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-H89</dcterms:subject>
+	<dcterms:subject>TDATA-H17</dcterms:subject>
+	<dcterms:subject>TDATA-G61</dcterms:subject>
+	<dcterms:subject>TDATA-G20</dcterms:subject>
+	<dcterms:subject>TDATA-F85</dcterms:subject>
+	<dcterms:subject>TDATA-E63</dcterms:subject>
+	<dcterms:subject>TDATA-E22</dcterms:subject>
+	<dcterms:subject>TDATA-E05</dcterms:subject>
+	<dcterms:subject>TDATA-D76</dcterms:subject>
+   <dcterms:subject>4420</dcterms:subject>
+   <dcterms:subject>1032</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian household questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian individual questionnaire</dcterms:subject>
+</entry>

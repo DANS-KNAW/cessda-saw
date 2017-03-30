@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A79</dcterms:source>
+   <dcterms:title>Survey of the Political Orientation of Workers Staying Away From Formal Political Education in Hungary 1986</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A79: Survey of the Political Orientation of Workers Staying Away From Formal Political Education in Hungary 1986. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Farkas, László</dcterms:creator>
+   <dcterms:contributor>Academic Research Institute of Trade Unions</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Academic Research Institute of Trade Unions</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the political and social orientation of non-party-member workers without formal political education; possibilities for their training, their political activity</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+   <dcterms:subject>1986-06-01  1986-06-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>68% blue collar and 32% white collar workers of 20 major industrial plants.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>999</dcterms:subject>
+   <dcterms:subject>82</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D79</dcterms:source>
+   <dcterms:title>TÁRKI Voting 1998/2. Voting preferences before the 1998 parliamentary elections in Hungary.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D79: TÁRKI Voting 1998/2. Voting preferences before the 1998 parliamentary elections in Hungary.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Gazsó, Tibor</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Századvég Center for Political Analysis</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>willingness to vote, party preferences</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+   <dcterms:subject>1998-05-19  1998-05-21</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Two-stage stratified sample proportionate to county populations based on the settlement data of the Hungarian Central Statistical Office (KSH). Respondents were selected based on the random walking method.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D78</dcterms:subject>
+	<dcterms:subject>TDATA-F30</dcterms:subject>
+	<dcterms:subject>TDATA-F31</dcterms:subject>
+	<dcterms:subject>TDATA-F32</dcterms:subject>
+	<dcterms:subject>TDATA-F33</dcterms:subject>
+   <dcterms:subject>3042</dcterms:subject>
+   <dcterms:subject>46</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

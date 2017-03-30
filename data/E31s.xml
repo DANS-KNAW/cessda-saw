@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E31s</dcterms:source>
+   <dcterms:title>TÁRKI Schoolbooks 2000. Opinions of the parents of primary school pupils about the system of school book choice in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E31s: TÁRKI Schoolbooks 2000. Opinions of the parents of primary school pupils about the system of school book choice in Hungary.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Imre, Anna</dcterms:creator>
+	<dcterms:creator>Vágó, Irén</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Ministry of Education</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the information level of parents about the school books of their children, the possibility of choosing schoolbooks; evaluating the help received from the school regarding the selection of schoolbooks, evalution of the role of the school in selecting schoolbooks; using school book support in the school year 1999/2000; the role of parents in choosing school books; possible criteria in choosing school books</dcterms:description>
+   <dcterms:subject>education, school</dcterms:subject>
+   <dcterms:subject>2000-05-24  2000-05-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A simple random sample from elementary schools, all the parents from one class from every tenth school were interviewed.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E31i</dcterms:subject>
+	<dcterms:subject>TDATA-E31p</dcterms:subject>
+   <dcterms:subject>883</dcterms:subject>
+   <dcterms:subject>68</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B70</dcterms:source>
+   <dcterms:title>TÁRKI - Masterfile. The stratification, cultural consumption and social political attitudes of the Hungarian adult population 1986-1988.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B70: TÁRKI - Masterfile. The stratification, cultural consumption and social political attitudes of the Hungarian adult population 1986-1988.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Kolosi, Tamás</dcterms:creator>
+   <dcterms:contributor>Mass Communication Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>stratification, dwelling, settlement, profession, consumption, culture, second economy, origin, childhood, mobility, deviation, alcoholism, suicide, health; family relationships (nuclear and large), the 1986 block of ISSP; law-consciousness, tolerance; cultural stratification, relationships, family planning, the 1987 block of ISSP; households' expenditure structure, consumption habits, financial situation, income- and labour market situation, time budget; leisure time habits, habits of going to movie</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+   <dcterms:subject>1986-03-01  1986-05-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>The TÁRKI 6000-person national sample, representative of the population aged 18 or more.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B07</dcterms:subject>
+	<dcterms:subject>TDATA-B12</dcterms:subject>
+	<dcterms:subject>TDATA-B13</dcterms:subject>
+	<dcterms:subject>TDATA-B29</dcterms:subject>
+	<dcterms:subject>TDATA-B33</dcterms:subject>
+	<dcterms:subject>TDATA-B36</dcterms:subject>
+	<dcterms:subject>TDATA-B59</dcterms:subject>
+	<dcterms:subject>TDATA-B63</dcterms:subject>
+	<dcterms:subject>TDATA-B64</dcterms:subject>
+	<dcterms:subject>TDATA-B65m</dcterms:subject>
+   <dcterms:subject>This file contains the variables of TARKI surveys I, II, III, IV, and V.</dcterms:subject>
+   <dcterms:subject>6377</dcterms:subject>
+   <dcterms:subject>3882</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

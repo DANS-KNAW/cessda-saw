@@ -1,0 +1,45 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E64</dcterms:source>
+   <dcterms:title>TÁRKI Settlement Self-Government Panel Survey in Hungary 1995-2002</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E64: TÁRKI Settlement Self-Government Panel Survey in Hungary 1995-2002. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Sik, Endre</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>black work, black economy, human market, "kgst" market on the settlements, opinions about immigrants, refugees, their admission, xenophobia, anti-Roma sentiments, inter-ethnic conflicts in the settlement, the econimic management of the self-government, its inflation expectations, its economic situation, the living standard of the population, social aid, relations with parties, civil organizations, nation-wide associations</dcterms:description>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>1995</dcterms:subject>
+	<dcterms:subject>1997</dcterms:subject>
+	<dcterms:subject>1999</dcterms:subject>
+	<dcterms:subject>2000</dcterms:subject>
+	<dcterms:subject>2001-03-01  2001-05-31</dcterms:subject>
+	<dcterms:subject>2001-09-01  2001-11-30</dcterms:subject>
+	<dcterms:subject>2002-03-01  2002-05-31</dcterms:subject>
+	<dcterms:subject>2002-09-01  2002-11-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>administrative area</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>All of the Hungarian settlements having a self-government were sent a questionnaire, in the individual waves the response rate was different (on the average 25-35%). The questionnaires were completed by mayors (in 2001 spring mayors and notaries) or persons appointed by them.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>3184</dcterms:subject>
+   <dcterms:subject>1540</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

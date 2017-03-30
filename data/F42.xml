@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F42</dcterms:source>
+   <dcterms:title>TÁRKI Omnibusz 2002/8 Social-political attitudes among the Hungarian adult population and World Internet Project Hungary cross-sectional addition</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F42: TÁRKI Omnibusz 2002/8 Social-political attitudes among the Hungarian adult population and World Internet Project Hungary cross-sectional addition. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gabos__Andras">Gábos, András</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gazso__Tibor">Gazsó, Tibor</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Szivos__Peter">Szivós, Péter</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Dessewffy__Tibor">Dessewffy, Tibor</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Fabian__Zoltan">Fábián, Zoltán</a></dcterms:creator>
+	<dcterms:creator>5.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Simon__David">Simon, Dávid</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (1.)</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (2.)</dcterms:contributor>
+	<dcterms:contributor>Ministry of Health, Social and Family Affairs (3.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (4.)</dcterms:contributor>
+	<dcterms:contributor>Information Society and Trend Research Institute (4.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of Informatics and Communications (5.)</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>1) subjective financial situation, economic expectations, satisfaction with the work of the government and opposition, satisfaction with democracy 2) popularity of politicians, party preferences 3) state support for families raising children 4) internet use, opinion about and use of infocommunication technologies, computer in the household, types of internet use, online purchase 5) knowledge and opinions about the tasks and activities of the Ministry of Telecommunications and Information Society, state participation in the field of informatics, state support of purchasing computers and using the internet, telework, internet access at home, knowledge about computer use, education in informatics, knowledge and opinions about operation systems, amount spent on using internet, nationality affiliation, disabled in the household</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+   <dcterms:subject>2002-07-26  2002-08-05</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>block 1: A, block 2: A, block 3: A, block 4: A, block 5: B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E80</dcterms:subject>
+	<dcterms:subject>TDATA-F57</dcterms:subject>
+	<dcterms:subject>TDATA-F53</dcterms:subject>
+	<dcterms:subject>TDATA-F94</dcterms:subject>
+	<dcterms:subject>TDATA-F80</dcterms:subject>
+	<dcterms:subject>TDATA-G02</dcterms:subject>
+	<dcterms:subject>TDATA-G03</dcterms:subject>
+   <dcterms:subject>1508</dcterms:subject>
+   <dcterms:subject>527</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

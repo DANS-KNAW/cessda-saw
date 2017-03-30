@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G14</dcterms:source>
+   <dcterms:title>TÁRKI Omnibusz 2003/12. Social-political attitudes among the Hungarian adult population</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-11-23</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G14: TÁRKI Omnibusz 2003/12. Social-political attitudes among the Hungarian adult population. data sheet. Version: 2010-11-23</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gazso__Tibor">Gazsó, Tibor</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Ferge__Sandor">Ferge, Sándor</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Polonyi__Gabor">Polonyi, Gábor</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gy_rfi__Istvan">Györfi, István</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sagi__Matild">Sági, Matild</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Susanszky__eva">Susánszky, Éva</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Szanto__Zsuzsa">Szántó, Zsuzsa</a></dcterms:creator>
+	<dcterms:creator>5.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Moksony__Ferenc">Moksony, Ferenc</a></dcterms:creator>
+	<dcterms:creator>6.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Bognar__Adrienn">Bognár, Adrienn</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (1.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of Informatics and Communications (2.)</dcterms:contributor>
+	<dcterms:contributor>Psyma Hungary Kft. (3.)</dcterms:contributor>
+	<dcterms:contributor>Ministry of Health, Social and Family Affairs (4.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (4.)</dcterms:contributor>
+	<dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Sociology (5.)</dcterms:contributor>
+	<dcterms:contributor>Auto News Ltd. (6.)</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:subject>2003-12-05  2003-12-12</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1029</dcterms:subject>
+   <dcterms:subject>506 (155)</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>Hungarian label program</dcterms:subject>
+</entry>

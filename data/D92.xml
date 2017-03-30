@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D92</dcterms:source>
+   <dcterms:title>Slovenian General Public Opinion Survey 1992</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D92: Slovenian General Public Opinion Survey 1992. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Stebe, Janez</dcterms:creator>
+	<dcterms:creator>Toš, Niko</dcterms:creator>
+   <dcterms:contributor>University of Ljubljana Public Opinion and Mass Communication Research Centre</dcterms:contributor>
+   <dcterms:contributor>University of Ljubljana Department of Social Sciences</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>in broad sense: work, the meaning and purpose of life, family life and current social phenomena; persons questioned were asked to rank their work, family, friends, free-time activities, politics and religion according to their importance in their life; they were also asked whether they were satisfied with their present life, if they wanted to persuade persons close to them about something, if they discussed politics and what their opinion was about society; questions about work also included: which criteria are important to them in the case of work, how proud they were of their work, how satisfied they were with the jobs they were doing at the time, what their opinion was about the private/state/employer heads of their jobs; they were asked about their affiliation to groups or associations, whether they worked in any of them as volunteers, how much they trusted most people, which groups they would not share a living-space with, what their general health condition was, and whether they believed that they had chosen their life-styles freely and were in control of it; the broad range of topics dealt with the meaning and purpose of life, as well as with the views of the persons questioned concerning the value of scientific achievements, the line between good and evil, religious lifestyle and faith; participants in the sample were asked if they shared the same views as their parents and partners regarding religion, morality, politics and sexual morality; they were asked about marriage and religion, about the values they thought children should be taught, whether they thought children needed both their parents to become happy adults, what their opinion was about working mothers, abortion and whether marriage was an outdated institution; questions on politics were directed at the participants opinion about the various forms of political action, the probability of their participation in these actions, what the most important aim of their country would be, how much they would trust the various civic and governmental institutions, and whether they thought divorce, abortion, suicide, tax-fraud, lying and similar acts were ever acceptable; apart from this, information was gathered on the family income, the number of persons living in a household, the size of the living quarters, ownership of the property, the neighborhood of the dwelling-place, the age, gender, education, religiousness and political or trade union association, as well as right-wing or left-wing political orientation of the respondents</dcterms:description>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+   <dcterms:subject>1992-02-01  1992-02-28</dcterms:subject>
+   <dcterms:coverage>Slovenia</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage representative sampling of the adult (18-70-year-old) population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-C92</dcterms:subject>
+   <dcterms:subject>The survey A kutatás a Nemzetközi értékvizsgálat (World Value Survey - lásd C92) kérdésblokkját is tartalmazza.</dcterms:subject>
+   <dcterms:subject>1035</dcterms:subject>
+   <dcterms:subject>363</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

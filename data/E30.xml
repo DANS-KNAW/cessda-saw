@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E30</dcterms:source>
+   <dcterms:title>TÁRKI Youth of Today 2000. Leisure time activities and media consumption habits of students in Hungary.</dcterms:title>
+   <dcterms:creator>Szabó, Valéria</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E30: TÁRKI Youth of Today 2000. Leisure time activities and media consumption habits of students in Hungary.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Sági, Matild</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>International Child Rescue Service Hungarian Association</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>leisure time activities, computer use, habits of watching TV, speaking foreign languages, reception of advertisements, internet use, reading habits</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+   <dcterms:subject>2000-08-28  2000-09-08</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The sample is a so-called bunched sample, prepared in the following way: first nine county seats and two villages in their surroundings were selected (during the sampling process Budapest had a double weight). Then an elementary school, a vocational secondary training school, a vocational secondary school and a grammar school were randomly selected from each city, and one elementary school from each village. In the elementary schools The interviewers had to visit a fourth and an eighth grade class, in the secondary schools a third grade class (year 11).</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-D75</dcterms:subject>
+   <dcterms:subject>2077</dcterms:subject>
+   <dcterms:subject>373</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

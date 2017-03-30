@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G20</dcterms:source>
+   <dcterms:title>TÁRKI Household Monitor 2005. The financial and labor market position of Hungarian households</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-08</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G20: TÁRKI Household Monitor 2005. The financial and labor market position of Hungarian households. data sheet. Version: 2009-09-08</dcterms:subject>
+	<dcterms:creator>Szivós, Péter</dcterms:creator>
+	<dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>income distribution, structure of the society, income poverty, deprivation, labour market, life long learning, consumption, savings, IT- provision, complacence, political preferences</dcterms:description>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Multi-stage stratified probability sample</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E22</dcterms:subject>
+	<dcterms:subject>TDATA-E05</dcterms:subject>
+	<dcterms:subject>TDATA-D76</dcterms:subject>
+	<dcterms:subject>TDATA-E63</dcterms:subject>
+	<dcterms:subject>TDATA-F85</dcterms:subject>
+   <dcterms:subject>The World Internet Projekt 2005 is part of the database</dcterms:subject>
+   <dcterms:subject>5284</dcterms:subject>
+   <dcterms:subject>1160</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Household questionnaire</dcterms:subject>
+	<dcterms:subject>Personal questionnaire</dcterms:subject>
+	<dcterms:subject>Documentation</dcterms:subject>
+</entry>

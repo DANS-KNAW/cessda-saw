@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D83</dcterms:source>
+   <dcterms:title>TÁRKI Environment Protection 1998. Environmentalist activity of medium and big companies in Hungary</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D83: TÁRKI Environment Protection 1998. Environmentalist activity of medium and big companies in Hungary. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Bluffstone, Randall</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Harvard Institute for International Development</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>costs of production, revenue from sales, export activity, environmental investments, rate of waste emission, reporting of environmental pollution, authority or public condemnation because of environment pollution, adaptation to EU environmental regulations</dcterms:description>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>international politics and organisations</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>natural resources and environment</dcterms:subject>
+   <dcterms:subject>1998</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The companies in the sample were selected from the registry of the Hungarian Central Statistical Office (KSH). The basic population consisted of companies founded after 1996 having more than 20 employees (companies were included even where the number of employees was not clear), according to the given sector categorization.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The Privatization questionnaire, which was part of the survey, was not recorded because of the low number of respondents. There was no documentation book made about this survey, only a short English description.</dcterms:subject>
+   <dcterms:subject>379</dcterms:subject>
+   <dcterms:subject>348</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English documentation</dcterms:subject>
+</entry>

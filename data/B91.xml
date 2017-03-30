@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B91</dcterms:source>
+   <dcterms:title>International Life Style Study 1984. The Consequences of Social Stratification and Life Style. Czech data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B91: International Life Style Study 1984. The Consequences of Social Stratification and Life Style. Czech data.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Gabal, Ivan</dcterms:creator>
+	<dcterms:creator>Ganzeboom, Harry</dcterms:creator>
+	<dcterms:creator>Kelley, Jonathan</dcterms:creator>
+	<dcterms:creator>Kolosi, Tamás</dcterms:creator>
+	<dcterms:creator>Mateju, Petr</dcterms:creator>
+	<dcterms:creator>Treiman, Donald J.</dcterms:creator>
+   <dcterms:contributor>Czechoslovak Academy of Sciences</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>social stratification and life style, the transmission mechanism of social inequalities</dcterms:description>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+   <dcterms:subject>1984</dcterms:subject>
+   <dcterms:coverage>Czechoslovakia</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A one-third random sub-sample of the Czechoslovak ISS-84.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>6171</dcterms:subject>
+   <dcterms:subject>86</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

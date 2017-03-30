@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D20</dcterms:source>
+   <dcterms:title>TÁRKI OMNIBUS 1995 - ISSP 1995. National Identity I. Hungarian data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D20: TÁRKI OMNIBUS 1995 - ISSP 1995. National Identity I. Hungarian data.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Csepeli, György</dcterms:creator>
+	<dcterms:creator>Hideg, Éva</dcterms:creator>
+	<dcterms:creator>Nováky, Erzsébet</dcterms:creator>
+	<dcterms:creator>Örkény, Antal</dcterms:creator>
+	<dcterms:creator>Pongrácz, Tiborné</dcterms:creator>
+	<dcterms:creator>Róbert, Péter</dcterms:creator>
+	<dcterms:creator>S. Molnár, Edit</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Budapest University of Economic Sciences and Public Administration</dcterms:contributor>
+	<dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>data about children, satisfaction with subsidies provided by social policy, and the justness of distribution; willingness to change residence; Hungary, the condition and the role of Hungarian nation; immigration, political relations of Hungary</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+   <dcterms:subject>1995-10-01  1995-11-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D67</dcterms:subject>
+	<dcterms:subject>TDATA-F64</dcterms:subject>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>219</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

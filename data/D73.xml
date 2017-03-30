@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D73</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 1998/4. Social-political attitudes in Hungary among the adult population.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D73: TÁRKI Omnibus 1998/4. Social-political attitudes in Hungary among the adult population.. data sheet. Version: 2007-02-12</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Stumpf__Istvan">Stumpf, István</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=S._Molnar__Edit">S. Molnár, Edit</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Papai__Zoltan">Pápai, Zoltán</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (1.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute (2.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian National Communications Authority (3.)</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:description>1. basic political values and attitudes, responsiveness to political campaigns, participation at the 1998 parliamentary elections, evaluation of the Hungarian democracy, economic expectations (individual and national), membership in trade union and civil organizations 2. attitudes towards the female employment, career of women, bearing and rearing children, gender-based division of labor in the family and satisfaction with it 3. telecommunication consumption, expectations towards and satisfaction with telephone services (regular, mobile, telephone box), habits of telephone use, opinions about telephone fees</dcterms:description>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+   <dcterms:subject>1998-06-13  1998-06-22</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>block 1: A, block 2: C, block 3: A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1500</dcterms:subject>
+   <dcterms:subject>470 (360)</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D46</dcterms:source>
+   <dcterms:title>Longitudinal Survey of Processes Influencing Secure Living in Hungary 1991-1993.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D46: Longitudinal Survey of Processes Influencing Secure Living in Hungary 1991-1993.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Ferge, Zsuzsa</dcterms:creator>
+   <dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>The research looked in 1991 at developments in people's safety of existence. It tried to answer the question of how the safety of existence of individuals and families was influenced by the economic, social and political changes; it also looked at whether the various components of the safety of existence changed, workplace safety, the safety of retaining current income, the safety of maintaining one's domicile etc. The research also tried to identify strategies employed by individuals and families in difficult life situations. Data recording was repeated in the third year of the longitudinal research.</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>1991</dcterms:subject>
+	<dcterms:subject>1992</dcterms:subject>
+	<dcterms:subject>1993</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 1000-household partial sample of the Hungarian Central Statistical Office (KSH) income research in 1987.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The data file contains both the individual and household data, one person per line.</dcterms:subject>
+   <dcterms:subject>2948</dcterms:subject>
+   <dcterms:subject>2472</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

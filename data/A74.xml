@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A74</dcterms:source>
+   <dcterms:title>Educability and Primary School 1982. Factors in the educability of elementary school students in Zala county, their family socialization.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A74: Educability and Primary School 1982. Factors in the educability of elementary school students in Zala county, their family socialization.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Illyés, Sándor</dcterms:creator>
+   <dcterms:contributor>Hungarian Educational Research Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Gusztáv Bárczi Training College for Special Education</dcterms:contributor>
+	<dcterms:contributor>Hungarian Educational Research Institute</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>comparing the samples of primary and auxiliary schools in the following dimensions: factors of children's educability (intelligence, ability to learn, knowledge level, study results), family socialization (social status, parents' IQ), factors of school education (characteristics of school and teacher)</dcterms:description>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+   <dcterms:subject>1982-05-01  1982-09-30</dcterms:subject>
+   <dcterms:coverage>Zala county</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>qualitative and quantitavie</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 30% sample, representative of children in the first and second grade of regular primary schools, and first and second school grade children of the auxiliary schools of Zala county.</dcterms:subject>
+   <dcterms:subject>Questionnaires and psychological tests.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1016</dcterms:subject>
+   <dcterms:subject>248</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

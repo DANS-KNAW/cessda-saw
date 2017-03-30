@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F09b</dcterms:source>
+   <dcterms:title>Networks of the 1956 Revolution Convicts. Sample of 1956 revolution convicts.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F09b: Networks of the 1956 Revolution Convicts. Sample of 1956 revolution convicts.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Kőrösi, Zsuzsanna</dcterms:creator>
+   <dcterms:contributor>1956 Institute Public Foundation</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>1956 Institute Public Foundation</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the research attemps to map out whether and to what extent the individual and complete system of relations can be reconstructed based on the memories of 1956 convicts from Budapest; revolution of 1956, retaliation, network analysis</dcterms:description>
+   <dcterms:subject>community, urban and rural life</dcterms:subject>
+   <dcterms:subject>2000  2002</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>semi-structured interview</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>The basic population is the convicts of the 1956 revolution. The sample consists of 106 biographical interviews the subjects of which took part in the 1956 revolution in Budapest, and were subsequently imprisoned for their activities.</dcterms:subject>
+   <dcterms:subject>Secondary analysis of unstructured interviews.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-F09a</dcterms:subject>
+   <dcterms:subject>106</dcterms:subject>
+   <dcterms:subject>39</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

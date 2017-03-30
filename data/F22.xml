@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F22</dcterms:source>
+   <dcterms:title>TÁRKI Digital TV 2002. Prevalence and use of infocommunications tools among the adult Hungarian population.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-05-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F22: TÁRKI Digital TV 2002. Prevalence and use of infocommunications tools among the adult Hungarian population.. data sheet. Version: 2011-05-12</dcterms:subject>
+   <dcterms:creator>Fábián, Zoltán</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Antenna Hungaria Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>prevalence and use of infocommunication tools, television watching habits, technical preparedness for digital television watching, internet use at home, use of teletext</dcterms:description>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+   <dcterms:subject>2002-02-19  2002-03-06</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage, proportionately stratified probability sample. At the first stage settlemens were selected, at the second the respondents within the settlements; the initial household sample was composed of their households. The addresses dropping out were replaced by a reserve sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The data file contains both the data of the individual and household questionnaires. Variables beginning with "de" are from the individual questionnaire, while variables beginning with "dh" refer to the household questionnaire. The SELECT IF CSALALL = 1 command can be used to get the household file (in which each household occurs only in one line, a total of 1520 cases). The command SELECT IF EGYENI = 1 makes it possible to select those persons (a total of 3328 cases) who responded to the individual questionnaire.</dcterms:subject>
+   <dcterms:subject>4486</dcterms:subject>
+   <dcterms:subject>766</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian guide</dcterms:subject>
+	<dcterms:subject>Hungarian household questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian individual questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

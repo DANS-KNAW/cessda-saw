@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C40</dcterms:source>
+   <dcterms:title>Time Budget and Life Style Survey Among Hungarian Teachers 1987. Special supplement.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C40: Time Budget and Life Style Survey Among Hungarian Teachers 1987. Special supplement.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Falussy, Béla</dcterms:creator>
+	<dcterms:creator>Zoltánka, Viktor</dcterms:creator>
+	<dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+	<dcterms:contributor>Hungarian Educational Research Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>use of time, living and working conditions, life path, extra income, cultural habits, career motivation, educating activities, health state, holiday activities</dcterms:description>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1986  1987</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>National sample, data obtained from 650 primary school teachers and 650 secondary school teachers by way of time budgets, 3 times. 1966 primary school teachers and 1937 secondary school teachers were included in the sample.</dcterms:subject>
+   <dcterms:subject>Self-completed diaries and data collection with questionnaire administered by interviewers.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C38</dcterms:subject>
+	<dcterms:subject>TDATA-C39</dcterms:subject>
+   <dcterms:subject>1263</dcterms:subject>
+   <dcterms:subject>320</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

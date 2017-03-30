@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E90</dcterms:source>
+   <dcterms:title>ESPAD 1995. Alcohol and drug consumption of Hungarian secondary school students.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E90: ESPAD 1995. Alcohol and drug consumption of Hungarian secondary school students.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Elekes, Zsuzsanna</dcterms:creator>
+	<dcterms:creator>Paksi, Borbála</dcterms:creator>
+   <dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Budapest University of Economic Sciences and Public Administration</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>examining the prevalence of alcohol consumption, smoking and using other drugs among high school students; it also examined attitudes towards the drugs and their consumers, and factors in the development of consumption</dcterms:description>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+   <dcterms:subject>1995-03-01  1995-03-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Simple stratified group sampling. Because of the different size of the schools the number of classes was taken into consideration. The number of schools were summarized and categorized by regional units and school types. At the first stage the basic population was stratified based on the distribution of schools by regional location. The rating numbers for the individual counties and Budapest were defined, considering the number of classes in the individual schools. Then within the individual regional units the schools were arranged by school types, then by the appropriate group-defining criteria (region and school type)a 13% random sample and a 2,6% (compared to the sample, a 20%-os) supplementary sample was selected from among the ranked classes.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E72</dcterms:subject>
+   <dcterms:subject>Variables marked with q indicate the compulsory questions of ESPAD, and those marked with hd only indicate the questions asked in the Hungarian survey. The order of variables is identical with the order in the questionnaire.</dcterms:subject>
+   <dcterms:subject>17085</dcterms:subject>
+   <dcterms:subject>252</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

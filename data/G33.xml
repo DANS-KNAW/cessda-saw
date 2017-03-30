@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G33</dcterms:source>
+   <dcterms:title>TÁRKI Hungarian Household Panel - Longitudinal Database 1992-1997.  The financial and labor market position of Hungarian households.</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-08-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G33: TÁRKI Hungarian Household Panel - Longitudinal Database 1992-1997.  The financial and labor market position of Hungarian households.. data sheet. Version: 2009-08-12</dcterms:subject>
+   <dcterms:creator>Tóth, István György</dcterms:creator>
+	<dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Sociology</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>demographic data of household, characteristics of accommodation, data on income, qualifications, education level, profession of members of household, characteristics of household's subsistence conditions, development of expenses, economy and wealth; formation of manpower positions, economic activities, changes in job and income of household members</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>National representative sample of households</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C81</dcterms:subject>
+	<dcterms:subject>TDATA-C82</dcterms:subject>
+	<dcterms:subject>TDATA-C83</dcterms:subject>
+	<dcterms:subject>TDATA-D08</dcterms:subject>
+	<dcterms:subject>TDATA-D28</dcterms:subject>
+	<dcterms:subject>TDATA-D56</dcterms:subject>
+	<dcterms:subject>TDATA-D56b</dcterms:subject>
+	<dcterms:subject>TDATA-F36</dcterms:subject>
+   <dcterms:subject>8237</dcterms:subject>
+   <dcterms:subject>10823</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

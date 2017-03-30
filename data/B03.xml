@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B03</dcterms:source>
+   <dcterms:title>Secularization and Religion Among Residents of Pécs 1985</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B03: Secularization and Religion Among Residents of Pécs 1985. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Jóri, János</dcterms:creator>
+   <dcterms:contributor>Janus Pannonius University Faculty of Law</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Janus Pannonius University</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>self-classification into religious and non-religious groups; religious people: the extent of accepting transcendence; indicators of religious life, opinion about non-religious people; non-religious people: opinion about religion, religious people and the future of religion; the total sample: sociological variables (hard variables); value preference, presence in social life/communities</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+   <dcterms:subject>1985-01-01  1985-06-30</dcterms:subject>
+   <dcterms:coverage>Pécs</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Representative of the adult population living in the city of Pécs: 1% of the total population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1711</dcterms:subject>
+   <dcterms:subject>279</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

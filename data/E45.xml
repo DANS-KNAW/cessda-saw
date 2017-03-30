@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E45</dcterms:source>
+   <dcterms:title>TÁRKI Guest 2000. Foreigners' Touristic Demand for Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E45: TÁRKI Guest 2000. Foreigners' Touristic Demand for Hungary.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Probáld, Ákos</dcterms:creator>
+	<dcterms:creator>Szivós, Péter</dcterms:creator>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Kopint-Datorg Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>this survey is basically an experimental survey to provide help in designing a more final questionnaire; the aim of the survey is to collect data on foreigners visiting Hungary: the frequency of visits, the structure of their expenditure, and their travel habits</dcterms:description>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+   <dcterms:subject>2000-12-10  2000-12-18</dcterms:subject>
+   <dcterms:coverage>Hungary (border stations)</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Interviewing was done at four border stations (Záhony, Biharkeresztes, Hegyeshalom, Röszke), on two trains (Budapest - Zágráb and Budapest- Hegyeshalom), and at the Ferihegy airport in Budapest among foreigners about to leave Hungary. Only tourists were asked, those working in Hungary and passengers in transit were not interviewed.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>529</dcterms:subject>
+   <dcterms:subject>104</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire and documentation</dcterms:subject>
+</entry>

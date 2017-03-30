@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D18</dcterms:source>
+   <dcterms:title>Shaping of Healthy and Pathological Personality: Behaviour Control as a Function of Hierarchically Structured Cerebral Mechanisms 1991-1994</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D18: Shaping of Healthy and Pathological Personality: Behaviour Control as a Function of Hierarchically Structured Cerebral Mechanisms 1991-1994. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Kulcsár, Zsuzsanna</dcterms:creator>
+   <dcterms:contributor>Loránd Eötvös University Faculty of Arts</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Loránd Eötvös University</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>Eysenck: personality questionnaire: extroversion, neurotics, lie, psychotics; Claridge: schizothymia questionnaire: schizothymia, borderline, psychotics; Zuckerman: sensory experience-seeking analysis: looking for excitement and adventure, disinhibition, experience-seeking, tedium bearing; socialisation scale of Californian personality questionnaire</dcterms:description>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:subject>1991  1994</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Juvenile delinquents: 162 (male: 148, female: 14), young people from youth custody center: 124 (male: 95, female: 29), apprentices: 189 (male: 144, female: 45), grammar-school students: 77 (male: 77).</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>552</dcterms:subject>
+   <dcterms:subject>14</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

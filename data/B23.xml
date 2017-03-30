@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B23</dcterms:source>
+   <dcterms:title>Hungarian Settlement-Statistical Database-System (TSTAR) 1986-1988</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B23: Hungarian Settlement-Statistical Database-System (TSTAR) 1986-1988. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>KSH Területi Statisztikai Főosztály dolgozói</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Regional Statistics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>population, industry, trade, services, tourism, housing, public utilities, health care, culture, institutions</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>1986</dcterms:subject>
+	<dcterms:subject>1988</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>administrative area</dcterms:subject>
+   <dcterms:subject>aggregate data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>No sampling. All Hungarian settlements.</dcterms:subject>
+   <dcterms:subject>Summary of administrative records.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C97</dcterms:subject>
+	<dcterms:subject>TDATA-C98</dcterms:subject>
+	<dcterms:subject>TDATA-D03</dcterms:subject>
+	<dcterms:subject>TDATA-D04</dcterms:subject>
+	<dcterms:subject>TDATA-D14</dcterms:subject>
+	<dcterms:subject>TDATA-D55</dcterms:subject>
+	<dcterms:subject>TDATA-B36</dcterms:subject>
+   <dcterms:subject>3086</dcterms:subject>
+   <dcterms:subject>375</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

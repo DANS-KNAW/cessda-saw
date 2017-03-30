@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C17</dcterms:source>
+   <dcterms:title>ICPSR Quality of Employment Survey 1972-1973. Employment problems of the population of the US employed to work less than 20 hours a week.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C17: ICPSR Quality of Employment Survey 1972-1973. Employment problems of the population of the US employed to work less than 20 hours a week.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Margione, Thomas W.</dcterms:creator>
+	<dcterms:creator>Quinn, Robert P.</dcterms:creator>
+	<dcterms:creator>Seashore, Stanley E.</dcterms:creator>
+   <dcterms:contributor>University of Michigan Institute for Social Research</dcterms:contributor>
+   <dcterms:contributor>Inter-university Consortium for Political and Social Research</dcterms:contributor>
+   <dcterms:contributor>Inter-university Consortium for Political and Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the frequency and gravity of job related problems as viewed by employees; job satisfaction, plans for the future; physical and mental health</dcterms:description>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+   <dcterms:subject>1972  1973</dcterms:subject>
+   <dcterms:coverage>United States of America</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Individuals aged 16 or more were asked from the national random sample of households who work at least 20 hours a week or who presently do not work due to strike, sickness, weather conditions, vacation or personal reasons.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1455</dcterms:subject>
+   <dcterms:subject>791</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E52</dcterms:source>
+   <dcterms:title>TÁRKI Roma 2001. Preparedness of young teachers for educating Roma students.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E52: TÁRKI Roma 2001. Preparedness of young teachers for educating Roma students.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Nagy, Mária</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Public Education Institute Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the professional backgrond of teachers, and their opinions about to what extent they can use the knowledge acquired in the training institutions in their everyday activities, with special regard to the high proportion of Roma students; negative and positive experiences in everyday teaching; the situationof Roma students in the classroom</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+   <dcterms:subject>2001-02-19  2001-03-04</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>During the data collection, young kindergarten teachers, teachers in 1-4 grades of elementary school, 5-8 grades of elementary school, and teachers teaching in secondary schools who have finished their higher education studies at most 5 years ago, and who teach in schools where the rate of Roma students is over 20%. Both the institutions and the schools were selected based on a previous telephone interview. The supplementary address interviews were done based on this sample. During the sata collection 540 teachers were interviewed.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The open-ended questions in the questionnaire were not recorded in the data file, only the fact whether the respondent answered or not.</dcterms:subject>
+   <dcterms:subject>540</dcterms:subject>
+   <dcterms:subject>520</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

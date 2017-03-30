@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F01</dcterms:source>
+   <dcterms:title>TÁRKI Changes 2001. The opinion of the adult population about the democratic political culture in Hungary.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F01: TÁRKI Changes 2001. The opinion of the adult population about the democratic political culture in Hungary.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Józan, Anna</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>judging the importance of current internal and external affairs; comparing socialism and market democracy, opinions about the democratic political system; popularity of politicians, party preferences; trust in public and social organizations; perception of the prevalence of corruption; agreement with authoritarian opinions, authoritarianism; subjective financial situation, economic expectations; opinion about private property, foreign capital, globalisation; national identity, xenophobia, anti-Roma sentiments, perception of ethnic conflicts; evaluation of NATO membership and participation; opinions about the EU accession and its aspect concerning national sovereignty; evaluation of the political, economic, moral role of of the US; opinions about the Hungarian media</dcterms:description>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+   <dcterms:subject>2001-05-29  2001-06-06</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the Leslie Kish key and the random walking method.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E25</dcterms:subject>
+	<dcterms:subject>TDATA-F54</dcterms:subject>
+   <dcterms:subject>1021</dcterms:subject>
+   <dcterms:subject>238</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

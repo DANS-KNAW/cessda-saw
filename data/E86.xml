@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E86</dcterms:source>
+   <dcterms:title>The Role of Natural Healing in the Development Processes of Health Care, Health Behavior and Notion of Health in Hungary 1999</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E86: The Role of Natural Healing in the Development Processes of Health Care, Health Behavior and Notion of Health in Hungary 1999. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Buda, László</dcterms:creator>
+   <dcterms:contributor>Szociográf Market and Public Opinion Research Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Pécs Institute of Behavioral Sciences</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the Hungarian situation of natural healing, its characteristics, its utilization and the regional distribution of "sympathy"</dcterms:description>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+   <dcterms:subject>1999</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A sample representative of the adult Hungarian population over 18 years by age, gender, education and settlement type.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1200</dcterms:subject>
+   <dcterms:subject>17</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

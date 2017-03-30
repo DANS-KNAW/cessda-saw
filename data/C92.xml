@@ -1,0 +1,159 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C92</dcterms:source>
+   <dcterms:title>World Values Survey II 1990-1993. International comparative value survey.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C92: World Values Survey II 1990-1993. International comparative value survey.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Alishauskiene, Rasa</dcterms:creator>
+	<dcterms:creator>Andrejenkov, Vladimir</dcterms:creator>
+	<dcterms:creator>Auh, Soo Young</dcterms:creator>
+	<dcterms:creator>Barker, David</dcterms:creator>
+	<dcterms:creator>Basanez, Miguel</dcterms:creator>
+	<dcterms:creator>Bashkirova, Elena</dcterms:creator>
+	<dcterms:creator>Boguszak, Marek</dcterms:creator>
+	<dcterms:creator>Cilley, Marita Carballo de</dcterms:creator>
+	<dcterms:creator>Costa, Eric de</dcterms:creator>
+	<dcterms:creator>Díez-Nicolas, Juan</dcterms:creator>
+	<dcterms:creator>Dobbelaere, Karel</dcterms:creator>
+	<dcterms:creator>Dogan, Mattei</dcterms:creator>
+	<dcterms:creator>Elzo, Javier</dcterms:creator>
+	<dcterms:creator>Erguder, Ustun</dcterms:creator>
+	<dcterms:creator>Esmer, Yilmaz</dcterms:creator>
+	<dcterms:creator>Filipcova, Blanka</dcterms:creator>
+	<dcterms:creator>Fogarty, Michael</dcterms:creator>
+	<dcterms:creator>Franca, Luis de</dcterms:creator>
+	<dcterms:creator>Friesl, Christian</dcterms:creator>
+	<dcterms:creator>Fukuda, Yuji</dcterms:creator>
+	<dcterms:creator>Gabal, Ivan</dcterms:creator>
+	<dcterms:creator>Gallup, Alec</dcterms:creator>
+	<dcterms:creator>Gallup, George</dcterms:creator>
+	<dcterms:creator>Gubert, Renzo</dcterms:creator>
+	<dcterms:creator>Gundelach, Peter</dcterms:creator>
+	<dcterms:creator>Halman, Loek</dcterms:creator>
+	<dcterms:creator>Hankiss, Elemér</dcterms:creator>
+	<dcterms:creator>Harding, Stephen</dcterms:creator>
+	<dcterms:creator>Heald, Gordon</dcterms:creator>
+	<dcterms:creator>Heunks, Felix</dcterms:creator>
+	<dcterms:creator>Huneeus, Carlos</dcterms:creator>
+	<dcterms:creator>Iijima, Kenji</dcterms:creator>
+	<dcterms:creator>Inglehart, Ronald</dcterms:creator>
+	<dcterms:creator>Jesumo, J.C.</dcterms:creator>
+	<dcterms:creator>Jonsson, Fridrik</dcterms:creator>
+	<dcterms:creator>Kalaycioglu, Ersin</dcterms:creator>
+	<dcterms:creator>Kerkhofs, Jan</dcterms:creator>
+	<dcterms:creator>Klingemann, Hans-Dieter</dcterms:creator>
+	<dcterms:creator>Koecher, Renate</dcterms:creator>
+	<dcterms:creator>Lagos, Marta</dcterms:creator>
+	<dcterms:creator>Larsen, Max</dcterms:creator>
+	<dcterms:creator>Listhaug, Ola</dcterms:creator>
+	<dcterms:creator>Lotreanu, Nicolae</dcterms:creator>
+	<dcterms:creator>Lotti, Leila</dcterms:creator>
+	<dcterms:creator>Madhok, V. P.</dcterms:creator>
+	<dcterms:creator>Manchin, Róbert</dcterms:creator>
+	<dcterms:creator>Matheus, Carlos Eduardo Meirelles</dcterms:creator>
+	<dcterms:creator>Melich, Anna</dcterms:creator>
+	<dcterms:creator>Mikk, Titma</dcterms:creator>
+	<dcterms:creator>Moor, Ruud</dcterms:creator>
+	<dcterms:creator>Nevitte, Neil</dcterms:creator>
+	<dcterms:creator>Noelle-Neumann, Elisabeth</dcterms:creator>
+	<dcterms:creator>Olafsson, Stefan</dcterms:creator>
+	<dcterms:creator>Orizo, Francisco Andres</dcterms:creator>
+	<dcterms:creator>Pehkonen, Juhani</dcterms:creator>
+	<dcterms:creator>Petterson, Thorleif</dcterms:creator>
+	<dcterms:creator>Rabier, Jacques-Rene</dcterms:creator>
+	<dcterms:creator>Raichev, Andrei</dcterms:creator>
+	<dcterms:creator>Rak, Vladimir</dcterms:creator>
+	<dcterms:creator>Riffault, Helene</dcterms:creator>
+	<dcterms:creator>Riis, Ole</dcterms:creator>
+	<dcterms:creator>Saar, Andrus</dcterms:creator>
+	<dcterms:creator>Siemienska, Renata</dcterms:creator>
+	<dcterms:creator>Stoichev, Kancho</dcterms:creator>
+	<dcterms:creator>Tejumola, Kareem</dcterms:creator>
+	<dcterms:creator>Timms, Noel</dcterms:creator>
+	<dcterms:creator>Toš, Niko</dcterms:creator>
+	<dcterms:creator>Vardomatski, Andrei</dcterms:creator>
+	<dcterms:creator>Wössner, Christine</dcterms:creator>
+	<dcterms:creator>Xingrong, Jiang</dcterms:creator>
+	<dcterms:creator>Yadov, Vladimir</dcterms:creator>
+	<dcterms:creator>Yamakazi, Seiko</dcterms:creator>
+	<dcterms:creator>Zamfir, Catalin</dcterms:creator>
+	<dcterms:creator>Zepa, Brigita</dcterms:creator>
+	<dcterms:creator>Zongde, Xiang</dcterms:creator>
+	<dcterms:creator>Zulehner, Paul</dcterms:creator>
+	<dcterms:creator>P  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Vala__Jorge">Vala, Jorge</a></dcterms:creator>
+	<dcterms:contributor>Fessel-Gfk (A)</dcterms:contributor>
+	<dcterms:contributor>Dimaraso-Gallup (B)</dcterms:contributor>
+	<dcterms:contributor>National Public Opinion Research Center (BG)</dcterms:contributor>
+	<dcterms:contributor>Belarus Academy of Sciences Institute of Sociology (BLR)</dcterms:contributor>
+	<dcterms:contributor>Gallup Brazil (BR)</dcterms:contributor>
+	<dcterms:contributor>Gallup-Canada (CAN)</dcterms:contributor>
+	<dcterms:contributor>Swiss Public Opinion Institute (CH)</dcterms:contributor>
+	<dcterms:contributor>Association for Independent Social Analysis (CZ)</dcterms:contributor>
+	<dcterms:contributor>Institute for Public Opinion Research (D)</dcterms:contributor>
+	<dcterms:contributor>Danish National Institute of Social Research (Dk)</dcterms:contributor>
+	<dcterms:contributor>Sociological, Economic and Political Analysis (E)</dcterms:contributor>
+	<dcterms:contributor>Mass Communication Research and Information Center (EW)</dcterms:contributor>
+	<dcterms:contributor>Facts et Opinions (F)</dcterms:contributor>
+	<dcterms:contributor>Gallup Hungary (H)</dcterms:contributor>
+	<dcterms:contributor>(I)</dcterms:contributor>
+	<dcterms:contributor>Indian Institute of Public Opinion (IND)</dcterms:contributor>
+	<dcterms:contributor>Economic and Social Research Institute (IRL)</dcterms:contributor>
+	<dcterms:contributor>University of Iceland Social Science Research Institute (IS)</dcterms:contributor>
+	<dcterms:contributor>Nippon Research Center Ltd. (J)</dcterms:contributor>
+	<dcterms:contributor>Vilnius State University Sociological Laboratory (LT)</dcterms:contributor>
+	<dcterms:contributor>Public Opinion Research Group (LV)</dcterms:contributor>
+	<dcterms:contributor>Latvian Sociological Association (LV)</dcterms:contributor>
+	<dcterms:contributor>Market and Opinion Research International (MEX)</dcterms:contributor>
+	<dcterms:contributor>Norwegian Central Bureau of Statistics (N)</dcterms:contributor>
+	<dcterms:contributor>Institute for Social Sciences Research (NL)</dcterms:contributor>
+	<dcterms:contributor>EuroExpansao (P)</dcterms:contributor>
+	<dcterms:contributor>(PL)</dcterms:contributor>
+	<dcterms:contributor>Gallup Argentina (RA)</dcterms:contributor>
+	<dcterms:contributor>Chinese Statistical Information Center (RC)</dcterms:contributor>
+	<dcterms:contributor>Center for Contemporary Studies (RCH)</dcterms:contributor>
+	<dcterms:contributor>Romanian Academy of Sciences Institute for Research on Life Quality (RO)</dcterms:contributor>
+	<dcterms:contributor>Ewha University (ROK)</dcterms:contributor>
+	<dcterms:contributor>Sifo Research and Consulting (S)</dcterms:contributor>
+	<dcterms:contributor>Gallup Finland (SF)</dcterms:contributor>
+	<dcterms:contributor>University of Ljubljana Center for Public Opinion Research (SLO)</dcterms:contributor>
+	<dcterms:contributor>Soviet Academy of Sciences Institute for Social and Political Research (SU)</dcterms:contributor>
+	<dcterms:contributor>Soviet Academy of Sciences Institute of Sociology (SU)</dcterms:contributor>
+	<dcterms:contributor>Bogazici University Department of Political Science (TR)</dcterms:contributor>
+	<dcterms:contributor>The Gallup Organization (UK)</dcterms:contributor>
+	<dcterms:contributor>The Gallup Organization (USA)</dcterms:contributor>
+	<dcterms:contributor>Gallup-Nigeria (WAN)</dcterms:contributor>
+	<dcterms:contributor>Markinor (ZA)</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>work, family, friendly relationships, free time activities, the significance of politics and religion; subjective satisfaction, political consciousness, the image of society; attitudes about work and current job, evaluation of workplace; membership in civil societies, associations, voluntary activities; trust in people, social groups, Bogardus scale; state of health, way of living; ideas about the meaning of life, the evaluation of scientific progress; opinions about ethical and moral pronciples, religious way of life and faith; marriage, divorce, abortion, different family types, evaluation of female employment; principles of child rearing; opinions about different types of political actions; trust in various civil and governmental organizations, institutions; membership in political parties, trade unions,political self-categorization</dcterms:description>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+   <dcterms:subject>1990  1993</dcterms:subject>
+   <dcterms:coverage>international comparative survey</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Adults aged 18 and over in the entire population of 45 countries around the world. Both national random and quota sampling were used. The populations of India, China, and Nigeria, as well as rural areas and the illiterate population were put into subsamples.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B50</dcterms:subject>
+	<dcterms:subject>TDATA-C70</dcterms:subject>
+	<dcterms:subject>TDATA-D92</dcterms:subject>
+   <dcterms:subject>89908</dcterms:subject>
+   <dcterms:subject>379</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

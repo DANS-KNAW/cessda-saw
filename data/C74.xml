@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C74</dcterms:source>
+   <dcterms:title>Life Style and Time Budget Survey in Hungary, Comparative Data Collection of the 1963, 1976, and 1986 Time Budget Surveys</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C74: Life Style and Time Budget Survey in Hungary, Comparative Data Collection of the 1963, 1976, and 1986 Time Budget Surveys. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Falussy, Béla</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Social Statistics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>daily activities broken down by types of settlements, age, occupational groups and gender</dcterms:description>
+   <dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>1963</dcterms:subject>
+	<dcterms:subject>1976</dcterms:subject>
+	<dcterms:subject>1986</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>administrative records</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Time budget observations: data taken in March 1963; 1976, and December - May 1986.</dcterms:subject>
+   <dcterms:subject>Secondary analysis.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B84a</dcterms:subject>
+	<dcterms:subject>TDATA-B84b</dcterms:subject>
+	<dcterms:subject>TDATA-B84c</dcterms:subject>
+	<dcterms:subject>TDATA-B84d</dcterms:subject>
+	<dcterms:subject>TDATA-B85e</dcterms:subject>
+	<dcterms:subject>TDATA-B85h</dcterms:subject>
+	<dcterms:subject>TDATA-B85i</dcterms:subject>
+	<dcterms:subject>TDATA-B85j</dcterms:subject>
+	<dcterms:subject>TDATA-B85k</dcterms:subject>
+	<dcterms:subject>TDATA-F48a</dcterms:subject>
+	<dcterms:subject>TDATA-F48b</dcterms:subject>
+	<dcterms:subject>TDATA-F48c</dcterms:subject>
+   <dcterms:subject>96</dcterms:subject>
+   <dcterms:subject>288</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

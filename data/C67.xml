@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C67</dcterms:source>
+   <dcterms:title>Income Dynamics Validation Study. Detroit 1983-87.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C67: Income Dynamics Validation Study. Detroit 1983-87.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Morgan, James N.</dcterms:creator>
+   <dcterms:contributor>University of Michigan Survey Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>income data, data referring to workplace, hours spent in job and level of satisfaction with job and workplace</dcterms:description>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>1983</dcterms:subject>
+	<dcterms:subject>1987</dcterms:subject>
+   <dcterms:coverage>Detroit (USA)</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>qualitative and quantitavie</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>Systematically sampling among the workers of a productive plant in Detroit.</dcterms:subject>
+   <dcterms:subject>Telephone interviews based on questionnaire, and data sheets from workplace.</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>603</dcterms:subject>
+   <dcterms:subject>642</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

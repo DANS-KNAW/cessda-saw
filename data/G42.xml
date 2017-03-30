@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G42</dcterms:source>
+   <dcterms:title>TÁRKI Immigrants 2005. The living conditions of immigrants migrating to Hungary.</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>0000-00-00</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G42: TÁRKI Immigrants 2005. The living conditions of immigrants migrating to Hungary.. data sheet. Version: 0000-00-00</dcterms:subject>
+	<dcterms:creator>Gödri, Irén</dcterms:creator>
+	<dcterms:creator>Tóth, Pál Péter</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute</dcterms:contributor>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+   <dcterms:subject>2005-12-19  2006-01-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>occupation</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-F39</dcterms:subject>
+   <dcterms:subject>676</dcterms:subject>
+   <dcterms:subject>775</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>hungarian questionnaire</dcterms:subject>
+</entry>

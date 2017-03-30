@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E12</dcterms:source>
+   <dcterms:title>TÁRKI Telephone Festival 1999. Popularity and evaluation of cultural festivals among the adult Budapest population.</dcterms:title>
+   <dcterms:creator>Szabó, Valéria</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E12: TÁRKI Telephone Festival 1999. Popularity and evaluation of cultural festivals among the adult Budapest population.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Csizér, Kata</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Budapest Festival Center Public Benefit Company</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>reputation of the Fall Festival, reputation of the Spring Festival, opinions about cultural festivals, interest in culture</dcterms:description>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+   <dcterms:subject>1999-11-29  1999-12-01</dcterms:subject>
+   <dcterms:coverage>Budapest</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Random sampling from the Budapest Telephone Register; persons questioned were selected on the basis of a two-dimensional quota: gender and age group.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>D (after 2005-02-01: A)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E09</dcterms:subject>
+	<dcterms:subject>TDATA-E10</dcterms:subject>
+	<dcterms:subject>TDATA-E20</dcterms:subject>
+   <dcterms:subject>1001</dcterms:subject>
+   <dcterms:subject>70</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

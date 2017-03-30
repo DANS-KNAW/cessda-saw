@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E58</dcterms:source>
+   <dcterms:title>TÁRKI Sport 2001/1. The attitude of the Hungarian adult population towards sports, visiting sports events.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E58: TÁRKI Sport 2001/1. The attitude of the Hungarian adult population towards sports, visiting sports events.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Denes__Ferenc">Dénes, Ferenc</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sagi__Matild">Sági, Matild</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of Youth and Sports (1.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of Economics and Transportation (2.)</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>1) relationship of respondent to sports, habits of watching sports programs and using internet in connection with sports; population customs of frequenting sports events and rooting; football-pools; sporting opportunities, sporting habits of the respondent; subjective evaluation of the health of the respondent, eating habits 2) "Survival chances of enterprises in Hungary" survey, finishing wave</dcterms:description>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+   <dcterms:subject>2001-04-20  2001-05-02</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E59</dcterms:subject>
+	<dcterms:subject>TDATA-E83</dcterms:subject>
+	<dcterms:subject>TDATA-E99</dcterms:subject>
+   <dcterms:subject>Block 2 is archived as part of a separate data file (E59) too.</dcterms:subject>
+   <dcterms:subject>2527</dcterms:subject>
+   <dcterms:subject>740</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

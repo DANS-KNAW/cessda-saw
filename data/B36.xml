@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B36</dcterms:source>
+   <dcterms:title>TÁRKI I. 1987. Simplified regional data about the settlements of Hungary.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B36: TÁRKI I. 1987. Simplified regional data about the settlements of Hungary.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Vécsei, Pál</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Institute of Scientific City Planning and Design</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the social development level of settlements; infrastructure, level of urbanization, age composition of the population; level of education</dcterms:description>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+   <dcterms:subject>1986-01-01  1986-01-01</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>administrative area</dcterms:subject>
+   <dcterms:subject>aggregate data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>No sampling. All Hungarian settlements.</dcterms:subject>
+   <dcterms:subject>Summary of statistical data.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B70</dcterms:subject>
+	<dcterms:subject>TDATA-B23</dcterms:subject>
+   <dcterms:subject>3049</dcterms:subject>
+   <dcterms:subject>33</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

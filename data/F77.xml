@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F77</dcterms:source>
+   <dcterms:title>New Company Strategies of Human Resource Management in Hungary 1998</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F77: New Company Strategies of Human Resource Management in Hungary 1998. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Tardos, Katalin</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>comparing the human resource management practices of the eighties with the tendencies of the nineties; examines the tendencies of various organizational types and groups them by form of property, nationality, size of company, starting year of organization; the effect of the human resource management policy of foreign companies on the Hungarian companies similar policies</dcterms:description>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+   <dcterms:subject>1995  1998</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Non-representative sample. 71 state and privately owned organizations in Hungary, employing more than 50 persons.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The detailed methodological documentation of the survey can be found in the study Humánpolitikai innovációk a kilencvenes években.</dcterms:subject>
+   <dcterms:subject>71</dcterms:subject>
+   <dcterms:subject>194</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F05b</dcterms:source>
+   <dcterms:title>Nurse Survey 1998. The Behavioral Reserach of the Work of Nurses in Hungary. Nurse trainees sample.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F05b: Nurse Survey 1998. The Behavioral Reserach of the Work of Nurses in Hungary. Nurse trainees sample.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Pikó, Bettina</dcterms:creator>
+   <dcterms:contributor>University of Szeged Institute of Behavioral Sciences</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Szeged Institute of Behavioral Sciences</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>health care, nurses, state of health, stress at the workplace, psychosomatic symptoms, social support</dcterms:description>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+   <dcterms:subject>1998</dcterms:subject>
+   <dcterms:coverage>Csongrád county</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The basic population includes nurses from Csongrád county as well as students of health secondary schools. This is a 600-personrandom sample, which includes 10% of the county nurses. From this random diminishing sample 420 nurses (218 registered nurses and 202 students) were willing to complete the questionnaire. At randomly selected wards a speciefied number of nurses were interviewed.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-F05a</dcterms:subject>
+   <dcterms:subject>202</dcterms:subject>
+   <dcterms:subject>167</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

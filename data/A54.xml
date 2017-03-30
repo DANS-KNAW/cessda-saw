@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A54</dcterms:source>
+   <dcterms:title>Study of Law-Consciousness 1984. Everyday notions of justice in four groups of the adult Population of Budapest.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A54: Study of Law-Consciousness 1984. Everyday notions of justice in four groups of the adult Population of Budapest.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Sajó, András</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Legal Studies Instutite</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Legal Studies Instutite</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-04-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>ideas about everyday justice based on personal experience: caused and observed injustice; the effect of these different situations and the incongruence of social situation on the evaluation of inequalities and abuses</dcterms:description>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>law enforcement</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+   <dcterms:subject>1984</dcterms:subject>
+   <dcterms:coverage>Budapest</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>semi-structured interview</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Adult population of Budapest, four groups; control variables: social status and income.</dcterms:subject>
+   <dcterms:subject>Semi-structured interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>389</dcterms:subject>
+   <dcterms:subject>143</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

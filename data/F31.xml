@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F31</dcterms:source>
+   <dcterms:title>TÁRKI Telephone Election 2002/1. The voting preferences of the adult population between the two rounds of the 2002 Hungarian parliamentary elections.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F31: TÁRKI Telephone Election 2002/1. The voting preferences of the adult population between the two rounds of the 2002 Hungarian parliamentary elections.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Gazsó, Tibor</dcterms:creator>
+	<dcterms:creator>Kolosi, Tamás</dcterms:creator>
+	<dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Századvég Center for Political Analysis</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>party preferences, voting behavior in the first and second round, voting intentions</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+   <dcterms:subject>2002-04-10  2002-04-10</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Random sample stratified by settlement type, composed of households with subscription to regular telephones. At the household belonging to the selected telephone number, the person who had their birthday closest after the date of the interview was selected to be interviewed.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>D (after 2007-05-01: A)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D78</dcterms:subject>
+	<dcterms:subject>TDATA-D79</dcterms:subject>
+	<dcterms:subject>TDATA-F30</dcterms:subject>
+	<dcterms:subject>TDATA-F32</dcterms:subject>
+	<dcterms:subject>TDATA-F33</dcterms:subject>
+   <dcterms:subject>1028</dcterms:subject>
+   <dcterms:subject>20</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E49l</dcterms:source>
+   <dcterms:title>Second National Patient Satisfaction Survey 2001. Opinions of Visitors About Hospital Treatment in Hungary.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E49l: Second National Patient Satisfaction Survey 2001. Opinions of Visitors About Hospital Treatment in Hungary.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian National Health Insurance Fund</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>opinion about the hospital health services by the relatives of patients having received health services in hospitals; opinion about the quality of information received about treatments</dcterms:description>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+   <dcterms:subject>2001-02-01  2001-03-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>41 hospitals were randomly selected from the list provided by the customer, out of which 38 were willing to participate in the survey. The interviewers handed over a postal questionnaire to each visitor leaving the hospitals in the sample.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E49b</dcterms:subject>
+   <dcterms:subject>1673</dcterms:subject>
+   <dcterms:subject>57</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

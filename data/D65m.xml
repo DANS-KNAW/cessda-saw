@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D65m</dcterms:source>
+   <dcterms:title>Citizens' Opinions About the Economic-Political Situation of Hungary in 1989 March</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D65m: Citizens' Opinions About the Economic-Political Situation of Hungary in 1989 March. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Bruszt, László</dcterms:creator>
+	<dcterms:creator>Simon, János</dcterms:creator>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Social Sciences</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>political attitudes, evaluation of political systems; economic-political situation of Hungary, opinions about this; satisfaction with social organizations, evaluation of the role they play; opinions about the governmental role playing; trust in parliamentary democracy; political activity</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+   <dcterms:subject>1989-03-01  1989-04-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A random national representative sample of the adult population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-D65o</dcterms:subject>
+   <dcterms:subject>During data collection the questionnaire was asked in March as well as October. Of these data, we have the entire October survey data and that part of the March survey which is common with the October survey.</dcterms:subject>
+   <dcterms:subject>729</dcterms:subject>
+   <dcterms:subject>351</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

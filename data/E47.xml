@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E47</dcterms:source>
+   <dcterms:title>Public Opinion About the Traffic Regulations of the District of Inner Franzstadt in Budapest 2001</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E47: Public Opinion About the Traffic Regulations of the District of Inner Franzstadt in Budapest 2001. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Józan, Anna</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Budapest District 9 Ferencváros Self-government Mayors Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>opinions about the changes in the traffic regulations of inner Franzstadt in Budapest (speed limit, Ráday street bcoming a pedestrian street, new parkig order), preferences for bus traffic</dcterms:description>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+   <dcterms:subject>2001-02-01  2001-02-28</dcterms:subject>
+   <dcterms:coverage>Inner Franzstadt (Budapest, district 9)</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The persons to be included in the sample were selected with a two-dimensional quota-based method from among the inhabitants of flats with telephones. The interviewer had to interview the youngest person from the family members over 18 years, in a way that the sample would contain an equal number of men and women in the end. The sample consists of two subsamples: one of them includes 303 residents from Ráday street, the other contains 411 residents from inner Franzstadt, but not from Ráday street.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>714</dcterms:subject>
+   <dcterms:subject>71</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

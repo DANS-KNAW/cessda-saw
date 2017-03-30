@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A59a</dcterms:source>
+   <dcterms:title>Household Statistics Surveys 1976. Changes in the Hungarian consumption structure in active and inactive households.</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A59a: Household Statistics Surveys 1976. Changes in the Hungarian consumption structure in active and inactive households.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Baranyai, István</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Economics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the changes of consumer strategy in time and the variation over space by various social strata and groups in connection with income, size and composition of households, type of the place of residence, the dwelling, and the possession of durables</dcterms:description>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+   <dcterms:subject>1976</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A sample of appr. 8.500 households covering households with active wage-earners (excluding self-employed persons) and inactive households (with no active wage-earners).</dcterms:subject>
+   <dcterms:subject>Consumption/expenditure diaries and data collection with questionnaire, administered by interviewers</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A59b</dcterms:subject>
+	<dcterms:subject>TDATA-A59c</dcterms:subject>
+	<dcterms:subject>TDATA-A59d</dcterms:subject>
+	<dcterms:subject>TDATA-A59e</dcterms:subject>
+	<dcterms:subject>TDATA-A59f</dcterms:subject>
+	<dcterms:subject>TDATA-A59g</dcterms:subject>
+   <dcterms:subject>8506</dcterms:subject>
+   <dcterms:subject>948</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

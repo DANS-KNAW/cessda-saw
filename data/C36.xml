@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C36</dcterms:source>
+   <dcterms:title>TÁRKI-C 1990. Socoal political attitudes in Hungary in the adult population.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C36: TÁRKI-C 1990. Socoal political attitudes in Hungary in the adult population.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gabor__Laszlo">Gábor, László</a></dcterms:creator>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gy_ri__Peter">Győri, Péter</a></dcterms:creator>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Vajda__Julia">Vajda, Júlia</a></dcterms:creator>
+	<dcterms:creator>2  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Andorka__Rudolf">Andorka, Rudolf</a></dcterms:creator>
+	<dcterms:creator>3  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kolozsi__Bela">Kolozsi, Béla</a></dcterms:creator>
+	<dcterms:creator>4  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sajo__Andras">Sajó, András</a></dcterms:creator>
+	<dcterms:creator>5  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kaposztas__Ferenc">Káposztás, Ferenc</a></dcterms:creator>
+	<dcterms:creator>5  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Pongracz__Tiborne">Pongrácz, Tiborné</a></dcterms:creator>
+	<dcterms:creator>5  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=S._Molnar__Edit">S. Molnár, Edit</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology (1.)</dcterms:contributor>
+	<dcterms:contributor>Budapest University of Economic Sciences and Public Administration (2.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Psychology (3.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Legal Studies Instutite (4.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute (5.)</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>1) household income, expenditure and money handling habits 2) life standard, social network, opinions about enterprises 3) general social condition, intergration disorders, drug use 4) awareness of laws, evaluation of asocial actions 5) family values, population policy, evaluation of abortion</dcterms:description>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1990-04-01  1990-08-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 1000-person national representative sample from the TÁRKI A sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-C37</dcterms:subject>
+   <dcterms:subject>994</dcterms:subject>
+   <dcterms:subject>430</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

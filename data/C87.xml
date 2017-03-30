@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C87</dcterms:source>
+   <dcterms:title>Changes in the Notions of Justice 1991. International comparative study.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C87: Changes in the Notions of Justice 1991. International comparative study.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Mason, David</dcterms:creator>
+	<dcterms:contributor>Butler University Department of Political Science</dcterms:contributor>
+	<dcterms:contributor>Chuo University Faculty of Literature Department of Sociology</dcterms:contributor>
+	<dcterms:contributor>Bulgarian Academy of Sciences Institute of Sociology (BG)</dcterms:contributor>
+	<dcterms:contributor>Czech Academy of Sciences Institute of Sociology (CZ)</dcterms:contributor>
+	<dcterms:contributor>Heidelberg University Institute of Sociology (D)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology (H)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center (H)</dcterms:contributor>
+	<dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy (H)</dcterms:contributor>
+	<dcterms:contributor>Utrecht University Department of Planning, Organisation, and Policy Studies (NL)</dcterms:contributor>
+	<dcterms:contributor>Erasmus University Department of Economic Sociology and Psychology Faculty of Economics (NL)</dcterms:contributor>
+	<dcterms:contributor>Warsaw University Institute for Social Studies (PL)</dcterms:contributor>
+	<dcterms:contributor>National Public Opinion Research Center (RU)</dcterms:contributor>
+	<dcterms:contributor>University of Ljubljana Department of Social Sciences (SLO)</dcterms:contributor>
+	<dcterms:contributor>University of Bath School of Social Sciences (UK)</dcterms:contributor>
+	<dcterms:contributor>Oxford University (UK)</dcterms:contributor>
+	<dcterms:contributor>University of Michigan Institute for Social Research (USA)</dcterms:contributor>
+	<dcterms:contributor>University of Illinois Department of Sociology (USA)</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>everyday perception of the extent of social inequality; reasons offered to explain poverty and wealth; opinions on career perspectives from the aspect of the distributor; experiences of inequality, attempts at recovering justice; social distribution viewed from the aspect of social justice; opinions about state intervention and justice procedures; the role of general beliefs about inequality backed by egalitarian, meritocratic principles and those based on needs in the everyday perception of presumed and desired social relations; distribution of incomes considered just and the actual inequalities of incomes</dcterms:description>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+   <dcterms:subject>1991</dcterms:subject>
+   <dcterms:coverage>Bulgaria, Czechoslovakia, Germany, Great Britain, Hungary, Japan, Russia, Slovenia, Poland, United States of America, Netherlands</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Sample representative of the adult populations, where the age limit of adults varied from country to country.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, method varying from country to country.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C71</dcterms:subject>
+	<dcterms:subject>TDATA-C72</dcterms:subject>
+	<dcterms:subject>TDATA-E68a</dcterms:subject>
+	<dcterms:subject>TDATA-E68b</dcterms:subject>
+	<dcterms:subject>TDATA-E93</dcterms:subject>
+   <dcterms:subject>17396</dcterms:subject>
+   <dcterms:subject>391</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

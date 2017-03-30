@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A20</dcterms:source>
+   <dcterms:title>Structure 1979. Working class and intellectuals getting closer to each other in industry. Poland and the Democratic Republic of Germany.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A20: Structure 1979. Working class and intellectuals getting closer to each other in industry. Poland and the Democratic Republic of Germany.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Kolbanovszkij, V.</dcterms:creator>
+	<dcterms:creator>Lötsch, M.</dcterms:creator>
+	<dcterms:contributor>NSZEP Academy of Social Sciences Institute of Sociology</dcterms:contributor>
+	<dcterms:contributor>Polish Academy of Sciences Institute of Political Science</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>NSZEP Academy of Social Sciences Institute of Sociology</dcterms:contributor>
+	<dcterms:contributor>Polish Academy of Sciences Institute of Political Science</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>working conditions, social activity, financial and living conditions, mobility, qualification, culture and leisure time</dcterms:description>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>trade, industry and markets</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+   <dcterms:subject>1979-05-01  1979-05-31</dcterms:subject>
+   <dcterms:coverage>East Germany, Poland</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Several-stage selection proportionate sample of industrial workers (excluding mining, construction and domestic industry). Proportioning by sector and qualitification groups (Variable VAR1). Overrepresented by education groups.</dcterms:subject>
+   <dcterms:subject>Questionnaire administered by interviewers, expert investigation with the immediate superior of the respondent.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-A15</dcterms:subject>
+   <dcterms:subject>Over-represented sample concerning qualification; representative sample can be produced by SELECT IF (VAR99 EQ 1) command.</dcterms:subject>
+   <dcterms:subject>6551</dcterms:subject>
+   <dcterms:subject>130</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

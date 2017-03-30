@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D56b</dcterms:source>
+   <dcterms:title>Gaining Freedom and Losing Security 1997. The opinions of Hungarian households about the role that the state plays in the social provisions system.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D56b: Gaining Freedom and Losing Security 1997. The opinions of Hungarian households about the role that the state plays in the social provisions system.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Ferge, Zsuzsa</dcterms:creator>
+	<dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Sociology</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>this data collection is the repetition of the block of questions in the 1996 Household Panel; two main issues: expectations of the citizens towards the social responsibilities of the state, and the subjective evaluation of a few consequences of the regime change</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>1997</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>National representative sample of households</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D28b</dcterms:subject>
+	<dcterms:subject>TDATA-D56</dcterms:subject>
+	<dcterms:subject>TDATA-F43</dcterms:subject>
+   <dcterms:subject>The survey was completed as part of the Hungarian Household Panel (HHP); therefore, the data file contains the data of the HHP household questionnaire and the individual data of the respondent as well.</dcterms:subject>
+   <dcterms:subject>1229</dcterms:subject>
+   <dcterms:subject>2088</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian household questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian individual questionnaire</dcterms:subject>
+</entry>

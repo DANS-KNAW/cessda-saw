@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E66c</dcterms:source>
+   <dcterms:title>Local Social Services in Szabolcs-Szatmár-Bereg County 1997. Households in Nagyhalászi sample.</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E66c: Local Social Services in Szabolcs-Szatmár-Bereg County 1997. Households in Nagyhalászi sample.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Fábián, Gergely</dcterms:creator>
+   <dcterms:contributor>University of Debrecen College Department of Health</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Debrecen College Department of Health</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>family, income situation, work, social institutions and problems, crime, opinions about residential environment</dcterms:description>
+   <dcterms:subject>social welfare policy and systems</dcterms:subject>
+   <dcterms:subject>1997</dcterms:subject>
+   <dcterms:coverage>Nagyhalász</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Random, systematic selection of sample based on registration lists and local self-government registrations. The basic population to be drawn on was the adult population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E66a</dcterms:subject>
+	<dcterms:subject>TDATA-E66b</dcterms:subject>
+	<dcterms:subject>TDATA-E66d</dcterms:subject>
+	<dcterms:subject>TDATA-E66e</dcterms:subject>
+   <dcterms:subject>The survey is Hungarian part of the Local Organisation of Social Security (LOSS) international survey.</dcterms:subject>
+   <dcterms:subject>450</dcterms:subject>
+   <dcterms:subject>368</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

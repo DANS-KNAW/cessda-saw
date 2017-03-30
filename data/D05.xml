@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D05</dcterms:source>
+   <dcterms:title>ISSP 1992. Social Inequality II. International data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D05: ISSP 1992. Social Inequality II. International data.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>A  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Haller__Max">Haller, Max</a></dcterms:creator>
+	<dcterms:creator>A  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=H_llinger__Franz">Höllinger, Franz</a></dcterms:creator>
+	<dcterms:creator>AUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Bean__Clive">Bean, Clive</a></dcterms:creator>
+	<dcterms:creator>AUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Evans__Mariah_D._R.">Evans, Mariah D. R.</a></dcterms:creator>
+	<dcterms:creator>AUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kelley__Jonathan">Kelley, Jonathan</a></dcterms:creator>
+	<dcterms:creator>BG  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Dimova__Lilia">Dimova, Lilia</a></dcterms:creator>
+	<dcterms:creator>BG  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kaloyanov__Todor">Kaloyanov, Todor</a></dcterms:creator>
+	<dcterms:creator>BG  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Stoyanov__Alexander">Stoyanov, Alexander</a></dcterms:creator>
+	<dcterms:creator>CAN  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Frizzell__Alan">Frizzell, Alan</a></dcterms:creator>
+	<dcterms:creator>CZ  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Rehakova__Blanka">Rehakova, Blanka</a></dcterms:creator>
+	<dcterms:creator>D  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Braun__Michael">Braun, Michael</a></dcterms:creator>
+	<dcterms:creator>D  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Mohler__Peter_Ph.">Mohler, Peter Ph.</a></dcterms:creator>
+	<dcterms:creator>D  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Uher__Rolf">Uher, Rolf</a></dcterms:creator>
+	<dcterms:creator>H  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kolosi__Tamas">Kolosi, Tamás</a></dcterms:creator>
+	<dcterms:creator>I  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Calvi__Gabriele">Calvi, Gabriele</a></dcterms:creator>
+	<dcterms:creator>N  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Henrichsen__Bj_rn">Henrichsen, Björn</a></dcterms:creator>
+	<dcterms:creator>NZ  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gendall__Philip">Gendall, Philip</a></dcterms:creator>
+	<dcterms:creator>PL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Cichomski__Bogdan">Cichomski, Bogdan</a></dcterms:creator>
+	<dcterms:creator>RUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Khakhulina__Ludmilla">Khakhulina, Ludmilla</a></dcterms:creator>
+	<dcterms:creator>S  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Svallfors__Stefan">Svallfors, Stefan</a></dcterms:creator>
+	<dcterms:creator>SLO  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Stebe__Janez">Stebe, Janez</a></dcterms:creator>
+	<dcterms:creator>SLO  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toš__Niko">Toš, Niko</a></dcterms:creator>
+	<dcterms:creator>UK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Brook__Lindsay">Brook, Lindsay</a></dcterms:creator>
+	<dcterms:creator>UK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Jowell__Roger">Jowell, Roger</a></dcterms:creator>
+	<dcterms:creator>USA  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Davis__James_A.">Davis, James A.</a></dcterms:creator>
+	<dcterms:creator>USA  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Smith__Tom_W.">Smith, Tom W.</a></dcterms:creator>
+	<dcterms:contributor>University of Graz Institute of Sociology (A)</dcterms:contributor>
+	<dcterms:contributor>Australian National University Research School of Social Sciences (AUS)</dcterms:contributor>
+	<dcterms:contributor>Institute for Trade Union and Social Research (BG)</dcterms:contributor>
+	<dcterms:contributor>Center for the Study of Democracy (BG)</dcterms:contributor>
+	<dcterms:contributor>Carleton University Survey Centre (CAN)</dcterms:contributor>
+	<dcterms:contributor>Czech Academy of Sciences Institute of Sociology (CZ)</dcterms:contributor>
+	<dcterms:contributor>Centre for Survey Research and Methodology (D)</dcterms:contributor>
+	<dcterms:contributor>Central Archive for Empirical Social Research (D)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center (H)</dcterms:contributor>
+	<dcterms:contributor>Social and Marketing Research Institute (I)</dcterms:contributor>
+	<dcterms:contributor>Norwegian Social Science Data Services (N)</dcterms:contributor>
+	<dcterms:contributor>Massey University Department of Marketing (NZ)</dcterms:contributor>
+	<dcterms:contributor>University of Warsaw Institute for Social Sciences (PL)</dcterms:contributor>
+	<dcterms:contributor>Social Weather Stations Inc. (RP)</dcterms:contributor>
+	<dcterms:contributor>The Russian Center for Public Opinion and Market Research (RUS)</dcterms:contributor>
+	<dcterms:contributor>University of Umea (S)</dcterms:contributor>
+	<dcterms:contributor>University of Ljubljana Public Opinion and Mass Communication Research Centre (SLO)</dcterms:contributor>
+	<dcterms:contributor>Social and Community Planning Research (UK)</dcterms:contributor>
+	<dcterms:contributor>University of Chicago National Opinion Research Center (USA)</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>occupation, parents' occupations, examining the prestige of the occupation, personal situation and social situation of the country, evaluation of income, conflicts between different social groups, the means of getting along in life</dcterms:description>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>1992  1993</dcterms:subject>
+   <dcterms:coverage>international comparative survey</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Sample representative of the adult populations, where the age limit of adults varied from country to country.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, method varying from country to country.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-D01</dcterms:subject>
+   <dcterms:subject>23903</dcterms:subject>
+   <dcterms:subject>393</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

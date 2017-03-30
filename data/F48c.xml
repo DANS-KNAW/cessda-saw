@@ -1,0 +1,53 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F48c</dcterms:source>
+   <dcterms:title>Life Style and Time Budget Survey in Hungary 1999-2000. Simplified time budget data collection.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F48c: Life Style and Time Budget Survey in Hungary 1999-2000. Simplified time budget data collection.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Falussy, Béla</dcterms:creator>
+	<dcterms:creator>Harcsa, István</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Social Statistics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Social Statistics</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>3rd data collection of KSH (Hungarian Central Statistical Office) about a time budget including an entire year (planned to be done ever ten years); this was preceded by a data collection in 1993 only about the spring quarter of the year; the aim of the data collection is to obtain data about life conditions, life style, time use of the population between 15-84 years which can be compared with the earlier Hungarian surveys, and gives a picture differentiated along the basic social-demographic layers; the data collection records the effects of the changes in Hungarian society and economy on the lifestyles, changes and differences in the life styles of individual strata and groups; the F48c.sav simplified time budget data file contains the completion time of 46 activities</dcterms:description>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>1999-09-01  2000-09-06</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>The basic population includes the private households of Hungary (in which at least one person aged 15-84 years lives), and the population aged 15-84 years. The sampling frame of the household and at the same time individual sample of the lifestyle-time-budget 1999/2000 survey relied on the 1996 microcensus flat sample (and within this the 25% subsample not used for related data collections). This sample was selected in several stages: settlements were the primary, within these the electorial districts were the secondary, and within the districts the flats (addresses) were the final sampling units. Including Budapest, 21% of the settlements (2% of the population) was selected. When selecting the sample of the microcensus, regional units and settlements were explicitly stratified. To identify the individual sample, one 15-84-year old person had to be selected in each household based on the data stored on the central computer (flat, household, and personal data). Within the household groups defined by the number of 15-84-year old persons in the household, the computer selected the individual sample respondents mechanically, with a random systematic selection. So that the seasons and the days of the week are represented proportionately, the yearly time budget data collection was completed in four periods, each consisting of 93 days, corresponding with individual seasons, therefore one household was visited by the interviewers four times during the data collection.</dcterms:subject>
+   <dcterms:subject>Consumption/expenditure diaries and data collection with questionnaire, administered by interviewers</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A94</dcterms:subject>
+	<dcterms:subject>TDATA-B84a</dcterms:subject>
+	<dcterms:subject>TDATA-B84b</dcterms:subject>
+	<dcterms:subject>TDATA-B84c</dcterms:subject>
+	<dcterms:subject>TDATA-B84d</dcterms:subject>
+	<dcterms:subject>TDATA-B85e</dcterms:subject>
+	<dcterms:subject>TDATA-B85h</dcterms:subject>
+	<dcterms:subject>TDATA-B85i</dcterms:subject>
+	<dcterms:subject>TDATA-B85j</dcterms:subject>
+	<dcterms:subject>TDATA-B85k</dcterms:subject>
+	<dcterms:subject>TDATA-C74</dcterms:subject>
+	<dcterms:subject>TDATA-F48a</dcterms:subject>
+	<dcterms:subject>TDATA-F48b</dcterms:subject>
+   <dcterms:subject>43172</dcterms:subject>
+   <dcterms:subject>136</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian methodological documentation</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C99</dcterms:source>
+   <dcterms:title>ISSP 1988. Family and Changing Gender Roles I. Australian data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C99: ISSP 1988. Family and Changing Gender Roles I. Australian data.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Bean, Clive</dcterms:creator>
+	<dcterms:creator>Evans, Mariah D. R.</dcterms:creator>
+	<dcterms:creator>Kelley, Jonathan</dcterms:creator>
+   <dcterms:contributor>Australian National University International Social Science Surveys</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>occupation, parents' occupations, examining the prestige of the occupation, personal situation and social situation of the country, evaluation of income, conflicts between different social groups, the means of getting along in life</dcterms:description>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+   <dcterms:subject>1990</dcterms:subject>
+   <dcterms:coverage>Australia</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A random national representative sample of the adult population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B77</dcterms:subject>
+	<dcterms:subject>TDATA-C56</dcterms:subject>
+	<dcterms:subject>TDATA-C64</dcterms:subject>
+	<dcterms:subject>TDATA-D51</dcterms:subject>
+   <dcterms:subject>4513</dcterms:subject>
+   <dcterms:subject>113</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

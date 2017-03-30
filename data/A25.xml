@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A25</dcterms:source>
+   <dcterms:title>Sample of Individuals in the Hungarian 1980 Census</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A25: Sample of Individuals in the Hungarian 1980 Census. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Kepecs, József</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Demography</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-01-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>most important census data concerning persons, families, households and dwellings</dcterms:description>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+   <dcterms:subject>1980-01-01  1980-01-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>census data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A 2% national sample of dwellings, representative of dwellings, persons, families and households: every 50th dwelling was selected from among all dwellings sorted by the number of persons per dwelling.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A29</dcterms:subject>
+	<dcterms:subject>TDATA-A30</dcterms:subject>
+   <dcterms:subject>214192</dcterms:subject>
+   <dcterms:subject>59</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

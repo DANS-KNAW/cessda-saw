@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F12</dcterms:source>
+   <dcterms:title>Right-Wing, Conservative Value System and Identity of the Adult Population in Hungary 2000.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F12: Right-Wing, Conservative Value System and Identity of the Adult Population in Hungary 2000.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Enyedi, Zsolt</dcterms:creator>
+	<dcterms:contributor>NIB Research</dcterms:contributor>
+	<dcterms:contributor>AT Deposit Partnership</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Political Sciences</dcterms:contributor>
+	<dcterms:contributor>Central European University</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the survey shows the relationships between values, attitudes and party preferences; special emphasis is put on the right-wing, conservative values</dcterms:description>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+   <dcterms:subject>2000-11-01  2000-11-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The sample is a combination of a multi-stage random selection and a quota-based selection. The sample represents the adult population of Hungary by gender, type of settlement, region, education and age.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-F36</dcterms:subject>
+   <dcterms:subject>1002</dcterms:subject>
+   <dcterms:subject>183</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

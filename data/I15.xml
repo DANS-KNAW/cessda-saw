@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-I15</dcterms:source>
+   <dcterms:title>International Social Survey Programme 2013: National Identity III (ISSP 2013)</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:date>2015-11-10</dcterms:date>
+   <dcterms:subject> TDATA-I15:  International Social Survey Programme 2013: National Identity III (ISSP 2013). data sheet. Version: 2015-11-10</dcterms:subject>
+   <dcterms:creator>Kolosi, Tamás</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>Identification with the town, the city, the region, the nation and with the respective continent; most important characteristics for national identity; identification with one´s own nation and national pride (scale); perceived pride in the democracy of the country, the political influence of the country in the world, the economic achievement, the social security system, the scientific achievements, the achievements in sports, the achievements in arts or literature, the armed forces, the history and equal rights of all social groups in society; preference for protective duty to support the national economy; attitude to the right of international institutions to enforce solutions to be accepted nationally; attitude to enforcing national interests regardless of evoking conflicts with other countries; rejection of acquisition of land by foreigners in one´s country; preference for national films in national television stations; damage done by large international companies to the local business; attitude to free trade; attitude to follow the decisions of international organisations even if the local government does not agree with them; international organisations take away too much power from the country; availability of worldwide information as a benefit of the internet; importance of sharing national customs and traditions to achieve full nationality; attitude to government support of national minorities to preserve their customs and habits; preference for assimilation of minorities or retention of their identity; hostility to foreigners and prejudices against immigrants (scale); attitude to a reduction of immigration of foreigners; respondents citizenship; citizenship of parents at birth of respondent; birthplace or citizenship of parents should allow naturalization of children; same rights for citizens and legal immigrants; attitude towards stronger measures regarding illegal immigrants; languages spoken at home; perceived ethnic affiliation and strength of this feeling.</dcterms:description>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the random walking method out of each strata. Numbers of selected persons are proportional to strata's size</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D67</dcterms:subject>
+	<dcterms:subject>TDATA-G13</dcterms:subject>
+	<dcterms:subject>TDATA-D20</dcterms:subject>
+	<dcterms:subject>TDATA-F64</dcterms:subject>
+   <dcterms:subject>1007</dcterms:subject>
+   <dcterms:subject>197</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C28a</dcterms:source>
+   <dcterms:title>Knowledge and Habits Regarding Drugs, Alcohol and Medicine Consumption Among Elementary School Students In Hungary 1990. Basic survey.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C28a: Knowledge and Habits Regarding Drugs, Alcohol and Medicine Consumption Among Elementary School Students In Hungary 1990. Basic survey.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Bácskai, Erika</dcterms:creator>
+   <dcterms:contributor>Hungarian National Health Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian National Health Institute</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>data on health, habits of smoking, consuming alcohol and medicaments, consumption of illegal drugs, knowledge concerning addiction, nutrition, sporting habits, the use of leisure time</dcterms:description>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+   <dcterms:subject>1987  1990</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Stratified, non-proportionate sample. 5-8 grader students were interviewed in 14 primary schools.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C28b</dcterms:subject>
+	<dcterms:subject>TDATA-C28c</dcterms:subject>
+	<dcterms:subject>TDATA-C28d</dcterms:subject>
+	<dcterms:subject>TDATA-C28e</dcterms:subject>
+	<dcterms:subject>TDATA-C29a</dcterms:subject>
+	<dcterms:subject>TDATA-C29b</dcterms:subject>
+	<dcterms:subject>TDATA-C30</dcterms:subject>
+   <dcterms:subject>1111</dcterms:subject>
+   <dcterms:subject>269</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

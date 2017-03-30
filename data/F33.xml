@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F33</dcterms:source>
+   <dcterms:title>TÁRKI Elections 2002/2. The voting preferences of the adult population before the second round of the 2002 Hungarian parliamentary elections.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F33: TÁRKI Elections 2002/2. The voting preferences of the adult population before the second round of the 2002 Hungarian parliamentary elections.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Gazsó, Tibor</dcterms:creator>
+	<dcterms:creator>Kolosi, Tamás</dcterms:creator>
+	<dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Századvég Center for Political Analysis</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>party preferences, voting behavior in the first and second round, evaluation of Prime Minister candidates, voting intentions</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+   <dcterms:subject>2002-04-19  2002-04-19</dcterms:subject>
+   <dcterms:coverage>the Parliamentary electoral districts of Hungary where there was a second round in 2002</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Quota-based stratified random sample. At the first stage settlements were selected based on their size and the size of the county, where streets were randomly selected as starting points. Interview was made in every fourth flat. In the household the respondent was selected based on a quota considering age, education and gender.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D (after 2007-05-01: A)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D78</dcterms:subject>
+	<dcterms:subject>TDATA-D79</dcterms:subject>
+	<dcterms:subject>TDATA-F30</dcterms:subject>
+	<dcterms:subject>TDATA-F31</dcterms:subject>
+	<dcterms:subject>TDATA-F32</dcterms:subject>
+   <dcterms:subject>5109</dcterms:subject>
+   <dcterms:subject>41</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F13</dcterms:source>
+   <dcterms:title>Social and Demographic Changes in the Housing Estates of Szeged in the 1990s</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F13: Social and Demographic Changes in the Housing Estates of Szeged in the 1990s. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Petres, Tibor</dcterms:creator>
+   <dcterms:contributor>University of Szeged Department of Statistics and Demography</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Szeged Department of Statistics and Demography</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the purpose of the survey is to examine what effect the housing estate environs has on the life style and health condition of residents in the long run; the survey compares those living in suburban areas with the life style and social-demographic situation of those living in housing estates; the survey is basically a continuation of the Konrád-Szelényi survey in the 1960s in which the sociologists showed the negative effects of blocks of flats in the lives of the families; topics: residential environment, housing estates, housing situation, living conditions, getting a flat, social allowances, bank loan for housing purposes, housing savings banks, demographic data, time budget, bread-winner(household head), cultural consumption, health, family expenses, household division of labor</dcterms:description>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+   <dcterms:subject>2000-03-01  2000-05-31</dcterms:subject>
+   <dcterms:coverage>Szeged</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The sampling was done using a random starting point and systematic selection combination, using a list of flats arranged on the basis of street and street number. At the housing estates every 11th, in the Fodor-garden every 4th household was selected to be included in the sample. At the housing estates the 11-cycle excluded that source of error that because of possible systematic repetitions certain types of flats would get in the sample out of proportion. There was no such risk in the suburb. During the sampling supplementary addresses (closest neighbor) was used too. Sample size: Makkosháza 306 flats, Odessza 260 flats, Fodor-garden 87 flats.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>653</dcterms:subject>
+   <dcterms:subject>536</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F07</dcterms:source>
+   <dcterms:title>TÁRKI Teacher 2001. Opinion of Hungarian teachers about the planned life-career model.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F07: TÁRKI Teacher 2001. Opinion of Hungarian teachers about the planned life-career model.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Ministry of Education</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the reputation and evaluation of the activities, publications of the Ministry of Education, being informed about the issues of education policy, media comsumption habits, the possible forums, ways of discussing issues of educational policy, knowledge about and evaluation of the career-model of the ministry, opinion about the factors influencing teacher salaries, recognition of various pedagogical activities</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>mass media</dcterms:subject>
+   <dcterms:subject>2001-12-10  2002-01-11</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Sample taken from the population of kindergartens, primary and secondary schools, and universities and colleges, random starting point and systematic sampling. In the place of the dropped out institutions supplementary addresses were used. The sample contained a total of 503 institutions, and 1484 teachers were interviewed.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1484</dcterms:subject>
+   <dcterms:subject>476</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

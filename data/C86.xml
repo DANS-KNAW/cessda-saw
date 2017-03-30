@@ -1,0 +1,44 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C86</dcterms:source>
+   <dcterms:title>Polish General Social Statistical Survey 1993</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C86: Polish General Social Statistical Survey 1993. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Cichomski, Bogdan</dcterms:creator>
+	<dcterms:creator>Sawinski, Zbigniew</dcterms:creator>
+   <dcterms:contributor>Polish Sociological Association Center of Field Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>social environment, mobility, family structure, women's situation, fertility, abortion, sexual behavior; job, education, income, place of work and their role, to what extent respondent is satisfied with them; data on elections (1990, Election of President; 1991, Election of MPs); the role and effects of politics; the role of religion</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>1992</dcterms:subject>
+	<dcterms:subject>1993</dcterms:subject>
+   <dcterms:coverage>Poland</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Multi-stage random sample. In both years 2000 households were selected into the sample, one person over 18 years was interviewed in each household.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C84</dcterms:subject>
+	<dcterms:subject>TDATA-C85</dcterms:subject>
+   <dcterms:subject>3296</dcterms:subject>
+   <dcterms:subject>406</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

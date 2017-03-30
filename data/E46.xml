@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E46</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 2001/1. Social-political attitudes in Hungary among the adult population.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E46: TÁRKI Omnibus 2001/1. Social-political attitudes in Hungary among the adult population.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gazso__Tibor">Gazsó, Tibor</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Robert__Peter">Róbert, Péter</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toth__Istvan_Gy_rgy">Tóth, István György</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toth__Zsolt">Tóth, Zsolt</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Fabian__Zoltan">Fábián, Zoltán</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sagi__Matild">Sági, Matild</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (1.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (2.)</dcterms:contributor>
+	<dcterms:contributor>The Hungarian Prime Ministers Office (2.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of the Interior (3.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of Economics and Transportation (4.)</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>1) party preferences, popularity of politicians, evaluation of the work of the government and opposition, satisfaction with democracy 2) subjective financial situation, the economic situation of Hungary now and in the next year; evaluation of the governments since the regime change, the situation of the different social strata in 2000; opinions about the 2-year budget 3) reputation of, and opinion about, the activities of the Ministry of Internal Affairs, the Immigration and Citizenship Bureau, the Public Administration Bureau, and the Document Offices; opinions about the work of the police, fire authority, and border guards; opinions about the prevalence of prostitution, and its regulation; public opinion about the prevalence of car thefts, burglaries, and forcing back crime 4) Survival chances of enterprises in Hungary: the second wave of the survey starting in December 2000, in a separate questionnaire: economic participation, participation in the second economy, enterpreneurial activities, discontinuing and restarting enterprises from the seventies up till now</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>agriculture</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+   <dcterms:subject>2001-01-08  2001-01-16</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E59</dcterms:subject>
+   <dcterms:subject>Block 4 is also archived as part of a separate data file (E59).</dcterms:subject>
+   <dcterms:subject>1522</dcterms:subject>
+   <dcterms:subject>258 (256)</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

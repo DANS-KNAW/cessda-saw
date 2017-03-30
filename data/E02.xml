@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E02</dcterms:source>
+   <dcterms:title>TÁRKI - Public Safety 1999. Public opinion about the work of the police and public safety.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E02: TÁRKI - Public Safety 1999. Public opinion about the work of the police and public safety.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Kolosi, Tamás</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of the Interior</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2002-05-22: the labels of the data file are corrected, the missing ORSULY weight variable is supplied</dcterms:subject>
+   <dcterms:description>1. party preferences, political attitudes 2. trust in national-level institutions and organizations, fears of the population, evaluating the tasks and effectiveness of the police, opinions about public safety in the residential area, opinions about the number of police force, trust in policemen and civil guardsmen, opinions about corruption of the police, opinions about their possible tools agains ciminals, attitudes towards citizens self-defence, opinions about weapons used for self-defence</dcterms:description>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>law enforcement</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+   <dcterms:subject>1999-04-29  1999-05-12</dcterms:subject>
+   <dcterms:coverage>Budapest, Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Respondents were included in the sample based on a national and a Budapest probability sample. The Budapest sample was created with a sampling process that stratified the sample based on districts. The national sample was created with a multi-stage, proportionally stratified selection. At the first stage settlements were selected based on 9 settlement strata. At the second stage a simple random sampling process defined the number of persons in the sample from the specific settlements based on the population ratio of the individual strata. The selection of the respondent was based on the number of adults and adult men in the households, using the Leslie Kish-key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1531</dcterms:subject>
+   <dcterms:subject>188</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

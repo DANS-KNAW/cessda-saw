@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C42</dcterms:source>
+   <dcterms:title>Psychiatric Survey of Two Medical Districts of Józsefváros District of Budapest 1979-1980</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C42: Psychiatric Survey of Two Medical Districts of Józsefváros District of Budapest 1979-1980. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Juhász, Pál</dcterms:creator>
+	<dcterms:creator>Kopp, Mária</dcterms:creator>
+   <dcterms:contributor>PX Informatics and Human Risk Management Ltd.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Semmelweis University</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>personal data, education, job, workplace data, the use of leisure time, family relationships, alcohol consumption, somatic diseases, suicide, neurosis, psychosis</dcterms:description>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+   <dcterms:subject>1979  1980</dcterms:subject>
+   <dcterms:coverage>Budapest district 8</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>All of the patients over 16 years in two GPs' districts in the Józsefváros district of Budapest.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>3859</dcterms:subject>
+   <dcterms:subject>114</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

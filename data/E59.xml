@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E59</dcterms:source>
+   <dcterms:title>Chances of Survival For Enterprises in Hungary 2001</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E59: Chances of Survival For Enterprises in Hungary 2001. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Sági, Matild</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Ministry of Economics and Transportation</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>Survival chances of enterprises - economic participation, participation in the second economy, enterpreneurial acticity, discontinuing and restarting enterprises from the seventies up till now; exploring the enterpreneurial activities of parents</dcterms:description>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>agriculture</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>2000-12-01  2000-12-11</dcterms:subject>
+	<dcterms:subject>2001-01-08  2001-01-16</dcterms:subject>
+	<dcterms:subject>2001-02-01  2001-02-05</dcterms:subject>
+	<dcterms:subject>2001-03-01  2001-03-05</dcterms:subject>
+	<dcterms:subject>2001-04-20  2001-05-02</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A multi-stage proportionally stratified random probability sample representative of the Hungarian adult population. Unsuccessful inquiries were substituted with supplementary addresses, where persons to be interviewed were selected on the basis of the Leslie Kish key.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E37</dcterms:subject>
+	<dcterms:subject>TDATA-E46</dcterms:subject>
+	<dcterms:subject>TDATA-E50</dcterms:subject>
+	<dcterms:subject>TDATA-E54</dcterms:subject>
+	<dcterms:subject>TDATA-E58</dcterms:subject>
+   <dcterms:subject>8606</dcterms:subject>
+   <dcterms:subject>247</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

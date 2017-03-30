@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F02</dcterms:source>
+   <dcterms:title>Purposes and Labor Market Strategies of Unemployed People in Fejér County 2001</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F02: Purposes and Labor Market Strategies of Unemployed People in Fejér County 2001. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Tóth, István János</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Wargo Institute of Economic Analysis</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>labor demand and supply, the aims and strategies of labor market participants, demand for foreign labor force, aspirations of the unemployed</dcterms:description>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>2001-01-01  2001-02-28</dcterms:subject>
+   <dcterms:coverage>Fejér county</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>qualitative and quantitavie</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Interviews with the mangers of employment branch of the Labor Center of Fejér county, and the managers and HR managers of the big employer companies in the area, and in addition a small-sample empirical research in two pre-selected districts of Fejér county among registered unemployed people.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D (after 2010-01-01: A)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>66</dcterms:subject>
+   <dcterms:subject>169</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

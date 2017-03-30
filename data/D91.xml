@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D91</dcterms:source>
+   <dcterms:title>Youth Research 1997. Prejudices of Youth and Their Parents in Two Hungarian Cities.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D91: Youth Research 1997. Prejudices of Youth and Their Parents in Two Hungarian Cities.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Erős, Ferenc</dcterms:creator>
+	<dcterms:contributor>Hungarian Educational Research Institute</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Psychology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the attitudes of young people and their parents with regard to various ethnic and other groups; authoritarianism and prejudices, anti-Roma attitudes, anti-Semitism, ethnic attitudes, socialization, social inequalities</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:subject>1997-11-01  1997-12-31</dcterms:subject>
+   <dcterms:coverage>Salgótarján, Sopron</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Probability sample of the 16-17-year-old population of two settlements (Salgótarján, Sopron). 200-200 young people and one of their parents (especially the father) were interviewed at both settlements. The basis of the random sampling was the data of the Hungarian Central Statistical Office (KSH).</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-F36</dcterms:subject>
+   <dcterms:subject>400</dcterms:subject>
+   <dcterms:subject>354</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian "parent" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "young" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English "parent" questionnaire</dcterms:subject>
+	<dcterms:subject>English "young" questionnaire</dcterms:subject>
+</entry>

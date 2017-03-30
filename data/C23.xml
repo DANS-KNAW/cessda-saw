@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C23</dcterms:source>
+   <dcterms:title>The Mental Health of the Adult Population of the United States of America 1976</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C23: The Mental Health of the Adult Population of the United States of America 1976. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Donovan, Elisabeth</dcterms:creator>
+	<dcterms:creator>Kulka, Richard A.</dcterms:creator>
+	<dcterms:creator>Veroff, Joseph</dcterms:creator>
+   <dcterms:contributor>University of Michigan</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>various problem areas, including marriage, child-parent relationship, and profession; the use of leisure time, physical and mental health in the past and present, striving for social contacts, achievement, and influence (a repetition of the 1957 study); people's willingness to ask for experts' assistance; evaluation of experts they turn to and the assistance received from them</dcterms:description>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+   <dcterms:subject>1976</dcterms:subject>
+   <dcterms:coverage>United States of America</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage, national probability sample of households. One randomly selected individual per household make up the sample.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>2264</dcterms:subject>
+   <dcterms:subject>854</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

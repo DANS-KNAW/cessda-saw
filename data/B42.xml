@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B42</dcterms:source>
+   <dcterms:title>Canadian Occupational Mobility Study 1973</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B42: Canadian Occupational Mobility Study 1973. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Boyd, Monica</dcterms:creator>
+	<dcterms:creator>Goyder, John</dcterms:creator>
+	<dcterms:creator>Jones, Frank</dcterms:creator>
+	<dcterms:creator>McRoberts, Hugh A.</dcterms:creator>
+	<dcterms:creator>Pined, Peter C.</dcterms:creator>
+	<dcterms:creator>Porter, John</dcterms:creator>
+   <dcterms:contributor>Statistics Canada</dcterms:contributor>
+   <dcterms:contributor>Statistics Canada</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>occupational mobility, origin, status</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+   <dcterms:subject>1973</dcterms:subject>
+   <dcterms:coverage>Canada</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage, stratified, bunched sample, representative of the Canadian adult population.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, administered by interviewers, and self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>44867</dcterms:subject>
+   <dcterms:subject>98</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

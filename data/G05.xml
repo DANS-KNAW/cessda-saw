@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G05</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 2004/9. Social-political attitudes in Hungary among the adult population.</dcterms:title>
+   <dcterms:creator>Vámos, Orsolya</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G05: TÁRKI Omnibus 2004/9. Social-political attitudes in Hungary among the adult population.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gazso__Tibor">Gazsó, Tibor</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Bognar__Adrienn">Bognár, Adrienn</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Robert__Peter">Róbert, Péter</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toth__Istvan_Gy_rgy">Tóth, István György</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Bognar__Adrienn">Bognár, Adrienn</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (1.)</dcterms:contributor>
+	<dcterms:contributor>(2.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (3.)</dcterms:contributor>
+	<dcterms:contributor>RTL Club (4.)</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:description>1. Public judgement of the current political situation 2. Public opinions about the role of hunting and shooting 3. Confidence in the institutions of democracy, in the media, the churches</dcterms:description>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+   <dcterms:subject>2004-09-07  2004-09-20</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 1000-person decreasing, random probability sample, nationally representative of the Hungarian adult population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview and self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>1. block (3-17. quest.): A, 2. block (19-35. quest.): B, 3. block (17. quest.): A, 4. block (40. quest. + self quest.): D</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>835</dcterms:subject>
+   <dcterms:subject>243 (222)</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian self completion questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>Hungarian label program</dcterms:subject>
+</entry>

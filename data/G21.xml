@@ -1,0 +1,35 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-G21</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 2005/1. Social-political attitudes in Hungary among the adult population</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-11-04</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-G21: TÁRKI Omnibus 2005/1. Social-political attitudes in Hungary among the adult population. data sheet. Version: 2010-11-04</dcterms:subject>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gazso__Tibor">Gazsó, Tibor</a></dcterms:creator>
+	<dcterms:creator>2  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toka__Gabor">Tóka, Gábor</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (1)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Center for Democracy Foundation (2)</dcterms:contributor>
+	<dcterms:contributor>Central European Opinion Research Group Foundation (3)</dcterms:contributor>
+	<dcterms:contributor>Auto News Ltd. (4)</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>1. Public judgement of the current political situation 2. Public opinion about the referendum of 2005 3. Research of the Central Europien Opinion Research Group 4. Public opinion about the punishment of the parking offence</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage stratified probability sample</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1096</dcterms:subject>
+   <dcterms:subject>446 (346)</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

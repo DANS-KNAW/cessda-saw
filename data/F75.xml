@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F75</dcterms:source>
+   <dcterms:title>The Inequalities of Wages in Hungary 1972-1995</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F75: The Inequalities of Wages in Hungary 1972-1995. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Ábrahám, Árpád</dcterms:creator>
+	<dcterms:creator>Kézdi, Gábor</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Economic Sciences Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Economic Sciences Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>analysis of the long-term (1972-96) labor market trends in Hungary (employment, wages, unemployment) along the lines of birth cohorts, gender, and education; separation of demand and supply effects</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+	<dcterms:subject>1972  1987</dcterms:subject>
+	<dcterms:subject>1989</dcterms:subject>
+	<dcterms:subject>1992</dcterms:subject>
+	<dcterms:subject>1994  1996</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>aggregate data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>During the survey, data from the Employment (1992-1996) data of the Hungarian Central Statistical Office (KSH) Unified Population Data Collection System, from the KSH income survey(1972-1987), the wage scale survey of the National Labor Center (OMK) in 1986, 1989, 1992, and 1994-96, and 1990 census data were used.</dcterms:subject>
+   <dcterms:subject>Secondary analysis.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>550</dcterms:subject>
+   <dcterms:subject>35</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H46</dcterms:source>
+   <dcterms:title>The political attitudes and the method of the campaign of the candidates and the elected politician after the 2010 parliamentary elections in Hungary</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-04-18</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H46: The political attitudes and the method of the campaign of the candidates and the elected politician after the 2010 parliamentary elections in Hungary. data sheet. Version: 2011-04-18</dcterms:subject>
+   <dcterms:creator>Enyedi, Zsolt</dcterms:creator>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Corvinus University of Budapest Institute od Political Science</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Center for Democracy Foundation</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>The aim of the research is collect information about the political attitudes and the method of the campaign of the candidates and the elected politician after the 2010 parliamentary elections. The date of the data collection is June and August of 2010.</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The aim of the survey is to reach the total population. The survey consisted of two parts. The elected members of Parliament were asked with a personal interview, the unelected candidates filled an online questionnaire (the elected politician had possibility to fill the online form instead of the paper questionnaire).</dcterms:subject>
+   <dcterms:subject>face-to-face interview and online questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>432</dcterms:subject>
+   <dcterms:subject>156</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E75i</dcterms:source>
+   <dcterms:title>TÁRKI Small Regions 2001. The situation of the disadvantaged Hungarian schools in the area of public education. Director sample.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E75i: TÁRKI Small Regions 2001. The situation of the disadvantaged Hungarian schools in the area of public education. Director sample.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Imre, Anna</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Institute of Public Education</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the structure of the school, its educational-pedagogical profile, its equipment, relationship between students and the school, relationship between parents and the school, tuition, possibilities of adult education and talent training, the non-educational functions of the school, financing of the school, evaluation of the role of the school, changing of the situation of the school in the last decade</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+   <dcterms:subject>2001-05-01  2001-05-31</dcterms:subject>
+   <dcterms:coverage>6 selected small regions of Hungary</dcterms:coverage>
+   <dcterms:subject>public services</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>As a starting point of the research, 6 underprivileged regions were selected, and all schools within this area was included in the sample. The director questionnaire was completed by the director of the specific school or the person named by the director.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E75f</dcterms:subject>
+	<dcterms:subject>TDATA-E75n</dcterms:subject>
+	<dcterms:subject>TDATA-E75o</dcterms:subject>
+	<dcterms:subject>TDATA-E75s</dcterms:subject>
+   <dcterms:subject>107</dcterms:subject>
+   <dcterms:subject>742</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian guide</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

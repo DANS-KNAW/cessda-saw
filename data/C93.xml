@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C93</dcterms:source>
+   <dcterms:title>ISSP 1987 Social Inequality I. Irish data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C93: ISSP 1987 Social Inequality I. Irish data.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Ward, Conor</dcterms:creator>
+	<dcterms:creator>Whelan, Brendan</dcterms:creator>
+   <dcterms:contributor>Economic and Social Research Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>income, regional, occupational, consumption inequalities, data on the respondent's place of residence, flat, occupation, economic sector of his/her job, membership in social organizations, respondent's demographic, income and religious data, data on his/her spouse and father</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+   <dcterms:subject>1989</dcterms:subject>
+   <dcterms:coverage>Ireland</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>The sample is representative of the population aged 18 and over.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B06</dcterms:subject>
+	<dcterms:subject>TDATA-B75</dcterms:subject>
+   <dcterms:subject>The 1986 (Social Networks) and the 1987 (Social Inequality I) ISSP modules have been conducted together with the 1989 ISSP module on &lsquo;Work Orientations' (ZA No. 1840). The Irish data for the 1989 ISSP module are in the international file. ZA Study no.: 1</dcterms:subject>
+   <dcterms:subject>972</dcterms:subject>
+   <dcterms:subject>108</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

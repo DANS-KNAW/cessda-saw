@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C88</dcterms:source>
+   <dcterms:title>Hungarian Central Statistical Office (KSH) Income-Mobility-Prestige Survey 1983. The Social Stratification of the Hungarian population.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C88: Hungarian Central Statistical Office (KSH) Income-Mobility-Prestige Survey 1983. The Social Stratification of the Hungarian population.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Baranyai, István</dcterms:creator>
+	<dcterms:creator>Kulcsár, Rózsa</dcterms:creator>
+	<dcterms:contributor>Hungarian Central Statistical Office Department of Social Statistics</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office Department of Economics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>income differences and (their sources) between different strata and groups; distribution of incomes, inequalities in income; composition of incomes broken down by income sources; the role of in-kind social benefits, new developments of the last five years in the above fields; mother tongue, family status, completed schooling, school history, qualifications of the respondent, data of his/her father, data of his/her father's father, data of his/her own farm and that of his/her parents, data on respondents mother and mothers father, data on respondent's friends, history of occupations, activities besides main job, marriage history, data of children and living sisters and brothers, changes in permanent and temporary addresses; ranking 156 occupations according to prestige</dcterms:description>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+   <dcterms:subject>1983</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>At the income data collection: a sample of approximately 14.800 households randomly selected from the 2630 election districts in 505 settlements included in the Hungarian Central Statistical Office (KSH) Unified Population Data Collection System sample. With surveys of mobility and prestige: a non-proportionally stratified sample of individuals. By dwellings, with KSH sampling.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, administered by interviewers, and self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A33</dcterms:subject>
+	<dcterms:subject>TDATA-A39</dcterms:subject>
+	<dcterms:subject>TDATA-A42</dcterms:subject>
+   <dcterms:subject>7561</dcterms:subject>
+   <dcterms:subject>1014</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

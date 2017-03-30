@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H11</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 2009/04. Social-political attitudes in Hungary among the adult population</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-01-04</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H11: TÁRKI Omnibus 2009/04. Social-political attitudes in Hungary among the adult population. data sheet. Version: 2011-01-04</dcterms:subject>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sik__Endre">Sik, Endre</a></dcterms:creator>
+	<dcterms:creator>2  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sik__Endre">Sik, Endre</a></dcterms:creator>
+	<dcterms:creator>3  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Dencs___Blanka">Dencső, Blanka</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political ideology</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>minorities</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the random walking method out of each strata. Numbers of selected persons are proportional to strata's size</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>140</dcterms:subject>
+   <dcterms:subject>1010</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

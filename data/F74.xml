@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F74</dcterms:source>
+   <dcterms:title>Spatial Orientation 2003. The asymmetric representation of allo- and egocentric space in the case of persons suffering from acute anxiety in Hungary.</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-07-23</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F74: Spatial Orientation 2003. The asymmetric representation of allo- and egocentric space in the case of persons suffering from acute anxiety in Hungary.. data sheet. Version: 2009-07-23</dcterms:subject>
+   <dcterms:creator>Kállai, János</dcterms:creator>
+   <dcterms:contributor>University of Pécs Institute of Behavioral Sciences</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Pécs Institute of Behavioral Sciences</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>gender differences in spatial orientation abilities and map using competence, especially under dangerous, anxiety-raising circumstances; cultural differences and the effects of the educational circumstances on the ability of orientation</dcterms:description>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+   <dcterms:subject>2002  2003</dcterms:subject>
+   <dcterms:coverage>Pécs</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A non-representative random sample of the students of the University of Pécs.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>D (after 2008-07-01: A)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The survey is part of a Hungarian-US comparative survey; this data file contains the Hungarian data.</dcterms:subject>
+   <dcterms:subject>315</dcterms:subject>
+   <dcterms:subject>22</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

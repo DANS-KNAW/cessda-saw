@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C69</dcterms:source>
+   <dcterms:title>Social Composition of Hungarian Small Entrepreneurs 1989</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C69: Social Composition of Hungarian Small Entrepreneurs 1989. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Laky, Teréz</dcterms:creator>
+	<dcterms:creator>Vajda, Ágnes</dcterms:creator>
+	<dcterms:contributor>Work Protection Research Public Foundation</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office Department of Social Statistics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>life career, education, profession, job, economic sector of workplace, similar data on his/her father, mother, mother's father, spouse, grown-up children; environment: personal relationships; features, evaluation and working conditions of his/her enterprise</dcterms:description>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+   <dcterms:subject>1988-11-01  1989-01-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Sample representing appr. 3% of small entrepreneurs active in towns. (See details in the Final Study.)</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>3952</dcterms:subject>
+   <dcterms:subject>176</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

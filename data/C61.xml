@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C61</dcterms:source>
+   <dcterms:title>TÁRKI-E ISSP 1991. Popular opinion about family relations. Religion I. Hungarian data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C61: TÁRKI-E ISSP 1991. Popular opinion about family relations. Religion I. Hungarian data.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kamaras__Ferenc">Kamarás, Ferenc</a></dcterms:creator>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kaposztas__Ferenc">Káposztás, Ferenc</a></dcterms:creator>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Pongracz__Tiborne">Pongrácz, Tiborné</a></dcterms:creator>
+	<dcterms:creator>1  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=S._Molnar__Edit">S. Molnár, Edit</a></dcterms:creator>
+	<dcterms:creator>2  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kolozsi__Bela">Kolozsi, Béla</a></dcterms:creator>
+	<dcterms:creator>2  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=M_nnich__Ivan">Münnich, Iván</a></dcterms:creator>
+	<dcterms:creator>3  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=_rkeny__Antal">Örkény, Antal</a></dcterms:creator>
+	<dcterms:creator>4  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Robert__Peter">Róbert, Péter</a></dcterms:creator>
+	<dcterms:creator>4  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Szanto__Janos">Szántó, János</a></dcterms:creator>
+	<dcterms:creator>5  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kolosi__Tamas">Kolosi, Tamás</a></dcterms:creator>
+	<dcterms:creator>5  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Robert__Peter">Róbert, Péter</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office Demographic Research Institute (1.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (2.)</dcterms:contributor>
+	<dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy (3.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (4.)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc. (5.)</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>relationship between parent and child, partners living as a couple, opinions on deviant attitudes and social problems; religious belief in modern societies; income and ways of economising</dcterms:description>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>gender and gender roles</dcterms:subject>
+   <dcterms:subject>1991-04-15  1991-05-06</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 1000-person national representative sample (based on 1989 TÁRKI-B sample)</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D06</dcterms:subject>
+	<dcterms:subject>TDATA-D81</dcterms:subject>
+	<dcterms:subject>TDATA-F50</dcterms:subject>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>330</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

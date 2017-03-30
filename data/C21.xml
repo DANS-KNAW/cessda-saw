@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C21</dcterms:source>
+   <dcterms:title>ICPSR Youth-Parent Socialization in the Population of the United States of America 1965-1973. Youth panel.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C21: ICPSR Youth-Parent Socialization in the Population of the United States of America 1965-1973. Youth panel.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Jennings, M. Kent</dcterms:creator>
+	<dcterms:creator>Niemi, Richard G.</dcterms:creator>
+   <dcterms:contributor>Center for Political Studies/Survey Research Center</dcterms:contributor>
+   <dcterms:contributor>Inter-university Consortium for Political and Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>experience at school; numerous standard political variables in both surveys; the political and general life history of the respondent during the past 8 years; family relationships</dcterms:description>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>1965</dcterms:subject>
+	<dcterms:subject>1973</dcterms:subject>
+   <dcterms:coverage>United States of America</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>97 high schools taken from a national sample of high schools weighted by their size. 15-21 senior students from each school. From among the original 1669 students 1119 were asked individually in 1973 and 229 filled out a postal questionnaire.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-C18</dcterms:subject>
+   <dcterms:subject>1348</dcterms:subject>
+   <dcterms:subject>826</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D28</dcterms:source>
+   <dcterms:title>TÁRKI Hungarian Household Panel 1996. Wave V. The financial and labor market position of Hungarian households.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D28: TÁRKI Hungarian Household Panel 1996. Wave V. The financial and labor market position of Hungarian households.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Tóth, István György</dcterms:creator>
+	<dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Sociology</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>2.4</dcterms:subject>
+   <dcterms:subject>2000-07-23: data file with corrected weight</dcterms:subject>
+   <dcterms:description>demographic data of household, characteristics of accommodation, data on income, qualifications, education level, profession of members of household, characteristics of household's subsistence conditions, development of expenses, economy and wealth; formation of manpower positions, economic activities, changes in job and income of household members</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+   <dcterms:subject>1996</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>National representative sample of households.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C81</dcterms:subject>
+	<dcterms:subject>TDATA-C82</dcterms:subject>
+	<dcterms:subject>TDATA-C83</dcterms:subject>
+	<dcterms:subject>TDATA-D08</dcterms:subject>
+	<dcterms:subject>TDATA-D28b</dcterms:subject>
+	<dcterms:subject>TDATA-D56</dcterms:subject>
+   <dcterms:subject>8211</dcterms:subject>
+   <dcterms:subject>1836</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian guide</dcterms:subject>
+	<dcterms:subject>Hungarian deputy questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian flat questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarien household head questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian household questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian individual questionnaire</dcterms:subject>
+	<dcterms:subject>English household questionnaire</dcterms:subject>
+	<dcterms:subject>English household questionnaire</dcterms:subject>
+</entry>

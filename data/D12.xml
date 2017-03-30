@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D12</dcterms:source>
+   <dcterms:title>National Alcohol and Drug Survey of Canada 1989</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D12: National Alcohol and Drug Survey of Canada 1989. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:contributor>Statistics Canada</dcterms:contributor>
+   <dcterms:contributor>Statistics Canada</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>habits of alcohol, cigarette and drog consumption, effects of stimulants</dcterms:description>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+   <dcterms:subject>1989-03-01  1989-03-31</dcterms:subject>
+   <dcterms:coverage>Canada</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A random national representative sample of the adult population.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>11634</dcterms:subject>
+   <dcterms:subject>545</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

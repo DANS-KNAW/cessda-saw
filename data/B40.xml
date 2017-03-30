@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B40</dcterms:source>
+   <dcterms:title>General Social Science Opinion Poll in the Federal Republic of Germany (ALLBUS 1986)</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B40: General Social Science Opinion Poll in the Federal Republic of Germany (ALLBUS 1986). data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Mayer, K. U.</dcterms:creator>
+	<dcterms:creator>Müller, W.</dcterms:creator>
+	<dcterms:creator>Pappi, F. U.</dcterms:creator>
+	<dcterms:creator>Scheuch, Erwin K.</dcterms:creator>
+	<dcterms:creator>Ziegler, Rolf</dcterms:creator>
+	<dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+	<dcterms:contributor>Centre for Survey Research and Methodology</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+	<dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+	<dcterms:contributor>Centre for Survey Research and Methodology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>environment, family, level of education, economy, job, occupation, income, qualification and cultural skills, social relations and assistance (International Social Survey Project, ISSP, Block 1986)</dcterms:description>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+   <dcterms:subject>1986</dcterms:subject>
+   <dcterms:coverage>West Germany</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>ADM sample, representative of German citizens over 18 years of age.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>3095</dcterms:subject>
+   <dcterms:subject>509</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C12</dcterms:source>
+   <dcterms:title>ICPSR National Survey of Health Practices (Prevalence) in the Adult Population of the United States 1979-1980</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C12: ICPSR National Survey of Health Practices (Prevalence) in the Adult Population of the United States 1979-1980. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>United States Department of Health and Human Services munkatársai</dcterms:creator>
+	<dcterms:contributor>United States Department of Health and Human Services</dcterms:contributor>
+	<dcterms:contributor>National Center for Health Statistics</dcterms:contributor>
+   <dcterms:contributor>Inter-university Consortium for Political and Social Research</dcterms:contributor>
+   <dcterms:contributor>Inter-university Consortium for Political and Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the impact of healthy life style on health, morbidity and mortality; right habits in life conduct (sleeping, nutrition, exercise), their frequency (stability over time)</dcterms:description>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:subject>1979-03-01  1980-05-31</dcterms:subject>
+   <dcterms:coverage>United States of America</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Random sample drawn from the adult population (aged 20+) having a telephone.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>3025</dcterms:subject>
+   <dcterms:subject>464</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

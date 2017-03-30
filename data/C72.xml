@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C72</dcterms:source>
+   <dcterms:title>TÁRKI Blood Donors, Changing of the Notion of Equity 1991. Hungarian population data.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-08</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C72: TÁRKI Blood Donors, Changing of the Notion of Equity 1991. Hungarian population data.. data sheet. Version: 2009-04-08</dcterms:subject>
+	<dcterms:creator>Neményi, Mária</dcterms:creator>
+	<dcterms:creator>Örkény, Antal</dcterms:creator>
+	<dcterms:creator>Polonyi, Gábor</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Fraternite Consulting Inc.</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+	<dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>social equity, blood donors</dcterms:description>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+   <dcterms:subject>1991</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A 1000-person national representative sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C71</dcterms:subject>
+	<dcterms:subject>TDATA-C87</dcterms:subject>
+	<dcterms:subject>TDATA-E68a</dcterms:subject>
+	<dcterms:subject>TDATA-E68b</dcterms:subject>
+	<dcterms:subject>TDATA-E93</dcterms:subject>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>339</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

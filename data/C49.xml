@@ -1,0 +1,62 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C49</dcterms:source>
+   <dcterms:title>ISSP 1990. Role of the Government II. International data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C49: ISSP 1990. Role of the Government II. International data.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>AUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Bean__Clive">Bean, Clive</a></dcterms:creator>
+	<dcterms:creator>AUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Evans__Mariah_D._R.">Evans, Mariah D. R.</a></dcterms:creator>
+	<dcterms:creator>AUS  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kelley__Jonathan">Kelley, Jonathan</a></dcterms:creator>
+	<dcterms:creator>D  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Braun__Michael">Braun, Michael</a></dcterms:creator>
+	<dcterms:creator>D  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Harkness__Janet">Harkness, Janet</a></dcterms:creator>
+	<dcterms:creator>D  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Mohler__Peter_Ph.">Mohler, Peter Ph.</a></dcterms:creator>
+	<dcterms:creator>D  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Uher__Rolf">Uher, Rolf</a></dcterms:creator>
+	<dcterms:creator>H  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Kolosi__Tamas">Kolosi, Tamás</a></dcterms:creator>
+	<dcterms:creator>I  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Calvi__Gabriele">Calvi, Gabriele</a></dcterms:creator>
+	<dcterms:creator>IL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Lewin-Epstein__Noah">Lewin-Epstein, Noah</a></dcterms:creator>
+	<dcterms:creator>IRL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Ward__Conor">Ward, Conor</a></dcterms:creator>
+	<dcterms:creator>IRL  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Whelan__Brendan">Whelan, Brendan</a></dcterms:creator>
+	<dcterms:creator>N  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Henrichsen__Bj_rn">Henrichsen, Björn</a></dcterms:creator>
+	<dcterms:creator>UK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Brook__Lindsay">Brook, Lindsay</a></dcterms:creator>
+	<dcterms:creator>UK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Jowell__Roger">Jowell, Roger</a></dcterms:creator>
+	<dcterms:creator>UK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Taylor__Bridget">Taylor, Bridget</a></dcterms:creator>
+	<dcterms:creator>UK  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Witherspoon__Sharon">Witherspoon, Sharon</a></dcterms:creator>
+	<dcterms:creator>USA  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Davis__James_A.">Davis, James A.</a></dcterms:creator>
+	<dcterms:creator>USA  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Smith__Tom_W.">Smith, Tom W.</a></dcterms:creator>
+	<dcterms:contributor>Australian National University Research School of Social Sciences (AUS)</dcterms:contributor>
+	<dcterms:contributor>Centre for Survey Research and Methodology (D)</dcterms:contributor>
+	<dcterms:contributor>Central Archive for Empirical Social Research (D)</dcterms:contributor>
+	<dcterms:contributor>EMMAG (D)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center (H)</dcterms:contributor>
+	<dcterms:contributor>Social and Marketing Research Institute (I)</dcterms:contributor>
+	<dcterms:contributor>Tel Aviv University Department of Sociology and Anthropology (IL)</dcterms:contributor>
+	<dcterms:contributor>Social Science Research Centre (IRL)</dcterms:contributor>
+	<dcterms:contributor>Norwegian Social Science Data Services (N)</dcterms:contributor>
+	<dcterms:contributor>Social and Community Planning Research (UK)</dcterms:contributor>
+	<dcterms:contributor>University of Chicago National Opinion Research Center (USA)</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>political activity, means of lobbying, economic and social roles taken by the government, privatisation, political preferences</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:subject>1990  1991</dcterms:subject>
+   <dcterms:coverage>international comparative survey</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A multi-stage representative sample of the adult population</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, method varying from country to country.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>14897</dcterms:subject>
+   <dcterms:subject>142</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

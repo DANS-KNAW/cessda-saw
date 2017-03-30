@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B89</dcterms:source>
+   <dcterms:title>The Image of Medical Services and Gratuity For Doctors In the Hungarian Press 1985</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B89: The Image of Medical Services and Gratuity For Doctors In the Hungarian Press 1985. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Vágó, Judit</dcterms:creator>
+   <dcterms:contributor>Mass Communication Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>gratuity, the situation of medical services</dcterms:description>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+   <dcterms:subject>1985</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>document</dcterms:subject>
+   <dcterms:subject>content analysis</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>National and local daily newspapers, journals.</dcterms:subject>
+   <dcterms:subject>Content analysis.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-B88</dcterms:subject>
+   <dcterms:subject>1333</dcterms:subject>
+   <dcterms:subject>183</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

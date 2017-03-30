@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A18</dcterms:source>
+   <dcterms:title>Hungarian Stratification-Model Study 1981-1982. Personal data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-07-29</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A18: Hungarian Stratification-Model Study 1981-1982. Personal data.. data sheet. Version: 2009-07-29</dcterms:subject>
+   <dcterms:creator>Kolosi, Tamás</dcterms:creator>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>settlement, demography, family, origin, life history, job, profession, ability to enforce interests, second economy, financial situation, health, culture, values</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+   <dcterms:subject>1981-01-01  1982-01-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Unified Population Data Collection System, 0.2% subsample.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A01</dcterms:subject>
+	<dcterms:subject>TDATA-A08</dcterms:subject>
+	<dcterms:subject>TDATA-A13</dcterms:subject>
+	<dcterms:subject>TDATA-A26</dcterms:subject>
+	<dcterms:subject>TDATA-A41</dcterms:subject>
+	<dcterms:subject>TDATA-A87</dcterms:subject>
+	<dcterms:subject>TDATA-A97</dcterms:subject>
+	<dcterms:subject>TDATA-B15</dcterms:subject>
+   <dcterms:subject>This file contains corrected data as compated with the original file (A41). A 0.15% representative sample can be selected with SELECT IF (REPI EQ 1) command.</dcterms:subject>
+   <dcterms:subject>15839</dcterms:subject>
+   <dcterms:subject>373</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian personal-occupational data sheet</dcterms:subject>
+	<dcterms:subject>Hungarian individual questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian health questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "Lifestyle and stratification C." questionnaire</dcterms:subject>
+</entry>

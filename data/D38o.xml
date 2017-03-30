@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D38o</dcterms:source>
+   <dcterms:title>TÁRKI OMNIBUS 1996 - ISSP 1996. Role of Government III. Hungarian data (self-completion).</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D38o: TÁRKI OMNIBUS 1996 - ISSP 1996. Role of Government III. Hungarian data (self-completion).. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Róbert, Péter</dcterms:creator>
+	<dcterms:creator>Sági, Matild</dcterms:creator>
+	<dcterms:creator>Tarjányi, József</dcterms:creator>
+	<dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Ministry of Finance</dcterms:contributor>
+	<dcterms:contributor>Median</dcterms:contributor>
+	<dcterms:contributor>Ezredvég Foundation</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>opinions about pension funds and the pension insurance; pension supplement insurance, age exemption; retired people's living conditions and situation, the amount of pension; opinion about the new pension system; taking risks; party preferences, popularity index of politicians; opinion about law abiding, the freedom of speech; opinion about the tasks and roles of the government in managing the economy, using taxes, social services; the working of democracy, having a say in politics</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+   <dcterms:subject>1996-10-16  1996-10-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>The settlement sample for the sample was prepared by MEDIÁN Ltd. The names and addresses of the specific persons was selected with a simple random sampling process from the data of the Central Registration and Electorial Bureau.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, administered by interviewers, and self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-D38</dcterms:subject>
+   <dcterms:subject>308</dcterms:subject>
+   <dcterms:subject>82</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+</entry>

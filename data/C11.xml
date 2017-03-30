@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C11</dcterms:source>
+   <dcterms:title>Health and Nutrition Examination Survey 1971-1974. Nutrition data and norms among the adult US population.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C11: Health and Nutrition Examination Survey 1971-1974. Nutrition data and norms among the adult US population.. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>United States Department of Health and Human Services munkatársai</dcterms:creator>
+	<dcterms:contributor>United States Department of Health and Human Services</dcterms:contributor>
+	<dcterms:contributor>National Center for Health Statistics</dcterms:contributor>
+   <dcterms:contributor>Inter-university Consortium for Political and Social Research</dcterms:contributor>
+   <dcterms:contributor>Inter-university Consortium for Political and Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>demographical data; nutrition data, also compared to the norms of proper nutrition; participation in nutrition projects</dcterms:description>
+	<dcterms:subject>agriculture</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+   <dcterms:subject>1971  1974</dcterms:subject>
+   <dcterms:coverage>United States of America</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>National random sample drawn from US civil inhabitants aged 74 or less living in non-institutional households. Population groups at risk of improper nutrition are over-represented.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, administered by interviewers, and a telephone interview 24 hours later</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>20749</dcterms:subject>
+   <dcterms:subject>149</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

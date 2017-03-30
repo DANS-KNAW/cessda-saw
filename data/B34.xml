@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B34</dcterms:source>
+   <dcterms:title>Workers' Lifestyle in the Pécs Agglomeration 1976-1977.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B34: Workers' Lifestyle in the Pécs Agglomeration 1976-1977.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Hantó, Zsuzsa</dcterms:creator>
+	<dcterms:creator>Kárpáti, Zoltán</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Center for Regional Research Pécs</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Center for Regional Research Pécs</dcterms:contributor>
+	<dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>the influence of the place of residence on life style; behaviour on the housing and labour market, life history, life strategy; settlement history and development, population behaviour, the impact of tradition and origin on life style and aspirations; second economy</dcterms:description>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>community, urban and rural life</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>social and occupational mobility</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+   <dcterms:subject>1976  1977</dcterms:subject>
+   <dcterms:coverage>agglomeration of Pécs</dcterms:coverage>
+   <dcterms:subject>household</dcterms:subject>
+   <dcterms:subject>qualitative and quantitavie</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>1000 worker families: 250 first and 250 second generations living in towns; 250 first and 250 second generations living in villages.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, personal oral history recorded on a tape, unstructured interview, analysis of childrens drawings.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>952</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

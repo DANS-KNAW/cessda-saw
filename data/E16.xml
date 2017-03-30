@@ -1,0 +1,56 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E16</dcterms:source>
+   <dcterms:title>TÁRKI Omnibus 2000/2. Social-political attitudes in Hungary among the adult population.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E16: TÁRKI Omnibus 2000/2. Social-political attitudes in Hungary among the adult population.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>1.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Toth__Zsolt">Tóth, Zsolt</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Rudas__Tamas">Rudas, Tamás</a></dcterms:creator>
+	<dcterms:creator>2.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sagi__Matild">Sági, Matild</a></dcterms:creator>
+	<dcterms:creator>3.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Gazso__Tibor">Gazsó, Tibor</a></dcterms:creator>
+	<dcterms:creator>4.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Sik__Endre">Sik, Endre</a></dcterms:creator>
+	<dcterms:creator>5.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Robert__Peter">Róbert, Péter</a></dcterms:creator>
+	<dcterms:creator>6.  <a href="http://www.tarki.hu/cgi-bin/katalogus/tarkiser_en.pl?kut=Csizer__Kata">Csizér, Kata</a></dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>The Hungarian Prime Ministers Office (1.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian National Bank (2.)</dcterms:contributor>
+	<dcterms:contributor>Századvég Center for Political Analysis (3.)</dcterms:contributor>
+	<dcterms:contributor>United Nations High Commissioner for Refugees Representative Office in Hungary (4.)</dcterms:contributor>
+	<dcterms:contributor>Visegrad International Polling Group (5.)</dcterms:contributor>
+	<dcterms:contributor>Hungarian Ministry of the Interior (6.)</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>1. abolition of the regular army service, introduction of mercenary army, the new flat support system 2. perception of inflation 3. evaluation of politicians, party preferences, evaluation of the work of the government and opposition 4. admitting refugees, the issue of refugees in the press 5. opinions about NATO membership, the further expansion of NATO 6. safety on the roads, current and planned penalty for traffic offences, the two plans (point system - zero tolerance), the work of traffic police</dcterms:description>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>international politics and organisations</dcterms:subject>
+   <dcterms:subject>2000-02-04  2000-02-16</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage proportionately stratified national probability sample representative of the adult Hungarian population. Respondents were selected using the Leslie Kish key and the random walking method.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>block 1: A, block 2: C, block 3: A, block 4: A, block 5: A, block 6: A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1511</dcterms:subject>
+   <dcterms:subject>261 (252)</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

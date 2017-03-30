@@ -1,0 +1,36 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D24</dcterms:source>
+   <dcterms:title>TÁRKI - Traffic Safety 1997. Driving habits of Hungarian drivers and their opinion about traffic safety.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D24: TÁRKI - Traffic Safety 1997. Driving habits of Hungarian drivers and their opinion about traffic safety.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Gábor, Miklós</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Transportation Studies Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>vehicle driving habits, opinion about the conditions of the roads, about the behavior and habits of traffic participants, conditions of vehicles; traffic regulations and their observance; use of safety tools, control of use; alcohol consumption</dcterms:description>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>conflict, security and peace</dcterms:subject>
+   <dcterms:subject>1997-04-01  1997-04-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Sample consisted of car drivers with B type driving licence driving a car in the past 12 months. At the first stage settlements were categorized on the basis of the number of cars, and 9 settlement strata emerged as a result. The number of persons to be interviewed was defined using the weight defined on the basis of the number of cars, and from the potential persons the respondents were randomly selected.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>1000</dcterms:subject>
+   <dcterms:subject>178</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

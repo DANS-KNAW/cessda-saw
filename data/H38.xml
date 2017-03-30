@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H38</dcterms:source>
+   <dcterms:title>Homeless and drog useage in Budapest; 2007</dcterms:title>
+   <dcterms:creator>Hegedűs, Péter</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2011-03-08</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H38: Homeless and drog useage in Budapest; 2007. data sheet. Version: 2011-03-08</dcterms:subject>
+   <dcterms:creator>Paksi, Borbála</dcterms:creator>
+   <dcterms:contributor>Corvinus University of Budapest</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Corvinus University of Budapest</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>The main aim of the research was to estimate the drug use and describe the patterns of drug use of the homeless population in the capital.</dcterms:description>
+   <dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+   <dcterms:coverage>Budapest</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The data collection of the presented research took place on a 25% representative sample of thehomeless population appearing within the care ystem (at temporary places of accommodation or night shelters) (gross sample: 757 people, net sample: 583 people).</dcterms:subject>
+   <dcterms:subject>face to face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>583</dcterms:subject>
+   <dcterms:subject>297</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F11</dcterms:source>
+   <dcterms:title>Retail Trade Tendencies of Food and Everyday Goods in Hungary 2000</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F11: Retail Trade Tendencies of Food and Everyday Goods in Hungary 2000. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Bauer, András</dcterms:creator>
+   <dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Marketing</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Marketing</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the purpose of the survey is to examine the tendencies in the Hungarian food retail trade, analysis of the trade-political tools, relationship with suppliers, and the competition situation</dcterms:description>
+   <dcterms:subject>business/industrial management and organisation</dcterms:subject>
+   <dcterms:subject>2000-01-18  2000-01-27</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>National sample based on quotas, considering the distribution of shops in the counties.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>311</dcterms:subject>
+   <dcterms:subject>302</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian code list</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

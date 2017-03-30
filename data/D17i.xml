@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D17i</dcterms:source>
+   <dcterms:title>Social Costs of Economic Transformation in Central Europe 1994. Sample of individuals.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D17i: Social Costs of Economic Transformation in Central Europe 1994. Sample of individuals.. data sheet. Version: 2009-09-11</dcterms:subject>
+	<dcterms:creator>Bednarik, Rastislav</dcterms:creator>
+	<dcterms:creator>Engfer, Uwe</dcterms:creator>
+	<dcterms:creator>Ferge, Zsuzsa</dcterms:creator>
+	<dcterms:creator>Komlósi, Péter</dcterms:creator>
+	<dcterms:creator>Mateju, Petr</dcterms:creator>
+	<dcterms:creator>Milic-Czerniak, Roza</dcterms:creator>
+	<dcterms:creator>Sik, Endre</dcterms:creator>
+	<dcterms:contributor>Institute for Human Sciences</dcterms:contributor>
+	<dcterms:contributor>GFM-GETAS</dcterms:contributor>
+	<dcterms:contributor>FOCUS-Center for Social Analysis</dcterms:contributor>
+	<dcterms:contributor>FACTUM</dcterms:contributor>
+	<dcterms:contributor>CBOS Public Opinion Research Center</dcterms:contributor>
+	<dcterms:contributor>Technical University of Darmstadt Institute of Sociology</dcterms:contributor>
+	<dcterms:contributor>Research Institute of Labor, Social Affairs and Family</dcterms:contributor>
+	<dcterms:contributor>Czech Academy of Sciences Institute of Sociology (CZ)</dcterms:contributor>
+	<dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy (H)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center (H)</dcterms:contributor>
+	<dcterms:contributor>Szonda Ipsos (H)</dcterms:contributor>
+	<dcterms:contributor>Polish Academy of Sciences Institute of Political Science (PL)</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Institute for Human Sciences</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>how individuals and families are trying to cope with the problems caused by transition, and who people think the winners and the losers of the changes; includes data about the composition of households, the conditions, and data about the respondents' income, employment status and social background; satisfaction with the provision of basic needs, roles of different social benefits, "good deed" and their access, strategies of adaptation to changes, attitudes toward the future</dcterms:description>
+	<dcterms:subject>land use planning</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>1994</dcterms:subject>
+   <dcterms:coverage>Europe</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Czech: two-stage random sample; Polish: national sample, representative of the population, drawn from census data for 1988. Three-stage sampling: statistical area - flat - adult person; Hungarian: national representative sample using the 1990 census data. Selection of the respondent took place in two stages; settlement - household; Germany: ADM sample (sample selection was done following the election districts), using the 1989 data of the western part, and the 1991 data of the eastern part; Slovakia: national repesentative sample using the Leslie Kish-key.</dcterms:subject>
+   <dcterms:subject>data collection with questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D17h</dcterms:subject>
+	<dcterms:subject>TDATA-F43</dcterms:subject>
+   <dcterms:subject>The file contains data of comparative analyses in five countries. Participating countries: Czech Republic, Poland, Hungary, Germany and Slovakia.</dcterms:subject>
+   <dcterms:subject>15124</dcterms:subject>
+   <dcterms:subject>193</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+	<dcterms:subject>English documentation</dcterms:subject>
+</entry>

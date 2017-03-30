@@ -1,0 +1,49 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B84d</dcterms:source>
+   <dcterms:title>Life Style and Time Budget Study In Hungary 1986-1987. Simplified time budget.</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B84d: Life Style and Time Budget Study In Hungary 1986-1987. Simplified time budget.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Falussy, Béla</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office Department of Social Statistics</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>time budget, socio-demographic data of respondent, characteristics of the household; simplified time budget data, contains the execution time of 46 activities</dcterms:description>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+	<dcterms:subject>working conditions</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+   <dcterms:subject>1986  1987</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>A 0.14 per cent sample of the population aged 15-79.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A94</dcterms:subject>
+	<dcterms:subject>TDATA-B84a</dcterms:subject>
+	<dcterms:subject>TDATA-B84b</dcterms:subject>
+	<dcterms:subject>TDATA-B84c</dcterms:subject>
+	<dcterms:subject>TDATA-B85e</dcterms:subject>
+	<dcterms:subject>TDATA-B85h</dcterms:subject>
+	<dcterms:subject>TDATA-B85i</dcterms:subject>
+	<dcterms:subject>TDATA-B85j</dcterms:subject>
+	<dcterms:subject>TDATA-B85k</dcterms:subject>
+	<dcterms:subject>TDATA-C74</dcterms:subject>
+	<dcterms:subject>TDATA-F48a</dcterms:subject>
+	<dcterms:subject>TDATA-F48b</dcterms:subject>
+	<dcterms:subject>TDATA-F48c</dcterms:subject>
+   <dcterms:subject>The simplified version of the time budget data file (B84a), describes the time needed to accomplish 46 types of activities. Can be connected to the data files B84b and b84c.</dcterms:subject>
+   <dcterms:subject>39619</dcterms:subject>
+   <dcterms:subject>190</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

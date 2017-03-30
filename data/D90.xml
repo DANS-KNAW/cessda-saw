@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D90</dcterms:source>
+   <dcterms:title>Price Calculation of Big Companies in Hungary 1998</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D90: Price Calculation of Big Companies in Hungary 1998. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Tóth, István János</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian National Bank</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>characteristics of products, groups of products; price calculation: price reduction, customers and rivals, legal regulations, prices of raw materials, the effect of the price of energy; factors affecting the price; the element sof price calculations in the case of new products; export activity; role of trade union; company structure</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>trade, industry and markets</dcterms:subject>
+   <dcterms:subject>1998-06-01  1998-06-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A simple random sample based on the company registry of the Hungarian Central Statistical Office (KSH). Criteria for inclusion in the basic population from which the sample was drawn: 1. the company operates in the processing, building industry, or commerce 2. at the end of 1997 it had more than 20 employees 3. the net return from sales in 1996 was more than 250 million forints. Out of the 2900 posted questionnaires, 451 was completed.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaire and interview by telephone.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E96</dcterms:subject>
+   <dcterms:subject>451</dcterms:subject>
+   <dcterms:subject>116</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>

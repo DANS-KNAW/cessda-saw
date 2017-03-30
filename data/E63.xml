@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E63</dcterms:source>
+   <dcterms:title>TÁRKI Household Monitor 2001. The financial and labor market position of Hungarian households.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E63: TÁRKI Household Monitor 2001. The financial and labor market position of Hungarian households.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Szivós, Péter</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.2</dcterms:subject>
+   <dcterms:subject>2001-11-28: data file with corrected weight</dcterms:subject>
+   <dcterms:description>cultural consumption, computer and internet use, tourism index, individual and family properties and incomes, economic activity, membership in penson funds, consumer habits, habits of spending and saving money, evaluation of inflation, subjective financial situation and satisfaction, religious affiliation and religious life, housing situation, applying for and evaluation of bank loans for housing purposes, using banking services, savings and loads, possession of durables</dcterms:description>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>consumption/consumer behavior</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+   <dcterms:subject>2001-03-28  2001-05-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Multi-stage, proportionately stratified national representative probability sample of apartments.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D76</dcterms:subject>
+	<dcterms:subject>TDATA-E05</dcterms:subject>
+	<dcterms:subject>TDATA-E22</dcterms:subject>
+	<dcterms:subject>TDATA-E57</dcterms:subject>
+	<dcterms:subject>TDATA-E61</dcterms:subject>
+	<dcterms:subject>TDATA-F85</dcterms:subject>
+   <dcterms:subject>The HABHT0 variable can be used for separating the household sample (1946 cases). The EAKERDIV variable makes it possible to separate those persons who responded to the individual questionnaire (4271 cases).</dcterms:subject>
+   <dcterms:subject>5960</dcterms:subject>
+   <dcterms:subject>1010</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian guide</dcterms:subject>
+	<dcterms:subject>Hungarian household questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian individual questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English household questionnaire</dcterms:subject>
+	<dcterms:subject>English individual questionnaire</dcterms:subject>
+</entry>

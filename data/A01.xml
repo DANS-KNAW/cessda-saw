@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A01</dcterms:source>
+   <dcterms:title>Stratification-modell Study: Typology of occupations and occupational mobility between 1930 and 1982.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2015-02-20</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A01: Stratification-modell Study: Typology of occupations and occupational mobility between 1930 and 1982.. data sheet. Version: 2015-02-20</dcterms:subject>
+	<dcterms:creator>Kovách, Imre</dcterms:creator>
+	<dcterms:creator>Róbert, Péter</dcterms:creator>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Socialist Labor Party Central Committee Social Sciences Institute</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented.2009-07-21: the Hungarian and English study abstracts were updated.</dcterms:subject>
+   <dcterms:description>Classification of occupations, occupational mobility between 1930 and 1982. This study - as a part of "Stratification-model study" - focused on the change of occupational structure and occupational prestige. This data collection is an occupational level aggregated datafile and it contains computed variables.</dcterms:description>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>1981-01-01  1982-01-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>occupation</dcterms:subject>
+   <dcterms:subject>aggregate data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>National representative sample of 18330 respondents based on the Unified Population Data Collection System. Occupations were listed in the sample based on the four-digit codes of the Uniform Classification System of Occupations (FEOR), these were grouped by the presetige point system of D. Treiman (1977) into 216 occupational categories, then they were clustered into 10 occupational groups.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-A08</dcterms:subject>
+	<dcterms:subject>TDATA-A13</dcterms:subject>
+	<dcterms:subject>TDATA-A18</dcterms:subject>
+	<dcterms:subject>TDATA-A26</dcterms:subject>
+	<dcterms:subject>TDATA-A41</dcterms:subject>
+	<dcterms:subject>TDATA-A87</dcterms:subject>
+	<dcterms:subject>TDATA-A97</dcterms:subject>
+	<dcterms:subject>TDATA-B15</dcterms:subject>
+   <dcterms:subject>216</dcterms:subject>
+   <dcterms:subject>33</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian 1st questionnaire and documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,46 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C47</dcterms:source>
+   <dcterms:title>TÁRKI INTER 1991. Evaluation of the regime change and its immediate effects in the Hungarian adult population.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C47: TÁRKI INTER 1991. Evaluation of the regime change and its immediate effects in the Hungarian adult population.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Dohnalik, Jacek</dcterms:creator>
+	<dcterms:creator>Hartl, Jan</dcterms:creator>
+	<dcterms:creator>Jasiewicz, Krysztof</dcterms:creator>
+	<dcterms:creator>Markowski, Radoslaw</dcterms:creator>
+	<dcterms:creator>Mateju, Petr</dcterms:creator>
+	<dcterms:creator>Szeafjev, Henryk</dcterms:creator>
+	<dcterms:creator>Tóka, Gábor</dcterms:creator>
+	<dcterms:contributor>STEM (CZ)</dcterms:contributor>
+	<dcterms:contributor>Szonda Ipsos (H)</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Joint Research Center (H)</dcterms:contributor>
+	<dcterms:contributor>Pentor (PL)</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>expectations and attitudes towards the economic and social roles taken by the state; opinions about the current economic processes; attitudes towards the new political system, the objective social status of respondents; the social character of recent changes and subjective opinions about them</dcterms:description>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>economic systems and development</dcterms:subject>
+   <dcterms:subject>1991-08-01  1991-12-31</dcterms:subject>
+   <dcterms:coverage>Hungary, Czechoslovakia, Poland</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>In addition to Hungary, Poland and Czechoslovakia also participated in the investigation. All of them are national representative samples, Hungarian 1500, Polish 1491, Czech 1187, Slovak 817 persons.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>4995</dcterms:subject>
+   <dcterms:subject>217</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

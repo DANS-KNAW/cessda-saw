@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B51</dcterms:source>
+   <dcterms:title>ISSP 1985. Role of the Government I. International data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B51: ISSP 1985. Role of the Government I. International data.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Braun, Michael</dcterms:creator>
+	<dcterms:contributor>University of Graz Institute of Sociology (A)</dcterms:contributor>
+	<dcterms:contributor>Australian National University Research School of Social Sciences (AUS)</dcterms:contributor>
+	<dcterms:contributor>Centre for Survey Research and Methodology (D)</dcterms:contributor>
+	<dcterms:contributor>Social and Marketing Research Institute (I)</dcterms:contributor>
+	<dcterms:contributor>Social and Community Planning Research (UK)</dcterms:contributor>
+	<dcterms:contributor>University of Chicago National Opinion Research Center (USA)</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:contributor>Central Archive for Empirical Social Research</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>civil rights, the government and the family, social policy, the government and the social inequalities, the government's interventions into the economy, political activity and alienation</dcterms:description>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>social change</dcterms:subject>
+   <dcterms:subject>1985</dcterms:subject>
+   <dcterms:coverage>international comparative survey</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Two-stage random sample from the population aged 18 or more.</dcterms:subject>
+   <dcterms:subject>Posted self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>7350</dcterms:subject>
+   <dcterms:subject>141</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>English codebook</dcterms:subject>
+</entry>

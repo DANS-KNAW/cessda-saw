@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D86b</dcterms:source>
+   <dcterms:title>Social Aid System in Hungary 1995. Aid sample.</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D86b: Social Aid System in Hungary 1995. Aid sample.. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Harcsa, István</dcterms:creator>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>the practice of giving of social aid by local self-governments; type, amount, entitlement of social aid</dcterms:description>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+   <dcterms:subject>1995</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>document</dcterms:subject>
+   <dcterms:subject>administrative records</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>Non-representative sample. Experimental data collection based on a computer register registration. Registration data from 56 local self-governments were used. From each county 1-1 city and village can also be found in the sample.</dcterms:subject>
+   <dcterms:subject>Summary of administrative records.</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D86a</dcterms:subject>
+	<dcterms:subject>TDATA-D86c</dcterms:subject>
+	<dcterms:subject>TDATA-D87a</dcterms:subject>
+	<dcterms:subject>TDATA-D87b</dcterms:subject>
+	<dcterms:subject>TDATA-D87c</dcterms:subject>
+	<dcterms:subject>TDATA-D88a</dcterms:subject>
+	<dcterms:subject>TDATA-D88b</dcterms:subject>
+	<dcterms:subject>TDATA-D88c</dcterms:subject>
+   <dcterms:subject>935447</dcterms:subject>
+   <dcterms:subject>11</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

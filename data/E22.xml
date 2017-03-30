@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E22</dcterms:source>
+   <dcterms:title>TÁRKI Household Monitor 2000. The financial and labor market position of Hungarian households.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E22: TÁRKI Household Monitor 2000. The financial and labor market position of Hungarian households.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Kolosi, Tamás</dcterms:creator>
+	<dcterms:creator>Róbert, Péter</dcterms:creator>
+	<dcterms:creator>Sik, Endre</dcterms:creator>
+	<dcterms:creator>Szivós, Péter</dcterms:creator>
+	<dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>individual and family property and income, money-spending and saving habits, cultural consumption, using free-time, employment, sources of income, additional income, pension fund membership and payments, assessment of one's own and the country's economic situation, computer and internet use, social network</dcterms:description>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>transport, travel (and mobility)</dcterms:subject>
+	<dcterms:subject>religion and values</dcterms:subject>
+	<dcterms:subject>agriculture</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>censuses</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>information society</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>society and culture</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+   <dcterms:subject>2000-04-19  2000-05-23</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>persons and households</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>The sample is a probability sample, prepared by a multi-stage proportionately stratified selection, based on dwelling data. At the first stage a data file was prepared, in which the case number of the settlements is in proportion with the number of the dwellings in that settlement. 15 dwellings were visited in each settlement in the sample. At the next stage the sample was stratified by the regional variable also used by the Hungarian Central Statistical Office (KSH), and by the number of dwellings in that settlement. The sampling software selected the settlement in the region with the appropriate number of dwellings using a simple, random sampling procedure. If a settlement was selected to be included in the sample more than once, that many times 15 dwellings were visited by the interviewers. The addresses of the specific households were taken from the date of the Central Registration and Electorial Bureau. The addresses in the sample were identified using a simple random sampling process on the data that was reduced with filtering out adults living at the same address. The sample is a so-called diminishing sample, whih means that the dropping out addresses were calculated with too.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D76</dcterms:subject>
+	<dcterms:subject>TDATA-E05</dcterms:subject>
+	<dcterms:subject>TDATA-E63</dcterms:subject>
+	<dcterms:subject>TDATA-F85</dcterms:subject>
+   <dcterms:subject>Variable E9HTFOVI can be used for separating the household sample (2013 cases), whereas variable H9LEGY0 makes it possible to separate out those responding to the individual questionnaire (3862 cases).</dcterms:subject>
+   <dcterms:subject>5517</dcterms:subject>
+   <dcterms:subject>1340</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian household questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian individual questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English household questionnaire</dcterms:subject>
+	<dcterms:subject>English individual questionnaire</dcterms:subject>
+</entry>

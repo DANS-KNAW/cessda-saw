@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E42f</dcterms:source>
+   <dcterms:title>Foreign Currency Management Habits of the Adult Hungarian Population in 2000. Customer sample.</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E42f: Foreign Currency Management Habits of the Adult Hungarian Population in 2000. Customer sample.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Tóth, István János</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Economic Sciences Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>currency handling habits of the population, amounts of money paid in and withdrawn from the currency account and its source; the daily turnover of population currency accounts</dcterms:description>
+	<dcterms:subject>economic policy</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+   <dcterms:subject>2000-08-21  2000-08-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>From a list about all the banks operating in Hungary (list provided by the Hungarian National Bank) seven banks with the biggest circulation were selected. Then 23 bank branches (16 in Budapest, 7 in cities with significant tourism) were selected, where all of the customers with an active currency bank account were asked to fill out a questionnaire.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E42i</dcterms:subject>
+   <dcterms:subject>1789</dcterms:subject>
+   <dcterms:subject>148</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire and documentation</dcterms:subject>
+</entry>

@@ -1,0 +1,57 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B12</dcterms:source>
+   <dcterms:title>TÁRKI III. Milieus - Demography - ISSP Social inequalities 1987. Summarized data file.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B12: TÁRKI III. Milieus - Demography - ISSP Social inequalities 1987. Summarized data file.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Angelusz, Róbert</dcterms:creator>
+	<dcterms:creator>Bokor, Ágnes</dcterms:creator>
+	<dcterms:creator>Kolosi, Tamás</dcterms:creator>
+	<dcterms:creator>Pataki, Judit</dcterms:creator>
+	<dcterms:creator>S. Molnár, Edit</dcterms:creator>
+	<dcterms:creator>Tardos, Róbert</dcterms:creator>
+   <dcterms:contributor>Mass Communication Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+	<dcterms:contributor>Loránd Eötvös University Institute of Sociology and Social Policy</dcterms:contributor>
+	<dcterms:contributor>Hungarian Central Statistical Office</dcterms:contributor>
+	<dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+	<dcterms:contributor>Mass Communication Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>inequality-consciousness, contacts, family planning, the 1987 block of International Social Survey Project (ISSP)</dcterms:description>
+	<dcterms:subject>cultural activities and participation</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>childbearing, family planning and abortion</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>social conditions and indicators</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>demography</dcterms:subject>
+   <dcterms:subject>1987-05-01  1987-05-31</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>time-series</dcterms:subject>
+   <dcterms:subject>3000 persons; a representative subsample of the TÁRKI basic sample.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-B13</dcterms:subject>
+	<dcterms:subject>TDATA-B54</dcterms:subject>
+	<dcterms:subject>TDATA-B55</dcterms:subject>
+	<dcterms:subject>TDATA-B56</dcterms:subject>
+	<dcterms:subject>TDATA-B70</dcterms:subject>
+	<dcterms:subject>TDATA-B33</dcterms:subject>
+   <dcterms:subject>The data file contains all the variables of the TÁRKI III survey (B54, B55, B56) and the variables of TÁRKI I (B13)</dcterms:subject>
+   <dcterms:subject>2982</dcterms:subject>
+   <dcterms:subject>1393</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

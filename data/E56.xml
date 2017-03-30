@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E56</dcterms:source>
+   <dcterms:title>Popular Opinion About the Environmental Policy and Cleanness of Miskolc 2001</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-13</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E56: Popular Opinion About the Environmental Policy and Cleanness of Miskolc 2001. data sheet. Version: 2007-02-13</dcterms:subject>
+   <dcterms:creator>Józan, Anna</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Deloitte &amp; Touche Inc.</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>opinions about the cleanness of the surrounding of Miskolc, the cement factory in Helyőcsaba, the alternative heating methods</dcterms:description>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>trade, industry and markets</dcterms:subject>
+	<dcterms:subject>natural resources and environment</dcterms:subject>
+   <dcterms:subject>2001-04-01  2001-04-30</dcterms:subject>
+   <dcterms:coverage>Miskolc</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 1000-person random sample selected from the subscribers of the local MATÁV district. The sample is composed of 507 persons from Hejőcsaba and 511 persons from other Miskolc-related subsamples. The subsamples can be separated by using the variable ALMINTA.</dcterms:subject>
+   <dcterms:subject>Telephone interview based on questionnaire.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-E55</dcterms:subject>
+   <dcterms:subject>1018</dcterms:subject>
+   <dcterms:subject>38</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

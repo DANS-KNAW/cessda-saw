@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-H18</dcterms:source>
+   <dcterms:title>Drog consumption of the normal population in Hungary 2001</dcterms:title>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-09-02</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-H18: Drog consumption of the normal population in Hungary 2001. data sheet. Version: 2010-09-02</dcterms:subject>
+	<dcterms:creator>Elekes, Zsuzsanna</dcterms:creator>
+	<dcterms:creator>Paksi, Borbála</dcterms:creator>
+   <dcterms:contributor>Corvinus University of Budapest</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>The survey was conducted in autumn 2001 estimate the prevalence of drog- and alcohol consumption in the normal population, risk factor of these behaviours and attitudes towards drog use and drog addicts</dcterms:description>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The type of the sample is representative sample. The method of the sample choice: multi-stage proportionately stratified national probability sample, in the case of the country sample in one- and in the case of the Budapest sample in two steps. In the first step of the country subsample developing the settlement have choosen according to the place and the size of the settlement, after then in the second step the respondent persons have choised with  random probability sample method.</dcterms:subject>
+   <dcterms:subject>face-to-face interview and self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>2359</dcterms:subject>
+   <dcterms:subject>484</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>hungarian codebook</dcterms:subject>
+	<dcterms:subject>hungarian "B" questionnaire</dcterms:subject>
+	<dcterms:subject>hungarian "A" questionnaire</dcterms:subject>
+	<dcterms:subject>english "B" questionnaire</dcterms:subject>
+	<dcterms:subject>English "A" questionnaire</dcterms:subject>
+</entry>

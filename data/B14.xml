@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B14</dcterms:source>
+   <dcterms:title>Time Budget and Leisure Time Activities of Students of the Lajos Kossuth University Living in Student Hostels 1982</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B14: Time Budget and Leisure Time Activities of Students of the Lajos Kossuth University Living in Student Hostels 1982. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Kabai, Imre</dcterms:creator>
+   <dcterms:contributor>University of Debrecen Department of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Debrecen Department of Sociology</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>basic socio-demographical variables, study time/free time ratio, frequency of cultural activities and their degree of preference, constraints, weekly time budget</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>time use</dcterms:subject>
+	<dcterms:subject>housing</dcterms:subject>
+	<dcterms:subject>local society, region</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>1982</dcterms:subject>
+   <dcterms:coverage>Debrecen</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Student study survey, sample: 100 students.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>97</dcterms:subject>
+   <dcterms:subject>236</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

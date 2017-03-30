@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E75n</dcterms:source>
+   <dcterms:title>TÁRKI Small Regions 2001. The situation of the disadvantaged Hungarian schools in the area of public education. Student sample.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-02-12</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E75n: TÁRKI Small Regions 2001. The situation of the disadvantaged Hungarian schools in the area of public education. Student sample.. data sheet. Version: 2007-02-12</dcterms:subject>
+   <dcterms:creator>Imre, Anna</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Institute of Public Education</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>evaluating the role of the school, relationship to studying, conflicts between teachers and students, continuing studying</dcterms:description>
+	<dcterms:subject>education, school</dcterms:subject>
+	<dcterms:subject>leisure, tourism and sport</dcterms:subject>
+   <dcterms:subject>2001-05-01  2001-05-31</dcterms:subject>
+   <dcterms:coverage>6 selected small regions of Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>As a starting point of the research, 6 underprivileged regions were selected, and all schools within this area was included in the sample. From each school an eighth grade class was selected, where all the students were asked to complete the questionnaire.</dcterms:subject>
+   <dcterms:subject>self-administered questionnaire</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-E75f</dcterms:subject>
+	<dcterms:subject>TDATA-E75i</dcterms:subject>
+	<dcterms:subject>TDATA-E75o</dcterms:subject>
+	<dcterms:subject>TDATA-E75s</dcterms:subject>
+   <dcterms:subject>876</dcterms:subject>
+   <dcterms:subject>214</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian guide</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

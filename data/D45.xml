@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D45</dcterms:source>
+   <dcterms:title>Longitudinal Panel Survey of Industrial Companies in Hungary, 1992-1997, Wave III. 1994</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D45: Longitudinal Panel Survey of Industrial Companies in Hungary, 1992-1997, Wave III. 1994. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Balázs, János</dcterms:creator>
+	<dcterms:contributor>Hungarian Labor Research and Methodology Center</dcterms:contributor>
+	<dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Budapest University of Economic Sciences and Public Administration Department of Sociology</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>ownership transformation, company strategy, innovation, human resources, market relations, management indicators, leaders' opinion about the Hungarian economy</dcterms:description>
+	<dcterms:subject>history</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+	<dcterms:subject>economic conditions and indicators</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+	<dcterms:subject>labour and employment</dcterms:subject>
+   <dcterms:subject>1994</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>panel</dcterms:subject>
+   <dcterms:subject>Stratified sample of industrial companies.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, administered by interviewers, and self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D43</dcterms:subject>
+	<dcterms:subject>TDATA-D44</dcterms:subject>
+   <dcterms:subject>The D43, D44 and D45 surveys can be linked.</dcterms:subject>
+   <dcterms:subject>489</dcterms:subject>
+   <dcterms:subject>222</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

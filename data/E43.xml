@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E43</dcterms:source>
+   <dcterms:title>Human Resource Management of Companies in Production in 2000</dcterms:title>
+   <dcterms:creator>Nagy, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-09-11</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E43: Human Resource Management of Companies in Production in 2000. data sheet. Version: 2009-09-11</dcterms:subject>
+   <dcterms:creator>Tóth, István János</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Economic Sciences Research Center</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>human resource management of companies, human resouce selection strategies, the education level of huma resource and its effect on company efficiency</dcterms:description>
+	<dcterms:subject>labour and employment</dcterms:subject>
+	<dcterms:subject>business/industrial management and organisation</dcterms:subject>
+   <dcterms:subject>2000-06-23  2000-07-17</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>economic organization</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Our initial database contained 1024 companies out of the companies in the regular company prognosis survey of the National Labor Research and Methodology Center conducted at every 6 months. 310 main addresses were randomly selected from this sample. In the place of the dropped out main addresses interviewers defined supplementary addresses based on the number of employees and the economic sector.</dcterms:subject>
+   <dcterms:subject>Telephone interview with the head of the company or a person nominated by the company head.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>304</dcterms:subject>
+   <dcterms:subject>494</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire and documentation</dcterms:subject>
+</entry>

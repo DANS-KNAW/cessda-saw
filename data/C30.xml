@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C30</dcterms:source>
+   <dcterms:title>Drug. Social statistical characteristics and drug consumption habits of Budapest drug users under treatment because of drug overdose 1985-1989.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2010-08-25</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C30: Drug. Social statistical characteristics and drug consumption habits of Budapest drug users under treatment because of drug overdose 1985-1989.. data sheet. Version: 2010-08-25</dcterms:subject>
+   <dcterms:creator>Gerevich, József</dcterms:creator>
+   <dcterms:contributor>Hungarian National Health Institute</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-01-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>socio-statistical features of drug addicts, characteristic features of illegal drug consumption, methods of medical treatment, the social environment of drug addicts</dcterms:description>
+	<dcterms:subject>drug abuse, alcohol and smoking</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+   <dcterms:subject>1985  1989</dcterms:subject>
+   <dcterms:coverage>Budapest</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>administrative records</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>The total population hospitalized for drug consumption by the Medical Accident Ward of Korányi Hospital.</dcterms:subject>
+   <dcterms:subject>Analysis of medical records.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-C28a</dcterms:subject>
+	<dcterms:subject>TDATA-C28b</dcterms:subject>
+	<dcterms:subject>TDATA-C28c</dcterms:subject>
+	<dcterms:subject>TDATA-C28d</dcterms:subject>
+	<dcterms:subject>TDATA-C28e</dcterms:subject>
+	<dcterms:subject>TDATA-C29a</dcterms:subject>
+	<dcterms:subject>TDATA-C29b</dcterms:subject>
+   <dcterms:subject>1587</dcterms:subject>
+   <dcterms:subject>41</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

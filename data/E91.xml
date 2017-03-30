@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-E91</dcterms:source>
+   <dcterms:title>Two-Person Conflicts of Interest in Social Relationships in Hungary 2000</dcterms:title>
+   <dcterms:creator>Dávid, Kriszta</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-E91: Two-Person Conflicts of Interest in Social Relationships in Hungary 2000. data sheet. Version: 2007-01-19</dcterms:subject>
+   <dcterms:creator>Horváth, Andrea</dcterms:creator>
+   <dcterms:contributor>University of Debrecen College Department of Health</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Debrecen College Department of Health</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>everyday problems, and their solutions; how people solve their everyday conflicts when their interest differ from the interests of others</dcterms:description>
+	<dcterms:subject>psychology</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+   <dcterms:subject>1999  2000</dcterms:subject>
+   <dcterms:coverage>Hajdú-Bihar county, Szabolcs-Szatmár-Bereg county</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A representative random sample of 600 persons between 18 and 65 years from the Population Registration Office of the Mayors Office in Nyíregyháza</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>C</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>489</dcterms:subject>
+   <dcterms:subject>337</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+</entry>

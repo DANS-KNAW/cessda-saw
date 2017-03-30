@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-A68</dcterms:source>
+   <dcterms:title>Selection Mechanisms in the Healthcare Institutions in Pásztó 1982. District doctors' data.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-A68: Selection Mechanisms in the Healthcare Institutions in Pásztó 1982. District doctors' data.. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Háber, Judit</dcterms:creator>
+	<dcterms:creator>Szalai, Júlia</dcterms:creator>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Hungarian Academy of Sciences Institute of Sociology</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-02-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>selection mechanisms in health care</dcterms:description>
+	<dcterms:subject>health care and medical treatment</dcterms:subject>
+	<dcterms:subject>health condition</dcterms:subject>
+   <dcterms:subject>1982-03-01  1982-06-30</dcterms:subject>
+   <dcterms:coverage>Pásztó</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>administrative records</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Drawn from panel doctors' patients visiting between March 1 and June 31, 1982.</dcterms:subject>
+   <dcterms:subject>Summary of administrative records.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>TDATA-A52</dcterms:subject>
+   <dcterms:subject>1282</dcterms:subject>
+   <dcterms:subject>88</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

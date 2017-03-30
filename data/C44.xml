@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-C44</dcterms:source>
+   <dcterms:title>Equality of Chances of Social Strata in Civic Jurisdiction in Hungary 1987.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-C44: Equality of Chances of Social Strata in Civic Jurisdiction in Hungary 1987.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Kengyel, Miklós</dcterms:creator>
+   <dcterms:contributor>University of Szeged Faculty of Law</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>University of Szeged</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>access to jurisdiction, equal chances of different social strata in civil jurisdiction, role of legal representation, time and expenses related to civil lawcases, deprived and privileged contesting parties</dcterms:description>
+	<dcterms:subject>equality and inequality</dcterms:subject>
+	<dcterms:subject>law, crime and legal systems</dcterms:subject>
+	<dcterms:subject>law enforcement</dcterms:subject>
+	<dcterms:subject>elections</dcterms:subject>
+	<dcterms:subject>social stratification and groupings</dcterms:subject>
+   <dcterms:subject>1986  1987</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>document</dcterms:subject>
+   <dcterms:subject>administrative records</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Randomly selected 1.5% sample of civil lawcases launched in 1984 and became legally binding by 1986, at 15 courts of justice.</dcterms:subject>
+   <dcterms:subject>Data collection based on the analysis of judicial case records.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>The "N" value of KOVOSSZ = prosecution claim is 9999 All the values of J = allowance, temporary service start with 800000 which should be deducted from real value (e.g.800,90=900HUF). "H" value of ITI0OLD IT20OLD=19.</dcterms:subject>
+   <dcterms:subject>2278</dcterms:subject>
+   <dcterms:subject>106</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

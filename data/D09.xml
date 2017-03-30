@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-D09</dcterms:source>
+   <dcterms:title>TÁRKI - Reforms 1995. The social benefits of the Hungarian adult population and their opinion about the restrictive economic measures.</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-D09: TÁRKI - Reforms 1995. The social benefits of the Hungarian adult population and their opinion about the restrictive economic measures.. data sheet. Version: 2009-04-09</dcterms:subject>
+   <dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:subject>1.1</dcterms:subject>
+   <dcterms:subject>2004-03-00: the labels of the data file are corrected and complemented</dcterms:subject>
+   <dcterms:description>composition of families, social allowances received; how respondents are affected by the planned limitations of parental allowance, childcare allowance and child allowance; questions concerning income tax</dcterms:description>
+	<dcterms:subject>social welfare policy and systems</dcterms:subject>
+	<dcterms:subject>family life, marriage, relationship</dcterms:subject>
+	<dcterms:subject>social behaviour and attitudes</dcterms:subject>
+	<dcterms:subject>income, property and savings</dcterms:subject>
+	<dcterms:subject>economic policy</dcterms:subject>
+   <dcterms:subject>1995-05-01  1995-06-30</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>A 10000-person national representative sample of flats.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>B</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>10270</dcterms:subject>
+   <dcterms:subject>544</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>Hungarian "opinion" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "preparation" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "family support" questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian "family" questionnaire</dcterms:subject>
+	<dcterms:subject>English opinion questionnaire</dcterms:subject>
+	<dcterms:subject>English preparation questionnaire</dcterms:subject>
+	<dcterms:subject>English family support questionnaire</dcterms:subject>
+	<dcterms:subject>English family questionnaire</dcterms:subject>
+</entry>

@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-B74</dcterms:source>
+   <dcterms:title>National Social Science Survey About the Australian Population 1984</dcterms:title>
+   <dcterms:creator>Merkl, Ildikó</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2009-04-09</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-B74: National Social Science Survey About the Australian Population 1984. data sheet. Version: 2009-04-09</dcterms:subject>
+	<dcterms:creator>Cushing, Robert G.</dcterms:creator>
+	<dcterms:creator>Headey, Bruce</dcterms:creator>
+	<dcterms:creator>Kelley, Jonathan</dcterms:creator>
+   <dcterms:contributor>Australian National University</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>respondent's demographical data, social expenditures, governmental expenditures, social and economic expenditures; the respondent's and his/her family's moves, dwelling history, background of moves, spoken languages, parents' job and education; respondent's schools and job, where and with whom he/she lived up to the age 14, job at age 30, present job and income; satisfaction, health and human contacts, politics; sentiments towards political leaders and social groups; religious and moral expenditures; data on marriage and children; society membership, conditions of education</dcterms:description>
+	<dcterms:subject>migration</dcterms:subject>
+	<dcterms:subject>science and technology</dcterms:subject>
+	<dcterms:subject>cultural and national identity</dcterms:subject>
+   <dcterms:subject>1984</dcterms:subject>
+   <dcterms:coverage>Australia</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Two-stage random sample out of the 1981 census sample containing appr. 10000 persons. Only one person aged 18 years or more has been selected from each household.</dcterms:subject>
+   <dcterms:subject>Data collection with questionnaire, administered by interviewers, and self-administered questionnaires.</dcterms:subject>
+   <dcterms:subject>A</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+   <dcterms:subject>3012</dcterms:subject>
+   <dcterms:subject>681</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+</entry>

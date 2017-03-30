@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<entry xmlns="http://www.w3.org/2005/Atom"
+       xmlns:dcterms="http://purl.org/dc/terms/">
+   <dcterms:source>http://www.tarki.hu/cgi-bin/katalogus/tarkimain_en.pl?sorszam=TDATA-F30</dcterms:source>
+   <dcterms:title>TÁRKI First Round 2002. Voting preferences of the adult population before the first round of the 2002 Hungarian Parliamentary elections.</dcterms:title>
+   <dcterms:creator>Zsadányi-Nagy, Csaba</dcterms:creator>
+   <dcterms:bibliographicCitation>TÁRKI Joint Research Center</dcterms:bibliographicCitation>
+   <dcterms:date>2007-01-19</dcterms:date>
+   <dcterms:subject>TÁRKI Joint Research Center  TDATA-F30: TÁRKI First Round 2002. Voting preferences of the adult population before the first round of the 2002 Hungarian Parliamentary elections.. data sheet. Version: 2007-01-19</dcterms:subject>
+	<dcterms:creator>Gazsó, Tibor</dcterms:creator>
+	<dcterms:creator>Kolosi, Tamás</dcterms:creator>
+	<dcterms:creator>Tóth, István György</dcterms:creator>
+   <dcterms:contributor>TÁRKI Social Research Institute Inc.</dcterms:contributor>
+   <dcterms:contributor>TÁRKI Joint Research Center</dcterms:contributor>
+   <dcterms:contributor>Századvég Center for Political Analysis</dcterms:contributor>
+   <dcterms:subject>1.0</dcterms:subject>
+   <dcterms:description>party preferences, voting behavior, voting intentions, evaluation of Prime Minister candidates</dcterms:description>
+	<dcterms:subject>mass political behavior, attitudes</dcterms:subject>
+	<dcterms:subject>political institutions, public administration</dcterms:subject>
+   <dcterms:subject>2002-04-04  2002-04-06</dcterms:subject>
+   <dcterms:coverage>Hungary</dcterms:coverage>
+   <dcterms:subject>person</dcterms:subject>
+   <dcterms:subject>survey data</dcterms:subject>
+   <dcterms:subject>cross-section</dcterms:subject>
+   <dcterms:subject>Multi-stage stratified probability random sample. At the first stage settlement and county strata were prepared. At the second stage a starting point was chosen for the random walking in the selected settlement, then every fourth household was visited. That person was selected who usually spends the least amount of time at home. The data collection is made up of two (a 10000 and a 5000-person) samples which are representative in themselves too.</dcterms:subject>
+   <dcterms:subject>face-to-face interview</dcterms:subject>
+   <dcterms:subject>D (after 2007-05-01: A)</dcterms:subject>
+   <dcterms:rights>Publications based on TÁRKI data collections should acknowledge those sources, primary investigators and depositors.</dcterms:rights>
+	<dcterms:subject>TDATA-D78</dcterms:subject>
+	<dcterms:subject>TDATA-D79</dcterms:subject>
+	<dcterms:subject>TDATA-F31</dcterms:subject>
+	<dcterms:subject>TDATA-F32</dcterms:subject>
+	<dcterms:subject>TDATA-F33</dcterms:subject>
+   <dcterms:subject>15256</dcterms:subject>
+   <dcterms:subject>38</dcterms:subject>
+	<dcterms:subject>SPSS portable datafile</dcterms:subject>
+	<dcterms:subject>other study-related materials:</dcterms:subject>
+	<dcterms:subject>Hungarian questionnaire</dcterms:subject>
+	<dcterms:subject>Hungarian documentation</dcterms:subject>
+	<dcterms:subject>English questionnaire</dcterms:subject>
+</entry>
