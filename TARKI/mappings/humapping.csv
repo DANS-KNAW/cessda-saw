@@ -1,0 +1,27 @@
+the full title of the data collection:	dcterms:title
+the person responsible for archiving the data sheet:	dcterms:creator	
+the organization publishing the data sheet:	dcterms:bibliographicCitation	
+the date of archiving the data sheet:	dcterms:date	
+the bibliographical reference of the data sheet:	
+primary investigator:	dcterms:creator	
+the producer of the data collection:	dcterms:contributor
+the distributor of the data collection:	dcterms:contributor	
+the depositor of the data collection:	dcterms:contributor	
+the version of the data collection:	
+version notes:	
+the abstract of the data collection:	dcterms:description
+keywords:	dcterms:subject	
+the time of the data collection:	dcterms:subject
+the geographical scope of the data collection:	dcterms:coverage	
+the unit of analysis:	
+the kind of data:	
+the time dimension of the data collection:	
+sampling procedure:	
+the mode of data collection:	
+restrictions on data access:	
+citation requirement:	dcterms:rights
+related data collections:	
+notes :	
+case count:	
+variable count:	
+type of file:	
