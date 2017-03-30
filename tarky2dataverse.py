@@ -123,7 +123,7 @@ for inturl in i:
     xmlfile.close()
 
     if PUBLISH:
-        cmd = "curl -u '%s': --data-binary \"@%s\" -H \"Content-Type: application/atom+xml\" %s/dvn/api/data-deposit/v1.1/swordv2/collection/dataverse/tarki" % (token, xmldatafile, host)
+        cmd = "curl -u '%s': --data-binary \"@%s\" -H \"Content-Type: application/atom+xml\" %s/dvn/api/data-deposit/v1.1/swordv2/collection/dataverse/%s -k " % (token, xmldatafile, host, dataversepath)
 	print cmd
         p = Popen(cmd, shell=True, stdin=PIPE, stdout=PIPE, stderr=STDOUT, close_fds=True)
         out, err = p.communicate()
@@ -131,7 +131,7 @@ for inturl in i:
 	if handlestring:
 	    handle = handlestring.group(1)
 	    if handle:
-		cmd = "cat /dev/null | curl -u '%s': -X POST -H \"In-Progress: false\" --data-binary @- %s/dvn/api/data-deposit/v1.1/swordv2/edit/study/%s" % (token, host, handle)
+		cmd = "cat /dev/null | curl -u '%s': -X POST -H \"In-Progress: false\" --data-binary @- %s/dvn/api/data-deposit/v1.1/swordv2/edit/study/%s -k" % (token, host, handle)
 		p = Popen(cmd, shell=True, stdin=PIPE, stdout=PIPE, stderr=STDOUT, close_fds=True)
 		print handle
     time.sleep(1)
